@@ -1,116 +1,97 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import codecs
-#import argparse
-import os, glob
+import os
+import logging
 
-class Console:
-    verbose = False
-
-    @classmethod
-    def l(c, message):
-        print message
-
-    @classmethod
-    def v(c, message):
-        if c.verbose:
-            c.l(message)
-
-    @classmethod
-    def w(c, message):
-        c.v("## Warning ## " + message)
 
 class SubElement:
 
-  def __init__(self, start, end, text):
-    self.timeStart = start
-    self.timeEnd = end
-    self.text = text
+    def __init__(self, start, end, text):
+        self.timeStart = start
+        self.timeEnd = end
+        self.text = text
 
-  def appendLine(self, text):
-    text = text.lstrip().rstrip()
-    if text != '':
-      if self.text != '':
-        self.text += "\n"
-      self.text += text
+    def appendLine(self, text):
+        text = text.lstrip().rstrip()
+        if text != '':
+            if self.text != '':
+                self.text += "\n"
+            self.text += text
 
-  def __repr__(self):
-    return self.text
+    def __repr__(self):
+        return self.text
 
 class AdvancedSubStationAlphaWriter:
 
-  def __init__(self, filename, subElements, regular, italic, size):
-    Console.v('Writing "' + filename + '"')
-    self.fontRegular = regular
-    self.fontItalic = italic
-    self.fontSize = size
-    self.filename = filename
-    self.elements = subElements
-    self.write()
+    def __init__(self, filename, subElements, regular, italic, size):
+        logging.debug('Writing "' + filename + '"')
+        self.fontRegular = regular
+        self.fontItalic = italic
+        self.fontSize = size
+        self.filename = filename
+        self.elements = subElements
+        self.write()
 
-  def write(self):
-    f = open(self.filename, 'w')
-    f.write(codecs.BOM_UTF8)
-    f.write(self.getHeader())
-    for e in self.elements:
-      f.write(self.getLine(e))
-    f.close()
+    def write(self):
+        f = open(self.filename, 'w')
+        f.write(codecs.BOM_UTF8)
+        f.write(self.getHeader())
+        for e in self.elements:
+            f.write(self.getLine(e))
+        f.close()
 
-  def getLine(self, element):
-    start = self.getTime(element.timeStart)
-    end = self.getTime(element.timeEnd)
-    text = element.text.replace("\n", "\\N")
-    font = "Regular"
+    def getLine(self, element):
+        start = self.getTime(element.timeStart)
+        end = self.getTime(element.timeEnd)
+        text = element.text.replace("\n", "\\N")
+        font = "Regular"
 
-    isItalic = text.find('<i>') != -1
-    if isItalic:
-      font = "Italic"
-      text = text.replace("<i>", "").replace("</i>", "")
+        isItalic = text.find('<i>') != -1
+        if isItalic:
+            font = "Italic"
+            text = text.replace("<i>", "").replace("</i>", "")
 
-#    print text
-    import string
-    i1 = string.find(text, '[', 0)
-    i2 = string.find(text, ']',0)
-    lStr1 =  text[ i1 + 1 : i2 ]
-    i1 = string.find(text, '[', i2)
-    i2 = string.find(text, ']',i1)
-    lStr2 =  text[i1 + 1 : i2]
-    
-#    print "%s -> %s " %(lStr1, lStr2)
-    
-#    return "Dialogue: 0,{0},{1},{2},,0000,0000,0000,,{3}\n".format(start, end, font, text)
-    return "Dialogue: 0,{0},{1},{2},,0000,0000,0000,,{3}\nDialogue: 0,{4},{5},{6},,0000,0000,0000,,{7}\n".format(start, end, 'lang1', lStr1,start, end, 'lang2', lStr2)
+    #    print text
+        import string
+        i1 = string.find(text, '[', 0)
+        i2 = string.find(text, ']', 0)
+        lStr1 = text[ i1 + 1 : i2 ]
+        i1 = string.find(text, '[', i2)
+        i2 = string.find(text, ']', i1)
+        lStr2 = text[i1 + 1 : i2]
 
-  def getTime(self, t):
-    ms = t % 1000
-    t = (t - ms) / 1000
-    s = t % 60
-    t = (t - s) / 60
-    m = t % 60
-    h = (t - m) / 60
+        return "Dialogue: 0,{0},{1},{2},,0000,0000,0000,,{3}\nDialogue: 0,{4},{5},{6},,0000,0000,0000,,{7}\n".format(start, end, 'lang1', lStr1, start, end, 'lang2', lStr2)
 
-    ms /= 10
-    return '{0:01}:{1:02}:{2:02}.{3:02}'.format(h, m, s, ms)
+    def getTime(self, t):
+        ms = t % 1000
+        t = (t - ms) / 1000
+        s = t % 60
+        t = (t - s) / 60
+        m = t % 60
+        h = (t - m) / 60
 
-  def getHeader(self):
-    return "[Script Info]\n" \
-        + "ScriptType: V4.00+\n" \
-        + "\n"                   \
-        + "[V4+ Styles]\n"       \
-        + "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n" \
-        + "Style: Regular," + self.fontRegular + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
-        + "Style: Italic," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
-        + "Style: lang1," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,4,20,20,20,0\n" \
-        + "Style: lang2," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
-        + "\n" \
-        + "[Events]\n" \
-        + "Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text\n"
+        ms /= 10
+        return '{0:01}:{1:02}:{2:02}.{3:02}'.format(h, m, s, ms)
+
+    def getHeader(self):
+        return "[Script Info]\n" \
+            + "ScriptType: V4.00+\n" \
+            + "\n"                   \
+            + "[V4+ Styles]\n"       \
+            + "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n" \
+            + "Style: Regular," + self.fontRegular + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
+            + "Style: Italic," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
+            + "Style: lang1," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,4,20,20,20,0\n" \
+            + "Style: lang2," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
+            + "\n" \
+            + "[Events]\n" \
+            + "Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text\n"
 
 class SubRipReader:
 
   def __init__(self, filename):
-    Console.v('Reading "' + filename + '"')
+    logging.debug('Reading "' + filename + '"')
     self.filename = filename
     self.bomLength = 0
     self.encoding = 'utf-8'
@@ -141,13 +122,13 @@ class SubRipReader:
       self.bomLength = 4
 
     if self.bomLength > 0:
-      Console.v('BOM detected! Encoding: ' + self.encoding)
+      logging.debug('BOM detected! Encoding: ' + self.encoding)
     else:
-      Console.v('No BOM found. Using utf-8 as default encoding.')
+      logging.debug('No BOM found. Using utf-8 as default encoding.')
 
   def read(self):
     if not self.read2():
-      Console.v('Fail to read the file with ' + self.encoding + '. Trying iso-8859-1.')
+      logging.debug('Fail to read the file with ' + self.encoding + '. Trying iso-8859-1.')
       self.encoding = 'iso-8859-1'
       self.read2()
 
@@ -180,9 +161,9 @@ class SubRipReader:
         el.timeEnd = self.parseTime(times[1])
       elif nextCountReady and l.isdigit():
         count += 1
-        Console.v("Reading SRT # " + l + "\r")
+        logging.debug("Reading SRT # " + l + "\r")
         if int(l) != count:
-          Console.w("Bad SRT number! Found: #" + l + ", but should be #" + count)
+          logging.warning("Bad SRT number! Found: #" + l + ", but should be #" + count)
         if el != None:
           if el.text == '':
             emptySub.append(count - 1)
@@ -207,8 +188,8 @@ class SubRipReader:
     if (el != None):
       self.elements.append(el)
 
-    Console.v('Parsing complete: ' + str(len(self.elements)) + ' subtitles found!')
-    Console.v(str(len(emptySub)) + ' subtitles were empty: ' + str(emptySub))
+    logging.debug('Parsing complete: ' + str(len(self.elements)) + ' subtitles found!')
+    logging.debug(str(len(emptySub)) + ' subtitles were empty: ' + str(emptySub))
 
   def parseTime(self, time):
     r1 = time.split(":")
@@ -224,13 +205,13 @@ class SubRipReader:
 
 class Srt2Ass:
 
-  def __init__(self, srt, fregular, fitalic, fsize, delete):
-    ass = srt.replace('.srt', '.ass')
-    subs = SubRipReader(srt)
-    AdvancedSubStationAlphaWriter(ass, subs.elements, fregular, fitalic, fsize)
-    if delete:
-        Console.l("Removing " + srt + "…")
-        os.remove(srt)
+    def __init__(self, srt, fregular, fitalic, fsize, delete, ass):
+    #    ass = srt.replace('.srt', '.ass')
+        subs = SubRipReader(srt)
+        AdvancedSubStationAlphaWriter(ass, subs.elements, fregular, fitalic, fsize)
+        if delete:
+            logging.debug("Removing " + srt + "…")
+            os.remove(srt)
 
 '''
 if __name__ == "__main__":
