@@ -82,7 +82,7 @@ class AdvancedSubStationAlphaWriter:
             + "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n" \
             + "Style: Regular," + self.fontRegular + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
             + "Style: Italic," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
-            + "Style: lang1," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,4,20,20,20,0\n" \
+            + "Style: lang1," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,8,20,20,20,0\n" \
             + "Style: lang2," + self.fontItalic + "," + self.fontSize + ",&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1,1,2,20,20,20,0\n" \
             + "\n" \
             + "[Events]\n" \
