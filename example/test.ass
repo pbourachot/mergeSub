@@ -1,0 +1,1352 @@
+[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+Timer: 100,0000
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: One,Arial,16,16383999,16777215,0,0,0,0,0,0,100,100,0,0.0,1,2,0,2,10,10,10,0
+Style: Two,Arial,16,16383999,16777215,10877210,0,0,0,0,0,100,100,0,0.0,1,2,0,8,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.64,0:00:07.57,Two,,0000,0000,0000,,UNE SÉRIE ORIGINALE NETFLIX
+Dialogue: 0,0:00:10.44,0:00:13.82,Two,,0000,0000,0000,,Éteignez vos télés
+Dialogue: 0,0:00:10.75,0:00:14.29,One,,0000,0000,0000,,♪ Look away, look away ♪
+Dialogue: 0,0:00:14.37,0:00:18.16,One,,0000,0000,0000,,♪ Look away, look away ♪
+Dialogue: 0,0:00:17.77,0:00:21.27,Two,,0000,0000,0000,,Cette s&eacute;rie va vous g&acirc;cher\NVos journ&eacute;es, vos soir&eacute;es
+Dialogue: 0,0:00:18.25,0:00:21.75,One,,0000,0000,0000,,♪ This show will wreck your evening\NYour whole life and your day ♪
+Dialogue: 0,0:00:21.36,0:00:24.94,Two,,0000,0000,0000,,Chaque &eacute;pisode visionn&eacute;\NVous fera d&eacute;primer
+Dialogue: 0,0:00:21.83,0:00:25.41,One,,0000,0000,0000,,♪ Every single episode\NIs nothing but dismay ♪
+Dialogue: 0,0:00:25.02,0:00:30.11,Two,,0000,0000,0000,,Faut s'r&eacute;signer\NEt &eacute;teindre vos t&eacute;l&eacute;s
+Dialogue: 0,0:00:25.50,0:00:30.62,One,,0000,0000,0000,,♪ So look away\NLook away, look away ♪
+Dialogue: 0,0:00:30.23,0:00:33.27,Two,,0000,0000,0000,,Les Baudelaire ont un tuteur\NQui ne pense qu'aux serpents
+Dialogue: 0,0:00:30.70,0:00:33.75,One,,0000,0000,0000,,♪ The Baudelaires are living\NWith a man who studies snakes ♪
+Dialogue: 0,0:00:33.36,0:00:37.07,Two,,0000,0000,0000,,Myst&eacute;rieux mais toujours content\NIl adore les enfants
+Dialogue: 0,0:00:33.83,0:00:37.54,One,,0000,0000,0000,,♪ He's jolly and he's secretive\NAnd makes a few mistakes ♪
+Dialogue: 0,0:00:37.19,0:00:40.15,Two,,0000,0000,0000,,Pour tout vous dire\NAvant la fin, quelqu'un va mourir
+Dialogue: 0,0:00:37.62,0:00:40.62,One,,0000,0000,0000,,♪ Spoiler alert\NA villain comes to steal and murder ♪
+Dialogue: 0,0:00:40.23,0:00:44.73,Two,,0000,0000,0000,,La suite sera pire, alors sans rire\NVous devriez d&eacute;guerpir
+Dialogue: 0,0:00:40.70,0:00:45.20,One,,0000,0000,0000,,♪ And so if I were you\NI wouldn't even watch one minute further ♪
+Dialogue: 0,0:00:44.82,0:00:49.23,Two,,0000,0000,0000,,Vite, &eacute;teignez vos t&eacute;l&eacute;s
+Dialogue: 0,0:00:45.29,0:00:49.70,One,,0000,0000,0000,,♪ Just look away, look away ♪
+Dialogue: 0,0:00:49.32,0:00:52.90,Two,,0000,0000,0000,,Vous allez sangloter\NCrier, hurler comme des b&eacute;b&eacute;s
+Dialogue: 0,0:00:49.79,0:00:53.37,One,,0000,0000,0000,,♪ There's nothing but horror\NAnd inconvenience on the way ♪
+Dialogue: 0,0:00:52.98,0:00:56.07,Two,,0000,0000,0000,,Si jamais vous insistez\NVous allez nous d&eacute;tester
+Dialogue: 0,0:00:53.45,0:00:56.54,One,,0000,0000,0000,,♪ Ask any stable person "Should I watch?"\NAnd they will say ♪
+Dialogue: 0,0:00:56.15,0:01:00.86,Two,,0000,0000,0000,,Renoncez et allez vous coucher
+Dialogue: 0,0:00:56.62,0:01:01.33,One,,0000,0000,0000,,♪ Look away, look away, look away ♪
+Dialogue: 0,0:01:00.94,0:01:04.73,Two,,0000,0000,0000,,Éteignez vos télés
+Dialogue: 0,0:01:01.41,0:01:05.20,One,,0000,0000,0000,,♪ Look away, look away ♪
+Dialogue: 0,0:01:04.82,0:01:06.82,Two,,0000,0000,0000,,ADAPTÉE DES ROMANS\NDE LEMONY SNICKET
+Dialogue: 0,0:01:05.29,0:01:08.75,One,,0000,0000,0000,,♪ Look away, look away ♪
+Dialogue: 0,0:01:08.83,0:01:12.95,One,,0000,0000,0000,,♪ Look away, look away ♪
+Dialogue: 0,0:01:14.15,0:01:18.07,Two,,0000,0000,0000,,LE LABORATOIRE AUX SERPENTS :\NPARTIE 2
+Dialogue: 0,0:01:22.02,0:01:23.48,Two,,0000,0000,0000,,Aucun mot ne peut d&eacute;crire
+Dialogue: 0,0:01:22.50,0:01:24.70,One,,0000,0000,0000,,There's no word\Nto describe the feeling of waking up
+Dialogue: 0,0:01:23.57,0:01:27.36,Two,,0000,0000,0000,,la sensation &eacute;prouv&eacute;e au r&eacute;veil \Nquand on sait que quelque chose ne va pas.
+Dialogue: 0,0:01:24.79,0:01:27.83,One,,0000,0000,0000,,and knowing instantly\Nthat something is terribly wrong.
+Dialogue: 0,0:01:27.44,0:01:30.11,Two,,0000,0000,0000,,S'il en existait un,\Nles Baudelaire l'auraient employ&eacute;
+Dialogue: 0,0:01:27.91,0:01:30.37,One,,0000,0000,0000,,If there were, the Baudelaires\Nwould have used that word
+Dialogue: 0,0:01:30.19,0:01:32.44,Two,,0000,0000,0000,,en d&eacute;couvrant\Nque l'aube les avait r&eacute;veill&eacute;s,
+Dialogue: 0,0:01:30.45,0:01:32.91,One,,0000,0000,0000,,when they rose to find\Ndawn had awoken them,
+Dialogue: 0,0:01:32.52,0:01:34.40,Two,,0000,0000,0000,,et non leur oncle Monty.
+Dialogue: 0,0:01:33.00,0:01:34.87,One,,0000,0000,0000,,and their Uncle Monty had not.
+Dialogue: 0,0:01:49.27,0:01:51.57,Two,,0000,0000,0000,,- Oncle Monty ?\N- Monty ?
+Dialogue: 0,0:01:49.75,0:01:52.04,One,,0000,0000,0000,,- Uncle Monty?\N- Monty?
+Dialogue: 0,0:01:59.32,0:02:01.19,Two,,0000,0000,0000,,- Oncle Monty ?\N- Tu es l&agrave; ?
+Dialogue: 0,0:01:59.79,0:02:01.66,One,,0000,0000,0000,,- Uncle Monty?\N- Are you in here?
+Dialogue: 0,0:02:12.27,0:02:14.73,Two,,0000,0000,0000,,On sait tous\Nque notre temps sur Terre est limit&eacute;.
+Dialogue: 0,0:02:12.75,0:02:15.20,One,,0000,0000,0000,,We all know that\Nour time in this world is limited,
+Dialogue: 0,0:02:14.82,0:02:17.65,Two,,0000,0000,0000,,On finira tous par s'endormir\Net ne jamais se r&eacute;veiller.
+Dialogue: 0,0:02:15.29,0:02:18.12,One,,0000,0000,0000,,and that eventually all of us\Nwill go to sleep, never to wake up.
+Dialogue: 0,0:02:23.73,0:02:24.73,Two,,0000,0000,0000,,Monty...
+Dialogue: 0,0:02:24.20,0:02:25.20,One,,0000,0000,0000,,Monty...
+Dialogue: 0,0:02:24.82,0:02:27.52,Two,,0000,0000,0000,,&Ccedil;a n'a pas chang&eacute;\Nce que ressentaient les Baudelaire
+Dialogue: 0,0:02:25.29,0:02:27.83,One,,0000,0000,0000,,But that didn't change\Nhow the Baudelaires felt that morning
+Dialogue: 0,0:02:27.61,0:02:30.65,Two,,0000,0000,0000,,dans le laboratoire que leur oncle\Navait rempli de sp&eacute;cimens,
+Dialogue: 0,0:02:27.91,0:02:31.12,One,,0000,0000,0000,,in the room their uncle\Nhad filled so carefully with specimens,
+Dialogue: 0,0:02:30.73,0:02:34.52,Two,,0000,0000,0000,,et dans lequel il en &eacute;tait d&eacute;sormais un.
+Dialogue: 0,0:02:31.20,0:02:35.00,One,,0000,0000,0000,,and in which he was now\Na sort of specimen himself.
+Dialogue: 0,0:02:34.61,0:02:38.23,Two,,0000,0000,0000,,- Comment &ccedil;a a pu arriver ?\N- Nous le savons bien.
+Dialogue: 0,0:02:35.08,0:02:36.58,One,,0000,0000,0000,,How could this happen?
+Dialogue: 0,0:02:36.66,0:02:38.70,One,,0000,0000,0000,,We know exactly how this happened.
+Dialogue: 0,0:02:39.19,0:02:43.65,Two,,0000,0000,0000,,Mince alors !
+Dialogue: 0,0:02:39.66,0:02:44.12,One,,0000,0000,0000,,My, my, my, my, my.
+Dialogue: 0,0:02:43.73,0:02:45.27,Two,,0000,0000,0000,,Quel tragique accident !
+Dialogue: 0,0:02:44.20,0:02:49.08,One,,0000,0000,0000,,What a terrible accident.\NWhoever discovers this will be very upset.
+Dialogue: 0,0:02:45.82,0:02:49.02,Two,,0000,0000,0000,,Une telle d&eacute;couverte doit faire\Nun sacr&eacute; choc.
+Dialogue: 0,0:02:49.11,0:02:52.48,Two,,0000,0000,0000,,"Car quels r&ecirc;ves peut-il nous venir\Ndans ce sommeil de la mort ?"
+Dialogue: 0,0:02:49.58,0:02:52.95,One,,0000,0000,0000,,"For in that sleep of death\Nwhat dreams may come."
+Dialogue: 0,0:02:52.57,0:02:53.77,Two,,0000,0000,0000,,Vous l'avez tu&eacute;.
+Dialogue: 0,0:02:53.04,0:02:54.25,One,,0000,0000,0000,,You murdered him.
+Dialogue: 0,0:02:53.86,0:02:56.73,Two,,0000,0000,0000,,Klaus, je suis &eacute;tonn&eacute;.
+Dialogue: 0,0:02:54.33,0:02:57.20,One,,0000,0000,0000,,Why, Klaus, I'm surprised.
+Dialogue: 0,0:02:56.82,0:03:00.40,Two,,0000,0000,0000,,Un petit malin comme toi\Ndevrait comprendre
+Dialogue: 0,0:02:57.29,0:03:00.87,One,,0000,0000,0000,,A smarty-pants boy like you\Nought to be able to figure out that
+Dialogue: 0,0:03:00.48,0:03:05.02,Two,,0000,0000,0000,,que ce bon vieil oncle Monty\Na &eacute;t&eacute; mordu par un serpent, pas assassin&eacute;.
+Dialogue: 0,0:03:00.95,0:03:05.50,One,,0000,0000,0000,,jolly old Uncle Monty died\Nfrom a snakebite, not murder.
+Dialogue: 0,0:03:05.11,0:03:07.19,Two,,0000,0000,0000,,Regarde les morsures sur sa joue.
+Dialogue: 0,0:03:05.58,0:03:07.66,One,,0000,0000,0000,,Look at the teeth marks on his cheek.
+Dialogue: 0,0:03:07.27,0:03:11.36,Two,,0000,0000,0000,,Regarde son visage froid et p&acirc;le.
+Dialogue: 0,0:03:07.75,0:03:11.83,One,,0000,0000,0000,,Look at his cold, waxy face.
+Dialogue: 0,0:03:11.44,0:03:13.61,Two,,0000,0000,0000,,- Ses yeux fig&eacute;s.\N- Arr&ecirc;tez !
+Dialogue: 0,0:03:11.91,0:03:14.08,One,,0000,0000,0000,,- Look at his unblinking eyes.\N- Stop it!
+Dialogue: 0,0:03:13.69,0:03:15.19,Two,,0000,0000,0000,,Arr&ecirc;tez de parler comme &ccedil;a.
+Dialogue: 0,0:03:14.16,0:03:15.66,One,,0000,0000,0000,,Stop talking like that.
+Dialogue: 0,0:03:15.27,0:03:18.15,Two,,0000,0000,0000,,Tu as raison. Assez bavard&eacute;.
+Dialogue: 0,0:03:15.75,0:03:18.62,One,,0000,0000,0000,,You're right.\NThere's no time for chitchat.
+Dialogue: 0,0:03:18.23,0:03:19.44,Two,,0000,0000,0000,,On a un bateau &agrave; prendre.
+Dialogue: 0,0:03:18.70,0:03:19.91,One,,0000,0000,0000,,We have a ship to catch
+Dialogue: 0,0:03:19.52,0:03:22.69,Two,,0000,0000,0000,,Je veux embarquer &agrave; l'heure\Npour avoir du vin avant le d&eacute;jeuner.
+Dialogue: 0,0:03:20.00,0:03:23.16,One,,0000,0000,0000,,and I'd like to board in time\Nto have a bottle of wine before lunch.
+Dialogue: 0,0:03:24.44,0:03:27.19,Two,,0000,0000,0000,,On part pour le P&eacute;rou.
+Dialogue: 0,0:03:24.91,0:03:27.66,One,,0000,0000,0000,,Peru. We're going to Peru.
+Dialogue: 0,0:03:27.27,0:03:29.69,Two,,0000,0000,0000,,On ne vous suivrait pas\Nau bout de l'all&eacute;e,
+Dialogue: 0,0:03:27.75,0:03:29.87,One,,0000,0000,0000,,We wouldn't go\Nto the end of the driveway with you,
+Dialogue: 0,0:03:29.77,0:03:31.48,Two,,0000,0000,0000,,alors n'y comptez pas !
+Dialogue: 0,0:03:29.95,0:03:31.95,One,,0000,0000,0000,,much less international waters.
+Dialogue: 0,0:03:31.57,0:03:35.23,Two,,0000,0000,0000,,Je vais devoir\Nporter mes propres valises.
+Dialogue: 0,0:03:32.04,0:03:35.70,One,,0000,0000,0000,,Well, then I guess I'll have to\Ntake my own luggage.
+Dialogue: 0,0:03:39.82,0:03:40.69,Two,,0000,0000,0000,,Prunille !
+Dialogue: 0,0:03:40.29,0:03:41.66,One,,0000,0000,0000,,Sunny!
+Dialogue: 0,0:03:41.27,0:03:43.86,Two,,0000,0000,0000,,- Laissez-la sortir.\N- Elle ne peut pas respirer.
+Dialogue: 0,0:03:41.75,0:03:44.29,One,,0000,0000,0000,,- Let her out this instant.\N- She won't be able to breathe.
+Dialogue: 0,0:03:43.94,0:03:45.82,Two,,0000,0000,0000,,J'en ai marre de tout vous expliquer.
+Dialogue: 0,0:03:44.37,0:03:46.29,One,,0000,0000,0000,,I'm so tired of having to explain\Neverything to you.
+Dialogue: 0,0:03:45.90,0:03:47.36,Two,,0000,0000,0000,,Vous &ecirc;tes cens&eacute;s &ecirc;tre malins,
+Dialogue: 0,0:03:46.37,0:03:47.83,One,,0000,0000,0000,,You're supposed to be so smart,
+Dialogue: 0,0:03:47.44,0:03:50.07,Two,,0000,0000,0000,,mais vous oubliez constamment ceci.
+Dialogue: 0,0:03:47.91,0:03:50.54,One,,0000,0000,0000,,and yet you persistently seem\Nto forget about this.
+Dialogue: 0,0:03:53.02,0:03:55.36,Two,,0000,0000,0000,,Je vais faire des trous\Npour qu'elle respire.
+Dialogue: 0,0:03:53.50,0:03:55.41,One,,0000,0000,0000,,I'll leave some breathing holes for her.
+Dialogue: 0,0:03:55.44,0:03:56.57,Two,,0000,0000,0000,,- Non !\N- Arr&ecirc;tez !
+Dialogue: 0,0:03:55.91,0:03:57.04,One,,0000,0000,0000,,- No!\N- Stop!
+Dialogue: 0,0:03:56.65,0:04:00.07,Two,,0000,0000,0000,,Je plaisante. Elle n'est pas\Ndans cette valise. Enfin, je crois.
+Dialogue: 0,0:03:57.12,0:04:00.54,One,,0000,0000,0000,,I'm kidding. That's not\Nthe suitcase she's in. I don't think.
+Dialogue: 0,0:04:00.15,0:04:01.57,Two,,0000,0000,0000,,Ne lui faites pas de mal.
+Dialogue: 0,0:04:00.62,0:04:02.04,One,,0000,0000,0000,,Please don't hurt her.
+Dialogue: 0,0:04:01.65,0:04:04.07,Two,,0000,0000,0000,,Alors, montez dans la voiture.
+Dialogue: 0,0:04:02.12,0:04:04.54,One,,0000,0000,0000,,Then get in the car.
+Dialogue: 0,0:04:17.94,0:04:20.15,Two,,0000,0000,0000,,Tout &ccedil;a, c'est votre faute.
+Dialogue: 0,0:04:18.91,0:04:20.62,One,,0000,0000,0000,,Really, there's no one to blame\Nbut yourselves.
+Dialogue: 0,0:04:20.23,0:04:23.61,Two,,0000,0000,0000,,Si vous ne m'aviez pas abandonn&eacute;\Nau cin&eacute;ma, je n'aurais pas tu&eacute; Monty.
+Dialogue: 0,0:04:20.70,0:04:22.91,One,,0000,0000,0000,,If you hadn't stranded me at the movies,
+Dialogue: 0,0:04:23.00,0:04:25.54,One,,0000,0000,0000,,I wouldn't have had to kill Monty\Nand we'd all be on our way to Peru,
+Dialogue: 0,0:04:23.69,0:04:27.15,Two,,0000,0000,0000,,On serait tous en route pour le P&eacute;rou,\No&ugrave; j'aurais eu &agrave; tuer Monty.
+Dialogue: 0,0:04:25.62,0:04:27.62,One,,0000,0000,0000,,where I would have had to kill Monty.
+Dialogue: 0,0:04:27.23,0:04:29.32,Two,,0000,0000,0000,,Je d&eacute;teste les bo&icirc;tes manuelles.
+Dialogue: 0,0:04:27.70,0:04:29.79,One,,0000,0000,0000,,God, I hate driving stick.
+Dialogue: 0,0:04:29.40,0:04:30.77,Two,,0000,0000,0000,,Vous allez le laisser l&agrave; ?
+Dialogue: 0,0:04:29.87,0:04:31.25,One,,0000,0000,0000,,You're just gonna leave him there?
+Dialogue: 0,0:04:30.86,0:04:32.77,Two,,0000,0000,0000,,Crois-moi, il s'en fiche.
+Dialogue: 0,0:04:31.33,0:04:33.25,One,,0000,0000,0000,,Trust me, he doesn't mind.
+Dialogue: 0,0:04:32.86,0:04:36.48,Two,,0000,0000,0000,,Quand ils d&eacute;couvriront qu'il est mort,\Nvous serez d&eacute;j&agrave; loin,
+Dialogue: 0,0:04:33.33,0:04:36.95,One,,0000,0000,0000,,Of course, after they discover he's dead,\Nyou'll be long gone,
+Dialogue: 0,0:04:36.57,0:04:40.23,Two,,0000,0000,0000,,et je profiterai\Ndes droits de tutelle laxistes du P&eacute;rou.
+Dialogue: 0,0:04:37.04,0:04:40.70,One,,0000,0000,0000,,and I'll be taking advantage of\NPeru's extremely lax guardianship laws.
+Dialogue: 0,0:04:40.32,0:04:42.69,Two,,0000,0000,0000,,Pourquoi ne... C'est bon.
+Dialogue: 0,0:04:40.79,0:04:43.16,One,,0000,0000,0000,,Why won't...\NThere we go.
+Dialogue: 0,0:04:45.27,0:04:48.07,Two,,0000,0000,0000,,Vous ne pouvez pas\Nnous faire quitter le pays.
+Dialogue: 0,0:04:46.25,0:04:47.75,One,,0000,0000,0000,,You can't take us out of the country.
+Dialogue: 0,0:04:48.15,0:04:49.07,Two,,0000,0000,0000,,Pas vrai ?
+Dialogue: 0,0:04:48.45,0:04:49.45,One,,0000,0000,0000,,Can he?
+Dialogue: 0,0:04:49.69,0:04:51.77,Two,,0000,0000,0000,,Et qui va m'en emp&ecirc;cher ?
+Dialogue: 0,0:04:50.04,0:04:52.25,One,,0000,0000,0000,,And who's going to stop me?
+Dialogue: 0,0:04:52.27,0:04:53.27,Two,,0000,0000,0000,,Attention !
+Dialogue: 0,0:04:52.33,0:04:54.66,One,,0000,0000,0000,,Look out!
+Dialogue: 0,0:05:04.48,0:05:07.82,Two,,0000,0000,0000,,Il est rare qu'un accident soit\Nune aventure enviable.
+Dialogue: 0,0:05:04.95,0:05:08.37,One,,0000,0000,0000,,It's extremely rare for an accident\Nto be a fortunate event.
+Dialogue: 0,0:05:07.90,0:05:09.52,Two,,0000,0000,0000,,Heureusement pour les Baudelaire...
+Dialogue: 0,0:05:08.45,0:05:10.00,One,,0000,0000,0000,,Luckily for the Baudelaires...
+Dialogue: 0,0:05:09.61,0:05:12.69,Two,,0000,0000,0000,,Par les feux de l'Enfer !
+Dialogue: 0,0:05:10.08,0:05:13.16,One,,0000,0000,0000,,Blasted furnaces of hell!
+Dialogue: 0,0:05:12.77,0:05:15.44,Two,,0000,0000,0000,,...cette fois-ci, c'en &eacute;tait une.
+Dialogue: 0,0:05:13.25,0:05:15.91,One,,0000,0000,0000,,...this was one of those times.
+Dialogue: 0,0:05:15.52,0:05:18.77,Two,,0000,0000,0000,,Pourquoi fonciez-vous\Ndans l'all&eacute;e comme un fou ?
+Dialogue: 0,0:05:16.00,0:05:17.12,One,,0000,0000,0000,,What were you thinking,
+Dialogue: 0,0:05:17.20,0:05:19.20,One,,0000,0000,0000,,careening down that driveway\Nlike a maniac?
+Dialogue: 0,0:05:18.86,0:05:20.73,Two,,0000,0000,0000,,Je roulais &agrave; une vitesse normale.
+Dialogue: 0,0:05:19.29,0:05:21.20,One,,0000,0000,0000,,Me?\NI was driving well below the speed limit.
+Dialogue: 0,0:05:20.82,0:05:22.69,Two,,0000,0000,0000,,- M. Poe.\N- Violette Baudelaire ?
+Dialogue: 0,0:05:21.29,0:05:23.16,One,,0000,0000,0000,,- Mr. Poe.\N- Violet Baudelaire?
+Dialogue: 0,0:05:22.77,0:05:23.86,Two,,0000,0000,0000,,Merci pour l'accident.
+Dialogue: 0,0:05:23.25,0:05:25.33,One,,0000,0000,0000,,- I'm so grateful you ran into us.\N- Well, I wouldn't say that.
+Dialogue: 0,0:05:23.94,0:05:26.73,Two,,0000,0000,0000,,&Ccedil;a aurait pu &ecirc;tre pire.\NL'autre conducteur est en faute.
+Dialogue: 0,0:05:25.41,0:05:27.20,One,,0000,0000,0000,,It was clearly the fault\Nof the other driver.
+Dialogue: 0,0:05:26.82,0:05:28.48,Two,,0000,0000,0000,,Je n'ai jamais...
+Dialogue: 0,0:05:27.29,0:05:30.04,One,,0000,0000,0000,,I never...
+Dialogue: 0,0:05:29.65,0:05:33.94,Two,,0000,0000,0000,,Vous n'&eacute;tiez pas trois ? Voil&agrave; le b&eacute;b&eacute;.\NVous n'&ecirc;tes pas le Pr Montgomery.
+Dialogue: 0,0:05:30.12,0:05:32.91,One,,0000,0000,0000,,I thought there were three of you.\NAh, there's the baby.
+Dialogue: 0,0:05:33.00,0:05:34.41,One,,0000,0000,0000,,You're not Dr. Montgomery.
+Dialogue: 0,0:05:34.50,0:05:37.25,One,,0000,0000,0000,,My spleen!
+Dialogue: 0,0:05:34.90,0:05:36.77,Two,,0000,0000,0000,,Ma rate !
+Dialogue: 0,0:05:36.86,0:05:39.40,Two,,0000,0000,0000,,Vous l'avez perfor&eacute;e.
+Dialogue: 0,0:05:37.33,0:05:41.16,One,,0000,0000,0000,,I think you've ruptured him.
+Dialogue: 0,0:05:43.77,0:05:46.44,Two,,0000,0000,0000,,Bonjour, je suis Stephano,
+Dialogue: 0,0:05:44.25,0:05:46.91,One,,0000,0000,0000,,Hello, my name is Stephano.
+Dialogue: 0,0:05:46.52,0:05:49.90,Two,,0000,0000,0000,,le nouvel assistant\Ndu Pr Montgomery Montgomery.
+Dialogue: 0,0:05:47.00,0:05:50.37,One,,0000,0000,0000,,I'm Dr. Montgomery Montgomery's\Nnew assistant.
+Dialogue: 0,0:05:49.98,0:05:53.90,Two,,0000,0000,0000,,Enfin, je l'&eacute;tais.\NJe ne trouve pas les mots.
+Dialogue: 0,0:05:50.45,0:05:54.37,One,,0000,0000,0000,,I mean, I was. I mean...\NI don't know how to say it.
+Dialogue: 0,0:05:53.98,0:05:55.94,Two,,0000,0000,0000,,- Oncle Monty est mort.\N- Les voil&agrave;.
+Dialogue: 0,0:05:54.45,0:05:56.41,One,,0000,0000,0000,,- Uncle Monty's dead.\N- That's how to say it.
+Dialogue: 0,0:05:56.02,0:05:59.27,Two,,0000,0000,0000,,Il est mort ? C'est affreux ?\NComment est-ce arriv&eacute; ?
+Dialogue: 0,0:05:56.50,0:05:59.75,One,,0000,0000,0000,,He's dead? But that... That's terrible.\NHow did it happen?
+Dialogue: 0,0:05:59.36,0:06:00.98,Two,,0000,0000,0000,,Une morsure de serpent.
+Dialogue: 0,0:05:59.83,0:06:01.45,One,,0000,0000,0000,,He was bitten by a snake.
+Dialogue: 0,0:06:01.07,0:06:03.15,Two,,0000,0000,0000,,On allait chercher un m&eacute;decin l&eacute;giste.
+Dialogue: 0,0:06:01.54,0:06:04.00,One,,0000,0000,0000,,I was on my way now to get the coroner.
+Dialogue: 0,0:06:03.23,0:06:05.57,Two,,0000,0000,0000,,Les enfants &eacute;taient trop secou&eacute;s\Npour rester seuls.
+Dialogue: 0,0:06:04.08,0:06:06.04,One,,0000,0000,0000,,The children were too hysterical\Nto be left here alone.
+Dialogue: 0,0:06:05.65,0:06:08.23,Two,,0000,0000,0000,,C'est faux. Il nous emmenait au P&eacute;rou.
+Dialogue: 0,0:06:06.12,0:06:08.70,One,,0000,0000,0000,,He wasn't taking us to a coroner.\NHe was taking us to Peru.
+Dialogue: 0,0:06:08.32,0:06:11.27,Two,,0000,0000,0000,,Quoi ? Vous voyez ? Trop secou&eacute;s.
+Dialogue: 0,0:06:08.79,0:06:11.75,One,,0000,0000,0000,,What? Wha...? See? Hysterical.
+Dialogue: 0,0:06:11.36,0:06:15.65,Two,,0000,0000,0000,,Non. Les enfants doivent confondre.\NIls y allaient avec le Pr Montgomery.
+Dialogue: 0,0:06:11.83,0:06:16.12,One,,0000,0000,0000,,No, the children must be confused.\NDr. Montgomery was taking them to Peru.
+Dialogue: 0,0:06:15.73,0:06:19.94,Two,,0000,0000,0000,,Il m'a appel&eacute; hier soir en insistant\Npour que je modifie mon itin&eacute;raire matinal
+Dialogue: 0,0:06:16.20,0:06:19.04,One,,0000,0000,0000,,Last night he called me\Nto insist on me rearranging
+Dialogue: 0,0:06:19.12,0:06:22.08,One,,0000,0000,0000,,my morning itinerary\Nto bring them these passports.
+Dialogue: 0,0:06:20.02,0:06:21.73,Two,,0000,0000,0000,,afin d'apporter ces passeports.
+Dialogue: 0,0:06:21.82,0:06:23.07,Two,,0000,0000,0000,,Il m'a dit de les prendre.
+Dialogue: 0,0:06:22.16,0:06:23.54,One,,0000,0000,0000,,He'd want me to have them.
+Dialogue: 0,0:06:23.15,0:06:25.69,Two,,0000,0000,0000,,Vous ne voyez pas, M. Poe ?\NC'est le comte Olaf.
+Dialogue: 0,0:06:23.62,0:06:26.16,One,,0000,0000,0000,,Can't you see, Mr. Poe?\NThat's Count Olaf.
+Dialogue: 0,0:06:25.77,0:06:28.02,Two,,0000,0000,0000,,Il s'est d&eacute;guis&eacute;\Net essaie de nous enlever.
+Dialogue: 0,0:06:26.25,0:06:28.50,One,,0000,0000,0000,,He's in disguise\Nand he's trying to take us away.
+Dialogue: 0,0:06:28.11,0:06:30.90,Two,,0000,0000,0000,,Qui suis-je ? Qu'est-ce que je fais ?
+Dialogue: 0,0:06:28.58,0:06:31.00,One,,0000,0000,0000,,Who am I? What am I doing?
+Dialogue: 0,0:06:30.98,0:06:33.90,Two,,0000,0000,0000,,Ah, l'imagination d&eacute;bordante des enfants !
+Dialogue: 0,0:06:31.08,0:06:34.37,One,,0000,0000,0000,,Don't you miss\Nthe vivid imagination of childhood?
+Dialogue: 0,0:06:33.98,0:06:36.77,Two,,0000,0000,0000,,- Je n'en ai jamais eu.\N- D'imagination ou d'enfants ?
+Dialogue: 0,0:06:34.45,0:06:37.25,One,,0000,0000,0000,,- I never had one.\N- An imagination or a childhood?
+Dialogue: 0,0:06:38.48,0:06:41.07,Two,,0000,0000,0000,,La mort de votre oncle\Na d&ucirc; vous bouleverser.
+Dialogue: 0,0:06:38.95,0:06:41.54,One,,0000,0000,0000,,Children, you must be very distraught\Nabout losing your uncle.
+Dialogue: 0,0:06:41.15,0:06:45.19,Two,,0000,0000,0000,,Le comte Olaf est un homme horrible\Nqui a essay&eacute; de voler leur fortune.
+Dialogue: 0,0:06:41.62,0:06:45.66,One,,0000,0000,0000,,Count Olaf is a terrible man\Nwho tried to steal their fortune.
+Dialogue: 0,0:06:45.27,0:06:46.48,Two,,0000,0000,0000,,- Vraiment ?\N- Oui.
+Dialogue: 0,0:06:45.75,0:06:46.95,One,,0000,0000,0000,,- Really?\N- Yes.
+Dialogue: 0,0:06:46.57,0:06:48.57,Two,,0000,0000,0000,,Est-ce que je ressemble &agrave; ce comte ?
+Dialogue: 0,0:06:47.04,0:06:49.04,One,,0000,0000,0000,,And do I look\Nanything like this Count Olaf?
+Dialogue: 0,0:06:48.65,0:06:49.61,Two,,0000,0000,0000,,Pas du tout.
+Dialogue: 0,0:06:49.12,0:06:50.62,One,,0000,0000,0000,,No, you don't.
+Dialogue: 0,0:06:49.69,0:06:53.11,Two,,0000,0000,0000,,Il a un long sourcil\Net une barbe tr&egrave;s courte.
+Dialogue: 0,0:06:50.70,0:06:53.58,One,,0000,0000,0000,,Count Olaf has one long eyebrow\Nand he has a very short beard.
+Dialogue: 0,0:06:53.19,0:06:54.69,Two,,0000,0000,0000,,Vous avez une longue barbe,
+Dialogue: 0,0:06:53.66,0:06:55.16,One,,0000,0000,0000,,You have a very long beard,
+Dialogue: 0,0:06:54.77,0:06:57.40,Two,,0000,0000,0000,,et pardon de dire &ccedil;a,\Nmais pas de sourcils.
+Dialogue: 0,0:06:55.25,0:06:57.87,One,,0000,0000,0000,,and I hope you don't mind me saying so,\Nno eyebrows at all.
+Dialogue: 0,0:06:57.48,0:07:00.07,Two,,0000,0000,0000,,- Il les a ras&eacute;s.\N- Et s'est laiss&eacute; pousser la barbe.
+Dialogue: 0,0:06:57.95,0:07:00.54,One,,0000,0000,0000,,- He shaved his eyebrow.\N- And he let his beard grow.
+Dialogue: 0,0:07:00.15,0:07:02.15,Two,,0000,0000,0000,,Regardez ! Tout le monde le voit.
+Dialogue: 0,0:07:00.62,0:07:02.62,One,,0000,0000,0000,,Can't you see? Anyone could see that.
+Dialogue: 0,0:07:02.23,0:07:04.65,Two,,0000,0000,0000,,Sauf M. Poe, &eacute;videmment !
+Dialogue: 0,0:07:05.20,0:07:06.75,One,,0000,0000,0000,,Sunny's right.
+Dialogue: 0,0:07:05.32,0:07:07.86,Two,,0000,0000,0000,,Elle a raison.\NOlaf a un tatouage &agrave; la cheville gauche.
+Dialogue: 0,0:07:06.83,0:07:10.25,One,,0000,0000,0000,,Count Olaf has a tattoo on his left ankle.\NIt looks like an eye.
+Dialogue: 0,0:07:07.94,0:07:09.77,Two,,0000,0000,0000,,Il ressemble &agrave; un oeil.
+Dialogue: 0,0:07:11.61,0:07:15.11,Two,,0000,0000,0000,,D&eacute;sol&eacute; de vous d&eacute;ranger,\Nmais pour rassurer les enfants,
+Dialogue: 0,0:07:12.08,0:07:13.66,One,,0000,0000,0000,,I hate to trouble you, sir,
+Dialogue: 0,0:07:13.75,0:07:15.58,One,,0000,0000,0000,,but just to put\Nthe children's minds at ease,
+Dialogue: 0,0:07:15.19,0:07:18.65,Two,,0000,0000,0000,,pourriez-vous\Nnous montrer votre cheville ?
+Dialogue: 0,0:07:15.66,0:07:20.29,One,,0000,0000,0000,,would you be so kind as to\Nshow us your ankle?
+Dialogue: 0,0:07:24.02,0:07:25.69,Two,,0000,0000,0000,,Avec plaisir.
+Dialogue: 0,0:07:24.50,0:07:26.16,One,,0000,0000,0000,,I'd be happy to.
+Dialogue: 0,0:07:59.19,0:08:00.69,Two,,0000,0000,0000,,Mes excuses, M. Stephano.
+Dialogue: 0,0:07:59.66,0:08:01.16,One,,0000,0000,0000,,My apologies, Mr. Stephano.
+Dialogue: 0,0:08:01.44,0:08:03.11,Two,,0000,0000,0000,,Aucun souci.
+Dialogue: 0,0:08:01.91,0:08:03.58,One,,0000,0000,0000,,It's no problem.
+Dialogue: 0,0:08:03.19,0:08:06.86,Two,,0000,0000,0000,,Comme la voiture fonctionne,\Non devrait vraiment y aller.
+Dialogue: 0,0:08:03.66,0:08:07.33,One,,0000,0000,0000,,As long as the vehicle is operational,\Nthen we really must be going.
+Dialogue: 0,0:08:06.94,0:08:08.02,Two,,0000,0000,0000,,- Non.\N- Non.
+Dialogue: 0,0:08:07.41,0:08:08.50,One,,0000,0000,0000,,- No.\N- No.
+Dialogue: 0,0:08:08.11,0:08:09.40,Two,,0000,0000,0000,,- Non ?\N- Non.
+Dialogue: 0,0:08:08.58,0:08:09.87,One,,0000,0000,0000,,- No?\N- No.
+Dialogue: 0,0:08:09.48,0:08:12.19,Two,,0000,0000,0000,,On ne part pas\Ntant qu'on n'a pas averti la police.
+Dialogue: 0,0:08:09.95,0:08:12.45,One,,0000,0000,0000,,None of us are going anywhere\Nuntil the police have been called.
+Dialogue: 0,0:08:12.27,0:08:13.94,Two,,0000,0000,0000,,Ce n'est qu'un accrochage.
+Dialogue: 0,0:08:12.54,0:08:14.41,One,,0000,0000,0000,,Oh, come on, man.\NIt's just a fender bender.
+Dialogue: 0,0:08:14.02,0:08:15.52,Two,,0000,0000,0000,,Pour le Pr Montgomery.
+Dialogue: 0,0:08:14.50,0:08:16.00,One,,0000,0000,0000,,About Dr. Montgomery.
+Dialogue: 0,0:08:16.94,0:08:18.94,Two,,0000,0000,0000,,Une id&eacute;e sens&eacute;e.
+Dialogue: 0,0:08:17.41,0:08:19.41,One,,0000,0000,0000,,What a sensible idea.
+Dialogue: 0,0:08:19.02,0:08:20.52,Two,,0000,0000,0000,,C'est assez urgent.
+Dialogue: 0,0:08:19.50,0:08:21.00,One,,0000,0000,0000,,It's quite urgent.
+Dialogue: 0,0:08:20.61,0:08:23.82,Two,,0000,0000,0000,,Pr&eacute;nom : Montgomery.\NNom de famille : Montgomery.
+Dialogue: 0,0:08:21.08,0:08:24.29,One,,0000,0000,0000,,First name, Montgomery.\NLast name, Montgomery.
+Dialogue: 0,0:08:23.90,0:08:27.19,Two,,0000,0000,0000,,Non, ce n'est pas une blague. All&ocirc; ?
+Dialogue: 0,0:08:24.37,0:08:27.66,One,,0000,0000,0000,,No, this isn't a prank call.\NHello? Hello?
+Dialogue: 0,0:08:27.27,0:08:29.94,Two,,0000,0000,0000,,Je me fiche de ton audition pour Equus.
+Dialogue: 0,0:08:27.75,0:08:30.41,One,,0000,0000,0000,,I don't care if you have\Nan audition for Equus.
+Dialogue: 0,0:08:30.02,0:08:31.82,Two,,0000,0000,0000,,Viens ici tout de suite !
+Dialogue: 0,0:08:30.50,0:08:32.29,One,,0000,0000,0000,,Get over here now!
+Dialogue: 0,0:08:31.90,0:08:33.77,Two,,0000,0000,0000,,Comment a-t-il enlev&eacute; son tatouage ?
+Dialogue: 0,0:08:32.37,0:08:34.25,One,,0000,0000,0000,,I don't understand\Nhow he got rid of his tattoo.
+Dialogue: 0,0:08:33.86,0:08:35.52,Two,,0000,0000,0000,,C'est un proc&eacute;d&eacute; tr&egrave;s douloureux.
+Dialogue: 0,0:08:36.77,0:08:39.40,Two,,0000,0000,0000,,Bonne nouvelle,\Nj'ai eu le bureau du sh&eacute;rif.
+Dialogue: 0,0:08:37.25,0:08:39.87,One,,0000,0000,0000,,Good news, I managed to get through\Nto the local sheriff's department.
+Dialogue: 0,0:08:39.48,0:08:42.65,Two,,0000,0000,0000,,Ils courent dans tous les sens :\Nune vache s'est &eacute;chapp&eacute;e.
+Dialogue: 0,0:08:39.95,0:08:41.41,One,,0000,0000,0000,,It seems there's an escaped cow
+Dialogue: 0,0:08:41.50,0:08:43.33,One,,0000,0000,0000,,from a local dairy farm\Ngiving them the runaround,
+Dialogue: 0,0:08:42.73,0:08:45.02,Two,,0000,0000,0000,,Ils envoient quelqu'un d&egrave;s que possible.
+Dialogue: 0,0:08:43.41,0:08:45.50,One,,0000,0000,0000,,but they assured me they'll send someone\Nas soon as they're able.
+Dialogue: 0,0:08:48.73,0:08:49.82,Two,,0000,0000,0000,,MÉDECIN LÉGISTE
+Dialogue: 0,0:08:56.19,0:08:58.15,Two,,0000,0000,0000,,Ils ont fait vite pour la vache.
+Dialogue: 0,0:08:56.66,0:08:58.62,One,,0000,0000,0000,,They must have made quick work\Nof that cow.
+Dialogue: 0,0:09:06.57,0:09:08.02,Two,,0000,0000,0000,,Je peux vous aider, madame...
+Dialogue: 0,0:09:07.04,0:09:08.50,One,,0000,0000,0000,,May I help you, ma'am?
+Dialogue: 0,0:09:08.73,0:09:10.32,Two,,0000,0000,0000,,Monsieur.
+Dialogue: 0,0:09:09.20,0:09:10.79,One,,0000,0000,0000,,Sir. Uh.
+Dialogue: 0,0:09:10.40,0:09:11.65,Two,,0000,0000,0000,,Infirmi&egrave;re Lacofmote.
+Dialogue: 0,0:09:10.87,0:09:12.12,One,,0000,0000,0000,,I'm Nurse Lucafont.
+Dialogue: 0,0:09:11.73,0:09:13.36,Two,,0000,0000,0000,,L'infirmi&egrave;re Lacofmote,
+Dialogue: 0,0:09:12.20,0:09:13.83,One,,0000,0000,0000,,Nurse Lucafont.
+Dialogue: 0,0:09:13.44,0:09:17.48,Two,,0000,0000,0000,,qui travaille avec le m&eacute;decin l&eacute;giste\Nrattach&eacute; au bureau du sh&eacute;rif ?
+Dialogue: 0,0:09:13.91,0:09:17.95,One,,0000,0000,0000,,From the local sheriff's department's\Nmedical examiner's office?
+Dialogue: 0,0:09:17.57,0:09:19.11,Two,,0000,0000,0000,,Qui travaille...
+Dialogue: 0,0:09:18.04,0:09:19.58,One,,0000,0000,0000,,From the local...
+Dialogue: 0,0:09:21.32,0:09:25.65,Two,,0000,0000,0000,,J'ai appris qu'il y avait eu\Nun terrible accident avec un serpent.
+Dialogue: 0,0:09:21.79,0:09:26.12,One,,0000,0000,0000,,I hear there's been\Na terrible accident involving a snake.
+Dialogue: 0,0:09:25.73,0:09:28.27,Two,,0000,0000,0000,,Vous avez fait vite. Je viens d'appeler.
+Dialogue: 0,0:09:26.20,0:09:28.75,One,,0000,0000,0000,,That was fast.\NI only just now made the call.
+Dialogue: 0,0:09:28.36,0:09:29.61,Two,,0000,0000,0000,,Je pense que...
+Dialogue: 0,0:09:28.83,0:09:30.37,One,,0000,0000,0000,,I believe, uh...
+Dialogue: 0,0:09:30.73,0:09:34.57,Two,,0000,0000,0000,,la rapidit&eacute; est primordiale\Nen cas d'urgence, monsieur.
+Dialogue: 0,0:09:31.20,0:09:35.04,One,,0000,0000,0000,,speed is of the essence\Nin an emergency, sir.
+Dialogue: 0,0:09:37.44,0:09:39.02,Two,,0000,0000,0000,,Je peux avoir un caf&eacute; ?
+Dialogue: 0,0:09:37.91,0:09:39.50,One,,0000,0000,0000,,Could I get a cup of coffee?
+Dialogue: 0,0:09:39.11,0:09:40.36,Two,,0000,0000,0000,,C'est suspect.
+Dialogue: 0,0:09:40.44,0:09:42.77,Two,,0000,0000,0000,,Vous ne voulez pas examiner le corps ?
+Dialogue: 0,0:09:40.91,0:09:43.25,One,,0000,0000,0000,,Don't you want to examine the body?
+Dialogue: 0,0:09:42.86,0:09:44.94,Two,,0000,0000,0000,,Oui, le corps. Je vous suis.
+Dialogue: 0,0:09:43.33,0:09:45.41,One,,0000,0000,0000,,Right, the body.\NLead the way.
+Dialogue: 0,0:09:45.02,0:09:48.02,Two,,0000,0000,0000,,Il est l&agrave;,\Ndans le laboratoire aux serpents.
+Dialogue: 0,0:09:45.50,0:09:48.50,One,,0000,0000,0000,,It's right over here in the Reptile Room.
+Dialogue: 0,0:09:52.41,0:09:55.83,One,,0000,0000,0000,,Excuse me, but why\Nare you wearing that mask over your face?
+Dialogue: 0,0:09:53.02,0:09:55.36,Two,,0000,0000,0000,,Pourquoi portez-vous ce masque ?
+Dialogue: 0,0:09:55.44,0:09:59.36,Two,,0000,0000,0000,,J'ai su qu'il y avait des reptiles.\NIls pourraient &ecirc;tre contagieux.
+Dialogue: 0,0:09:55.91,0:09:59.83,One,,0000,0000,0000,,I heard there were reptiles.\NThey... they might be contagious.
+Dialogue: 0,0:09:59.44,0:10:03.32,Two,,0000,0000,0000,,Les reptiles ne sont pas contagieux.\NVous &ecirc;tes dipl&ocirc;m&eacute;e ?
+Dialogue: 0,0:09:59.91,0:10:03.79,One,,0000,0000,0000,,Reptiles aren't contagious.\NAre you sure you're a qualified nurse?
+Dialogue: 0,0:10:03.40,0:10:05.36,Two,,0000,0000,0000,,Les enfants devraient attendre dehors.
+Dialogue: 0,0:10:03.87,0:10:05.83,One,,0000,0000,0000,,Maybe the children should wait outside.
+Dialogue: 0,0:10:05.44,0:10:08.57,Two,,0000,0000,0000,,&Ccedil;a peut &ecirc;tre traumatisant\Nd'&ecirc;tre &agrave; c&ocirc;t&eacute; d'un cadavre.
+Dialogue: 0,0:10:05.91,0:10:09.04,One,,0000,0000,0000,,Being in a room with a dead body\Ncould be very traumatic.
+Dialogue: 0,0:10:08.65,0:10:11.69,Two,,0000,0000,0000,,Gr&acirc;ce &agrave; vous, on s'est d&eacute;j&agrave; retrouv&eacute;s\N&agrave; c&ocirc;t&eacute; d'un cadavre.
+Dialogue: 0,0:10:09.12,0:10:12.00,One,,0000,0000,0000,,We've already been in a room\Nwith a dead body thanks to you.
+Dialogue: 0,0:10:11.77,0:10:14.32,Two,,0000,0000,0000,,Merci, Stephano,\Npour cette remarque judicieuse.
+Dialogue: 0,0:10:12.08,0:10:14.79,One,,0000,0000,0000,,Oh, yes, thank you, Stephano,\Nfor that excellent point.
+Dialogue: 0,0:10:14.40,0:10:18.02,Two,,0000,0000,0000,,Vous vous montrez tr&egrave;s compatissant\Nenvers ces enfants.
+Dialogue: 0,0:10:14.87,0:10:18.50,One,,0000,0000,0000,,I must say, you show genuine compassion\Nfor these children.
+Dialogue: 0,0:10:18.11,0:10:19.36,Two,,0000,0000,0000,,Je vous remercie.
+Dialogue: 0,0:10:18.58,0:10:19.79,One,,0000,0000,0000,,I appreciate it.
+Dialogue: 0,0:10:19.98,0:10:22.19,Two,,0000,0000,0000,,Je vais attendre l&agrave; avec eux
+Dialogue: 0,0:10:20.45,0:10:22.66,One,,0000,0000,0000,,Perhaps I will wait out here\Nwith the children
+Dialogue: 0,0:10:22.27,0:10:24.86,Two,,0000,0000,0000,,pendant que vous examinez le corps\Navec l'infirmi&egrave;re.
+Dialogue: 0,0:10:22.75,0:10:25.33,One,,0000,0000,0000,,while you and Nurse Lucafont go in\Nand examine the body.
+Dialogue: 0,0:10:24.94,0:10:26.11,Two,,0000,0000,0000,,Le corps ?
+Dialogue: 0,0:10:25.41,0:10:26.58,One,,0000,0000,0000,,The body?
+Dialogue: 0,0:10:27.54,0:10:32.00,One,,0000,0000,0000,,Ah, yes, perhaps we should both wait\Nwith the children.
+Dialogue: 0,0:10:28.27,0:10:31.52,Two,,0000,0000,0000,,On devrait attendre\Ntous les deux avec les enfants.
+Dialogue: 0,0:10:31.61,0:10:33.86,Two,,0000,0000,0000,,Je ne voudrais pas\Nlaisser l'infirmi&egrave;re seule.
+Dialogue: 0,0:10:32.08,0:10:34.33,One,,0000,0000,0000,,I wouldn't want Nurse Lucafont\Nto be alone.
+Dialogue: 0,0:10:33.94,0:10:37.57,Two,,0000,0000,0000,,Je suis s&ucirc;r\Nqu'elle a d&eacute;j&agrave; vu des cadavres.
+Dialogue: 0,0:10:34.41,0:10:38.04,One,,0000,0000,0000,,Oh, I'm sure a nurse has seen\Nplenty of dead bodies.
+Dialogue: 0,0:10:37.65,0:10:39.94,Two,,0000,0000,0000,,Je pourrais aussi attendre\Navec les enfants.
+Dialogue: 0,0:10:38.12,0:10:40.41,One,,0000,0000,0000,,Maybe I can wait with the children, too.
+Dialogue: 0,0:10:40.02,0:10:42.23,Two,,0000,0000,0000,,C'est impossible. Qui fera l'examen ?
+Dialogue: 0,0:10:40.50,0:10:42.70,One,,0000,0000,0000,,Well, that won't work.\NWho will perform the examination?
+Dialogue: 0,0:10:42.32,0:10:44.69,Two,,0000,0000,0000,,Klaus, Prunille et moi\Nattendons avec M. Poe,
+Dialogue: 0,0:10:42.79,0:10:45.16,One,,0000,0000,0000,,Why don't Klaus, Sunny and I\Nwait with Mr. Poe,
+Dialogue: 0,0:10:44.77,0:10:47.73,Two,,0000,0000,0000,,pendant que Stephano examine\Nle corps avec lâ€™infirmi&egrave;re.
+Dialogue: 0,0:10:45.25,0:10:48.20,One,,0000,0000,0000,,while Stephano goes with Nurse Lucafont\Nto examine the body?
+Dialogue: 0,0:10:48.65,0:10:50.98,Two,,0000,0000,0000,,Non, mon enfant.
+Dialogue: 0,0:10:49.12,0:10:51.45,One,,0000,0000,0000,,No, child, please.
+Dialogue: 0,0:10:51.07,0:10:56.77,Two,,0000,0000,0000,,Si je me tenais plus pr&egrave;s de toi,\Nje te frapperais &agrave; la gorge.
+Dialogue: 0,0:10:51.54,0:10:57.25,One,,0000,0000,0000,,If I were standing closer to you...\NI would slap you in the throat.
+Dialogue: 0,0:10:56.86,0:10:58.44,Two,,0000,0000,0000,,Son id&eacute;e est parfaite.
+Dialogue: 0,0:10:57.33,0:10:58.91,One,,0000,0000,0000,,That does sound like the best plan.
+Dialogue: 0,0:10:58.52,0:11:01.27,Two,,0000,0000,0000,,Tr&egrave;s bien. Par ici, infirmi&egrave;re.
+Dialogue: 0,0:10:59.00,0:11:01.75,One,,0000,0000,0000,,Fine. Right this way, nurse.
+Dialogue: 0,0:11:03.19,0:11:08.32,Two,,0000,0000,0000,,Souvenez-vous, je serai juste\Nde l'autre c&ocirc;t&eacute; de la porte.
+Dialogue: 0,0:11:03.66,0:11:08.79,One,,0000,0000,0000,,But remember, I will be just\Non the other side of this door.
+Dialogue: 0,0:11:10.90,0:11:12.61,Two,,0000,0000,0000,,Je suis d&eacute;sol&eacute;, les enfants.
+Dialogue: 0,0:11:11.37,0:11:13.08,One,,0000,0000,0000,,Oh, I'm sorry, children.
+Dialogue: 0,0:11:12.69,0:11:16.23,Two,,0000,0000,0000,,Le Pr Montgomery semblait &ecirc;tre\Nun tuteur convenable.
+Dialogue: 0,0:11:13.16,0:11:16.70,One,,0000,0000,0000,,Dr. Montgomery did seem like\Nan appropriate guardian for you.
+Dialogue: 0,0:11:16.32,0:11:21.57,Two,,0000,0000,0000,,Il &eacute;tait bien plus que &ccedil;a,\Nbien plus que convenable.
+Dialogue: 0,0:11:16.79,0:11:22.04,One,,0000,0000,0000,,He was more than that.\NHe was much, much more than appropriate.
+Dialogue: 0,0:11:22.86,0:11:27.02,Two,,0000,0000,0000,,Ne le laissez pas\N&ecirc;tre notre nouveau tuteur.
+Dialogue: 0,0:11:23.33,0:11:27.00,One,,0000,0000,0000,,Please don't let him be our new guardian.
+Dialogue: 0,0:11:27.08,0:11:29.25,One,,0000,0000,0000,,Oh, don't be silly, children.
+Dialogue: 0,0:11:27.11,0:11:28.77,Two,,0000,0000,0000,,Ne dites pas de b&ecirc;tises.
+Dialogue: 0,0:11:28.86,0:11:31.40,Two,,0000,0000,0000,,Le d&eacute;c&egrave;s du Pr Montgomery\Nest bouleversant,
+Dialogue: 0,0:11:29.33,0:11:31.87,One,,0000,0000,0000,,It is quite shocking\Nthat Dr. Montgomery has died,
+Dialogue: 0,0:11:31.48,0:11:35.77,Two,,0000,0000,0000,,mais je ne vais pas vous laisser,\Nvous et votre fortune, &agrave; son assistant.
+Dialogue: 0,0:11:31.95,0:11:36.25,One,,0000,0000,0000,,but I'm not going to simply just hand you\Nand your fortune over to his assistant.
+Dialogue: 0,0:11:37.98,0:11:40.82,Two,,0000,0000,0000,,Pas sans avoir rempli les papiers requis.
+Dialogue: 0,0:11:38.45,0:11:41.29,One,,0000,0000,0000,,Not without some very thorough paperwork.
+Dialogue: 0,0:11:48.69,0:11:50.19,Two,,0000,0000,0000,,Que s'est-il pass&eacute; ?
+Dialogue: 0,0:11:49.16,0:11:50.66,One,,0000,0000,0000,,What's happened?\NWhat's wrong?
+Dialogue: 0,0:11:50.27,0:11:52.69,Two,,0000,0000,0000,,Un l&eacute;zard a fait peur &agrave; l'infirmi&egrave;re.
+Dialogue: 0,0:11:50.75,0:11:53.16,One,,0000,0000,0000,,Nurse Lucafont was startled by a lizard.
+Dialogue: 0,0:11:52.77,0:11:56.44,Two,,0000,0000,0000,,- C'est un laboratoire aux serpents.\N- J'ignorais que c'&eacute;tait au sens propre.
+Dialogue: 0,0:11:53.25,0:11:56.91,One,,0000,0000,0000,,- It's a reptile room.\N- I didn't know that meant literally.
+Dialogue: 0,0:11:56.52,0:12:01.48,Two,,0000,0000,0000,,Bref, vous arrivez au bon moment.\NL'infirmi&egrave;re a termin&eacute; l'autopsie.
+Dialogue: 0,0:11:57.00,0:12:01.95,One,,0000,0000,0000,,Anyway, you've come just in time.\NThe nurse has just finished her autopsy.
+Dialogue: 0,0:12:01.57,0:12:04.11,Two,,0000,0000,0000,,- La cause du d&eacute;c&egrave;s ?\N- Morsure de serpent.
+Dialogue: 0,0:12:02.04,0:12:04.58,One,,0000,0000,0000,,- Did you determine the cause of death?\N- Snakebite.
+Dialogue: 0,0:12:04.19,0:12:05.19,Two,,0000,0000,0000,,Vous &ecirc;tes s&ucirc;re ?
+Dialogue: 0,0:12:04.66,0:12:06.00,One,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:12:06.08,0:12:09.70,One,,0000,0000,0000,,Uh, two bite marks on his cheek.\NOnly a snake could've done that.
+Dialogue: 0,0:12:06.19,0:12:09.23,Two,,0000,0000,0000,,Deux traces de crocs sur la joue.\N&Ccedil;a ne peut &ecirc;tre qu'un serpent.
+Dialogue: 0,0:12:09.32,0:12:11.52,Two,,0000,0000,0000,,Quelle trag&eacute;die ! Affaire class&eacute;e.
+Dialogue: 0,0:12:09.79,0:12:13.00,One,,0000,0000,0000,,- How terribly tragic. Case closed.\N- But Uncle Monty is...
+Dialogue: 0,0:12:11.61,0:12:14.86,Two,,0000,0000,0000,,Mais oncle Monty est... &eacute;tait\Nun grand herp&eacute;tologiste.
+Dialogue: 0,0:12:13.08,0:12:15.50,One,,0000,0000,0000,,was one of the world's\Nleading herpetologists.
+Dialogue: 0,0:12:14.94,0:12:17.48,Two,,0000,0000,0000,,Il ne se serait pas laiss&eacute; mordre\Npar un serpent.
+Dialogue: 0,0:12:15.58,0:12:17.95,One,,0000,0000,0000,,He would know better than\Nto let a dangerous snake bite him.
+Dialogue: 0,0:12:17.57,0:12:19.23,Two,,0000,0000,0000,,J'ai analys&eacute; son sang.
+Dialogue: 0,0:12:18.04,0:12:19.70,One,,0000,0000,0000,,I tested his blood.
+Dialogue: 0,0:12:19.32,0:12:25.02,Two,,0000,0000,0000,,Dans ses veines, j'ai trouv&eacute; le venin\Nd'un des serpents les plus dangereux.
+Dialogue: 0,0:12:19.79,0:12:25.50,One,,0000,0000,0000,,In his veins, I found the venom of one\Nof the most dangerous snakes in the world.
+Dialogue: 0,0:12:25.11,0:12:26.86,Two,,0000,0000,0000,,Seigneur, lequel ?
+Dialogue: 0,0:12:25.58,0:12:27.33,One,,0000,0000,0000,,Good heavens, which one?
+Dialogue: 0,0:12:26.94,0:12:32.02,Two,,0000,0000,0000,,La Grande Vip&egrave;re de la mort subite.
+Dialogue: 0,0:12:27.41,0:12:32.50,One,,0000,0000,0000,,The incredibly deadly viper.
+Dialogue: 0,0:12:33.44,0:12:34.73,Two,,0000,0000,0000,,C'est impossible.
+Dialogue: 0,0:12:33.91,0:12:35.25,One,,0000,0000,0000,,That's impossible.
+Dialogue: 0,0:12:34.82,0:12:37.57,Two,,0000,0000,0000,,La Grande Vip&egrave;re de la mort subite\Nest la cr&eacute;ature
+Dialogue: 0,0:12:35.33,0:12:38.04,One,,0000,0000,0000,,The incredibly deadly viper\Nis one of the least dangerous
+Dialogue: 0,0:12:37.65,0:12:39.98,Two,,0000,0000,0000,,la plus inoffensive de toute la faune.
+Dialogue: 0,0:12:38.12,0:12:40.45,One,,0000,0000,0000,,and most friendly creatures\Nin the entire animal kingdom.
+Dialogue: 0,0:12:40.07,0:12:43.48,Two,,0000,0000,0000,,Allons, Violette. Elle s'appelle\Nla "Grande Vip&egrave;re de la mort subite".
+Dialogue: 0,0:12:40.54,0:12:43.95,One,,0000,0000,0000,,Come now, Violet.\NIt's called the incredibly deadly viper.
+Dialogue: 0,0:12:43.57,0:12:48.19,Two,,0000,0000,0000,,Oncle Monty l'a appel&eacute;e ainsi\Npour effrayer la Soci&eacute;t&eacute; d'Herp&eacute;tologie.
+Dialogue: 0,0:12:44.04,0:12:45.29,One,,0000,0000,0000,,It's a misnomer.
+Dialogue: 0,0:12:45.37,0:12:48.66,One,,0000,0000,0000,,Uncle Monty named it that to scare his\Ncolleagues at the Herpetological Society.
+Dialogue: 0,0:12:48.27,0:12:51.94,Two,,0000,0000,0000,,Il m'a l'air tr&egrave;s perturb&eacute;.\NCe n'est pas digne d'un tuteur.
+Dialogue: 0,0:12:48.75,0:12:52.41,One,,0000,0000,0000,,He sounds highly unstable.\NNot good guardian material.
+Dialogue: 0,0:12:52.02,0:12:54.36,Two,,0000,0000,0000,,C'&eacute;tait un &ecirc;tre exceptionnel\Net attentionn&eacute;.
+Dialogue: 0,0:12:52.50,0:12:55.00,One,,0000,0000,0000,,He was a wonderful, caring person.
+Dialogue: 0,0:12:54.44,0:12:57.32,Two,,0000,0000,0000,,On va vous prouver\Nque cette vip&egrave;re est inoffensive.
+Dialogue: 0,0:12:55.08,0:12:57.79,One,,0000,0000,0000,,And the incredibly deadly viper\Nwouldn't hurt anyone and we can prove it.
+Dialogue: 0,0:12:57.40,0:13:00.73,Two,,0000,0000,0000,,Mais comment ?\NVous ignorez o&ugrave; elle se trouve.
+Dialogue: 0,0:12:57.87,0:13:01.20,One,,0000,0000,0000,,How can you prove it\Nwhen you don't even know where it is?
+Dialogue: 0,0:13:00.82,0:13:03.90,Two,,0000,0000,0000,,On sait tr&egrave;s bien o&ugrave; elle est. Juste...
+Dialogue: 0,0:13:01.29,0:13:04.37,One,,0000,0000,0000,,Of course we know where it is.\NIt's... right...
+Dialogue: 0,0:13:04.45,0:13:09.58,One,,0000,0000,0000,,Hmm, fleeing the scene of a crime?\NHighly suspicious.
+Dialogue: 0,0:13:05.07,0:13:09.11,Two,,0000,0000,0000,,Elle a quitt&eacute; la sc&egrave;ne de crime ?\NC'est tr&egrave;s suspect.
+Dialogue: 0,0:13:10.69,0:13:12.77,Two,,0000,0000,0000,,Tout co&iuml;ncide.
+Dialogue: 0,0:13:11.16,0:13:13.25,One,,0000,0000,0000,,It's all falling into place.
+Dialogue: 0,0:13:12.86,0:13:16.07,Two,,0000,0000,0000,,Le Pr Montgomery a d&ucirc; oublier\Nde bien refermer la cage.
+Dialogue: 0,0:13:13.33,0:13:16.54,One,,0000,0000,0000,,Dr. Montgomery must have forgotten\Nto lock the cage properly,
+Dialogue: 0,0:13:16.15,0:13:19.19,Two,,0000,0000,0000,,La vip&egrave;re en est ressortie et l'a tu&eacute;.
+Dialogue: 0,0:13:16.62,0:13:19.66,One,,0000,0000,0000,,allowing the viper to slip out\Nand kill him.
+Dialogue: 0,0:13:19.27,0:13:21.61,Two,,0000,0000,0000,,On ne saura jamais\Nce qu'a fait le professeur
+Dialogue: 0,0:13:19.75,0:13:21.87,One,,0000,0000,0000,,I suppose we'll never know\Nwhat Dr. Montgomery did
+Dialogue: 0,0:13:21.69,0:13:23.98,Two,,0000,0000,0000,,pour inciter le reptile &agrave; le mordre.
+Dialogue: 0,0:13:21.95,0:13:24.45,One,,0000,0000,0000,,to trigger the bloodlust\Nin its reptile brain.
+Dialogue: 0,0:13:24.07,0:13:26.07,Two,,0000,0000,0000,,Je n'y connais rien en serpents.
+Dialogue: 0,0:13:24.54,0:13:26.54,One,,0000,0000,0000,,I myself know nothing about snakes.
+Dialogue: 0,0:13:26.15,0:13:29.44,Two,,0000,0000,0000,,Je viens d'arriver\Net n'ai pas eu le temps d'apprendre.
+Dialogue: 0,0:13:26.62,0:13:29.91,One,,0000,0000,0000,,I only got here just recently\Nand scarcely have had time to learn.
+Dialogue: 0,0:13:29.52,0:13:32.86,Two,,0000,0000,0000,,Mais ces cr&eacute;atures visqueuses\Nsont rancuni&egrave;res, para&icirc;t-il.
+Dialogue: 0,0:13:30.00,0:13:33.33,One,,0000,0000,0000,,But I hear the slimy creatures\Ncan hold a grudge.
+Dialogue: 0,0:13:32.94,0:13:35.23,Two,,0000,0000,0000,,C'est le souci avec les animaux exotiques.
+Dialogue: 0,0:13:33.41,0:13:35.70,One,,0000,0000,0000,,That's the trouble with exotic pets.
+Dialogue: 0,0:13:35.32,0:13:37.11,Two,,0000,0000,0000,,La nature ne doit pas &ecirc;tre domestiqu&eacute;e.
+Dialogue: 0,0:13:35.79,0:13:37.58,One,,0000,0000,0000,,Maybe nature isn't meant to be tamed.
+Dialogue: 0,0:13:38.44,0:13:39.98,Two,,0000,0000,0000,,Quel est votre nom, d&eacute;j&agrave; ?
+Dialogue: 0,0:13:38.95,0:13:40.45,One,,0000,0000,0000,,What did you say your name was again?
+Dialogue: 0,0:13:40.61,0:13:42.73,Two,,0000,0000,0000,,- Le Dr Lacofmote.\N- Infirmi&egrave;re.
+Dialogue: 0,0:13:41.08,0:13:43.20,One,,0000,0000,0000,,- I'm Doctor Lucafont.\N- Nurse.
+Dialogue: 0,0:13:42.82,0:13:44.90,Two,,0000,0000,0000,,- L'infirmi&egrave;re Lacofmote.\N- Pardon ?
+Dialogue: 0,0:13:43.29,0:13:45.37,One,,0000,0000,0000,,- Nurse Lucafont.\N- Sorry, uh, what was that?
+Dialogue: 0,0:13:44.98,0:13:46.36,Two,,0000,0000,0000,,L'infirmi&egrave;re Lacofmote.
+Dialogue: 0,0:13:45.45,0:13:46.83,One,,0000,0000,0000,,I'm Nurse Lucafont.
+Dialogue: 0,0:13:46.44,0:13:50.19,Two,,0000,0000,0000,,- Je ne vous comprends pas sous le masque.\N- Infirmi&egrave;re Lacofmote.
+Dialogue: 0,0:13:46.91,0:13:48.25,One,,0000,0000,0000,,I can't understand you under your mask.
+Dialogue: 0,0:13:48.33,0:13:50.66,One,,0000,0000,0000,,I said I'm Nurse Lucafont.
+Dialogue: 0,0:13:50.94,0:13:54.73,Two,,0000,0000,0000,,- Ce n'est pas une infirmi&egrave;re.\N- C'est un des complices du comte Olaf.
+Dialogue: 0,0:13:51.41,0:13:53.33,One,,0000,0000,0000,,Mr. Poe, that's not a nurse at all.
+Dialogue: 0,0:13:53.41,0:13:55.20,One,,0000,0000,0000,,It's one\Nof Count Olaf's accomplices.
+Dialogue: 0,0:13:54.82,0:13:58.82,Two,,0000,0000,0000,,L'homme au crochet, mon ancien secr&eacute;taire\Nqui a cass&eacute; la machine &agrave; &eacute;crire ?
+Dialogue: 0,0:13:55.29,0:13:57.79,One,,0000,0000,0000,,You mean the hook-handed man who worked\Nas my temporary secretary
+Dialogue: 0,0:13:57.87,0:13:59.29,One,,0000,0000,0000,,and broke the typewriter?
+Dialogue: 0,0:13:58.90,0:14:00.82,Two,,0000,0000,0000,,- Non.\N- Je n'ai jamais vu les autres.
+Dialogue: 0,0:13:59.37,0:14:01.29,One,,0000,0000,0000,,- No.\N- Well, I've never met any others.
+Dialogue: 0,0:14:00.90,0:14:04.23,Two,,0000,0000,0000,,Et le comte Olaf doit &ecirc;tre\N&agrave; des centaines de kilom&egrave;tres d'ici.
+Dialogue: 0,0:14:01.37,0:14:04.70,One,,0000,0000,0000,,Besides, I'm sure Count Olaf\Nis hundreds of miles away.
+Dialogue: 0,0:14:04.32,0:14:06.19,Two,,0000,0000,0000,,Ou de centim&egrave;tres.
+Dialogue: 0,0:14:04.79,0:14:06.66,One,,0000,0000,0000,,Or inches.
+Dialogue: 0,0:14:06.27,0:14:08.36,Two,,0000,0000,0000,,Exactement. Pardon ?
+Dialogue: 0,0:14:06.75,0:14:08.83,One,,0000,0000,0000,,Exactly. What was that?
+Dialogue: 0,0:14:08.44,0:14:14.82,Two,,0000,0000,0000,,La vip&egrave;re est &agrave; quelques centim&egrave;tres,\Npr&ecirc;te &agrave; frapper &agrave; nouveau.
+Dialogue: 0,0:14:08.91,0:14:15.29,One,,0000,0000,0000,,I mean, the incredibly deadly viper may be\Ninches away, ready to strike again.
+Dialogue: 0,0:14:15.37,0:14:17.62,One,,0000,0000,0000,,It's struck again.
+Dialogue: 0,0:14:15.77,0:14:17.27,Two,,0000,0000,0000,,Elle a frapp&eacute; &agrave; nouveau.
+Dialogue: 0,0:14:20.40,0:14:23.27,Two,,0000,0000,0000,,- C'est l'horloge de l'iguane hurleur.\N- Elle a sonn&eacute;.
+Dialogue: 0,0:14:20.87,0:14:22.20,One,,0000,0000,0000,,It's the screeching iguana clock.
+Dialogue: 0,0:14:22.29,0:14:23.75,One,,0000,0000,0000,,It struck again.
+Dialogue: 0,0:14:23.36,0:14:27.86,Two,,0000,0000,0000,,Regardez l'heure.\NLe SS Prospero part &agrave; 17 h.
+Dialogue: 0,0:14:23.83,0:14:28.41,One,,0000,0000,0000,,Oh, will you look at the time?\NWell, the SS Prospero departs at 5:00 p.m.
+Dialogue: 0,0:14:27.94,0:14:30.90,Two,,0000,0000,0000,,Allez vous pr&eacute;parer\Npour votre aventure p&eacute;ruvienne.
+Dialogue: 0,0:14:28.50,0:14:31.37,One,,0000,0000,0000,,You better go upstairs, children,\Nand pack for your Peruvian adventure.
+Dialogue: 0,0:14:30.98,0:14:33.02,Two,,0000,0000,0000,,On ne peut pas partir avec Stephano.
+Dialogue: 0,0:14:31.45,0:14:33.50,One,,0000,0000,0000,,Mr. Poe, we can't go with Stephano.
+Dialogue: 0,0:14:33.11,0:14:35.69,Two,,0000,0000,0000,,On n'a pas les papiers requis.
+Dialogue: 0,0:14:33.58,0:14:36.16,One,,0000,0000,0000,,We don't have the proper paperwork\Nyou mentioned.
+Dialogue: 0,0:14:35.77,0:14:40.15,Two,,0000,0000,0000,,Elle a raison. Vous m'avez l'air bien,\Nmais les aventures au P&eacute;rou attendront.
+Dialogue: 0,0:14:36.25,0:14:38.66,One,,0000,0000,0000,,She's right.\NYou do seem like a good person,
+Dialogue: 0,0:14:38.75,0:14:40.62,One,,0000,0000,0000,,but the childrens' adventures\Nabroad will have to wait.
+Dialogue: 0,0:14:40.23,0:14:41.52,Two,,0000,0000,0000,,On doit y aller.
+Dialogue: 0,0:14:40.70,0:14:42.00,One,,0000,0000,0000,,Come on, we really need to be going.
+Dialogue: 0,0:14:42.82,0:14:46.11,Two,,0000,0000,0000,,- Vous n'irez nulle part.\N- Et pourquoi &ccedil;a ?
+Dialogue: 0,0:14:43.29,0:14:44.70,One,,0000,0000,0000,,You're not going anywhere.
+Dialogue: 0,0:14:44.79,0:14:46.58,One,,0000,0000,0000,,And why not?
+Dialogue: 0,0:14:46.19,0:14:50.52,Two,,0000,0000,0000,,Personne ne doit quitter cette maison.\NIl y a un serpent qui r&ocirc;de.
+Dialogue: 0,0:14:46.66,0:14:48.54,One,,0000,0000,0000,,Because no one is leaving this house
+Dialogue: 0,0:14:48.62,0:14:52.41,One,,0000,0000,0000,,with a snake on the loose.\NRight, nurse?
+Dialogue: 0,0:14:50.61,0:14:51.94,Two,,0000,0000,0000,,N'est-ce pas, infirmi&egrave;re ?
+Dialogue: 0,0:14:52.82,0:14:54.27,Two,,0000,0000,0000,,Absolument.
+Dialogue: 0,0:14:53.29,0:14:54.75,One,,0000,0000,0000,,Yeah. Absolutely.
+Dialogue: 0,0:14:54.36,0:14:56.57,Two,,0000,0000,0000,,- Mais c'est absurde.\N- &Ccedil;a, c'est absurde ?
+Dialogue: 0,0:14:54.83,0:14:57.04,One,,0000,0000,0000,,- But that's absurd.\N- That's absurd?
+Dialogue: 0,0:14:56.65,0:14:59.57,Two,,0000,0000,0000,,La banque m'attend\Net je suis en lice pour une promotion.
+Dialogue: 0,0:14:57.12,0:15:00.04,One,,0000,0000,0000,,I'm already late for the bank\Nand I'm up for a very important promotion.
+Dialogue: 0,0:14:59.65,0:15:02.69,Two,,0000,0000,0000,,La banque attendra.\NQuand vous aviez le dos tourn&eacute;,
+Dialogue: 0,0:15:00.12,0:15:01.29,One,,0000,0000,0000,,The bank will have to wait.
+Dialogue: 0,0:15:01.37,0:15:03.16,One,,0000,0000,0000,,When your back was turned just now,
+Dialogue: 0,0:15:02.77,0:15:07.69,Two,,0000,0000,0000,,l'infirmi&egrave;re m'a inform&eacute;\Nque toute la maison &eacute;tait confin&eacute;e.
+Dialogue: 0,0:15:03.25,0:15:08.16,One,,0000,0000,0000,,Nurse Lucafont informed me that\Nthis entire place is under lockdown.
+Dialogue: 0,0:15:07.77,0:15:11.48,Two,,0000,0000,0000,,- Vous voulez dire...\N- Oui. En quarantaine !
+Dialogue: 0,0:15:08.25,0:15:11.95,One,,0000,0000,0000,,- You mean...\N- Yes! A quarantine!
+Dialogue: 0,0:15:12.95,0:15:15.62,One,,0000,0000,0000,,Your turn.
+Dialogue: 0,0:15:13.90,0:15:14.94,Two,,0000,0000,0000,,&Agrave; toi.
+Dialogue: 0,0:15:17.29,0:15:19.25,One,,0000,0000,0000,,What?
+Dialogue: 0,0:15:17.86,0:15:18.86,Two,,0000,0000,0000,,Quoi ?
+Dialogue: 0,0:15:27.33,0:15:30.33,One,,0000,0000,0000,,A quarantine!
+Dialogue: 0,0:15:27.77,0:15:29.86,Two,,0000,0000,0000,,En quarantaine !
+Dialogue: 0,0:15:36.25,0:15:38.79,One,,0000,0000,0000,,How long is that going to take?
+Dialogue: 0,0:15:36.86,0:15:38.32,Two,,0000,0000,0000,,Combien de temps &ccedil;a prendra ?
+Dialogue: 0,0:15:38.40,0:15:41.52,Two,,0000,0000,0000,,Tout est entre les mains de la police.
+Dialogue: 0,0:15:38.87,0:15:41.37,One,,0000,0000,0000,,Uh, the police.\NIt's in their hands now.
+Dialogue: 0,0:15:41.45,0:15:43.20,One,,0000,0000,0000,,Oh, that must be them.
+Dialogue: 0,0:15:41.61,0:15:42.69,Two,,0000,0000,0000,,&Ccedil;a doit &ecirc;tre eux.
+Dialogue: 0,0:15:43.48,0:15:46.86,Two,,0000,0000,0000,,Ils sont rapides &agrave; la campagne.
+Dialogue: 0,0:15:43.95,0:15:47.33,One,,0000,0000,0000,,I must say, these are some impressive\Nresponse times for a house in the country.
+Dialogue: 0,0:15:48.73,0:15:50.73,Two,,0000,0000,0000,,Labo mobile du crime.
+Dialogue: 0,0:15:49.20,0:15:50.54,One,,0000,0000,0000,,Mobile Crime Lab.
+Dialogue: 0,0:15:50.82,0:15:52.44,Two,,0000,0000,0000,,&Agrave; votre service.
+Dialogue: 0,0:15:51.29,0:15:52.37,One,,0000,0000,0000,,At your service.
+Dialogue: 0,0:15:52.52,0:15:54.36,Two,,0000,0000,0000,,- On chope les mecs.\N- Et les serpents.
+Dialogue: 0,0:15:53.00,0:15:54.83,One,,0000,0000,0000,,- We always get our man.\N- Or snake.
+Dialogue: 0,0:15:55.23,0:15:58.44,Two,,0000,0000,0000,,- Ce sont les complices du comte Olaf.\N- Ils sont d&eacute;guis&eacute;s.
+Dialogue: 0,0:15:55.70,0:15:58.62,One,,0000,0000,0000,,- These are Count Olaf's accomplices.\N- And they're all wearing costumes.
+Dialogue: 0,0:15:58.52,0:15:59.52,Two,,0000,0000,0000,,Ce sont des adultes.
+Dialogue: 0,0:15:58.70,0:16:00.00,One,,0000,0000,0000,,No, children, these are adults.
+Dialogue: 0,0:15:59.61,0:16:02.40,Two,,0000,0000,0000,,Les adultes ne se d&eacute;guisent pas,\Nsauf pour un bal
+Dialogue: 0,0:16:00.08,0:16:02.58,One,,0000,0000,0000,,Adults don't wear costumes\Nunless it's for a charity ball,
+Dialogue: 0,0:16:02.48,0:16:03.77,Two,,0000,0000,0000,,ou si ce sont des acteurs.
+Dialogue: 0,0:16:02.66,0:16:04.25,One,,0000,0000,0000,,or they happen to be employed as actors.
+Dialogue: 0,0:16:03.86,0:16:05.94,Two,,0000,0000,0000,,Ce sont des acteurs.
+Dialogue: 0,0:16:04.33,0:16:06.41,One,,0000,0000,0000,,They are employed as actors.
+Dialogue: 0,0:16:06.02,0:16:07.32,Two,,0000,0000,0000,,Établissez un périmètre.
+Dialogue: 0,0:16:06.50,0:16:07.79,One,,0000,0000,0000,,You two, create a perimeter.
+Dialogue: 0,0:16:07.40,0:16:10.40,Two,,0000,0000,0000,,Personne n'entre ni ne sort\Ntant qu'on n'a pas le reptile.
+Dialogue: 0,0:16:07.87,0:16:10.87,One,,0000,0000,0000,,No one goes in or out of the house\Nuntil the reptile is caught.
+Dialogue: 0,0:16:10.48,0:16:14.15,Two,,0000,0000,0000,,Mettez le corps dans le fourgon,\Ndirection le l&eacute;giste pour l'autopsie.
+Dialogue: 0,0:16:10.95,0:16:14.62,One,,0000,0000,0000,,You two, get that body in the van and back\Nto the ME for some TLC before it's DOA.
+Dialogue: 0,0:16:15.02,0:16:17.02,Two,,0000,0000,0000,,Mais personne ne doit partir.
+Dialogue: 0,0:16:15.50,0:16:17.50,One,,0000,0000,0000,,But you said no one could leave the house.
+Dialogue: 0,0:16:18.77,0:16:21.48,Two,,0000,0000,0000,,Personne sauf vous.
+Dialogue: 0,0:16:19.45,0:16:21.95,One,,0000,0000,0000,,I meant, uh, no one except you.
+Dialogue: 0,0:16:22.04,0:16:23.16,One,,0000,0000,0000,,Oh!
+Dialogue: 0,0:16:25.44,0:16:28.61,Two,,0000,0000,0000,,Vous ne le reconnaissez pas ?\NC'est l'homme au crochet.
+Dialogue: 0,0:16:25.91,0:16:29.08,One,,0000,0000,0000,,Don't you recognize him?\NThat's the hook-handed man.
+Dialogue: 0,0:16:28.69,0:16:30.98,Two,,0000,0000,0000,,Ces femmes &eacute;taient\Ndans la pi&egrave;ce du comte.
+Dialogue: 0,0:16:29.16,0:16:31.45,One,,0000,0000,0000,,And those two women were\Nin Count Olaf's play.
+Dialogue: 0,0:16:31.07,0:16:33.61,Two,,0000,0000,0000,,C'est malpoli de douter de la police.
+Dialogue: 0,0:16:31.54,0:16:34.20,One,,0000,0000,0000,,Oh, children, it's rude to question\Npolice authority.
+Dialogue: 0,0:16:33.69,0:16:37.32,Two,,0000,0000,0000,,Les femmes dans la pi&egrave;ce\Navaient &eacute;norm&eacute;ment de maquillage,
+Dialogue: 0,0:16:34.29,0:16:37.79,One,,0000,0000,0000,,Besides, the women in that play had\Nghastly theatrical makeup on their faces,
+Dialogue: 0,0:16:37.40,0:16:40.90,Two,,0000,0000,0000,,et cet homme ouvre une conserve\Navec des mains, pas avec un crochet.
+Dialogue: 0,0:16:37.87,0:16:41.37,One,,0000,0000,0000,,and this man is opening a can of peaches\Nwith hands, not hooks.
+Dialogue: 0,0:16:40.98,0:16:43.40,Two,,0000,0000,0000,,Arr&ecirc;tez,\Nc'est la nourriture d'oncle Monty.
+Dialogue: 0,0:16:41.45,0:16:43.87,One,,0000,0000,0000,,That's Uncle Monty's food.\NStop eating his food.
+Dialogue: 0,0:16:43.48,0:16:45.40,Two,,0000,0000,0000,,Je voulais juste quelques p&ecirc;ches.
+Dialogue: 0,0:16:43.95,0:16:45.87,One,,0000,0000,0000,,I was only gonna have a few peaches.
+Dialogue: 0,0:16:45.48,0:16:49.23,Two,,0000,0000,0000,,Les enfants ont perdu leur oncle.\NVous pouvez le comprendre.
+Dialogue: 0,0:16:45.95,0:16:49.70,One,,0000,0000,0000,,The children lost their uncle today.\NI'm sure you can understand.
+Dialogue: 0,0:16:49.32,0:16:53.11,Two,,0000,0000,0000,,Violette, Klaus, Prunille, montez.\NLes adultes vont g&eacute;rer.
+Dialogue: 0,0:16:49.79,0:16:52.12,One,,0000,0000,0000,,Violet, Klaus, Sunny,\Nwhy don't you wait upstairs.
+Dialogue: 0,0:16:52.20,0:16:53.58,One,,0000,0000,0000,,The adults will take care of it from here.
+Dialogue: 0,0:16:53.19,0:16:54.48,Two,,0000,0000,0000,,Mais, M. Poe...
+Dialogue: 0,0:16:53.66,0:16:54.95,One,,0000,0000,0000,,But Mr. Poe--
+Dialogue: 0,0:16:54.57,0:16:57.57,Two,,0000,0000,0000,,Les adultes vont g&eacute;rer.
+Dialogue: 0,0:16:55.04,0:16:58.04,One,,0000,0000,0000,,The adults will take care of it from here.
+Dialogue: 0,0:16:57.65,0:17:01.69,Two,,0000,0000,0000,,Viens, Klaus. Les adultes vont rien g&eacute;rer,\Nmais nous, si.
+Dialogue: 0,0:16:58.12,0:16:59.37,One,,0000,0000,0000,,Come on, Klaus.
+Dialogue: 0,0:16:59.45,0:17:02.37,One,,0000,0000,0000,,The adults won't take care of anything.\NBut we will.
+Dialogue: 0,0:17:10.32,0:17:12.77,Two,,0000,0000,0000,,Faites vite. Je dois aller &agrave; la banque.
+Dialogue: 0,0:17:10.79,0:17:13.25,One,,0000,0000,0000,,Now, please, work quickly.\NI need to get back to the bank.
+Dialogue: 0,0:17:32.57,0:17:35.44,Two,,0000,0000,0000,,Si on vous a d&eacute;j&agrave; mis &agrave; l'&eacute;cart\N&agrave; cause de votre &acirc;ge,
+Dialogue: 0,0:17:33.04,0:17:35.83,One,,0000,0000,0000,,If you have ever been left out of\Nan important conversation due to your age,
+Dialogue: 0,0:17:35.52,0:17:38.90,Two,,0000,0000,0000,,vous savez ce que les Baudelaire\Nont ressenti en ne pouvant participer
+Dialogue: 0,0:17:35.91,0:17:38.33,One,,0000,0000,0000,,then you know how the Baudelaires felt\Nas they trudged up the stairs,
+Dialogue: 0,0:17:38.41,0:17:41.91,One,,0000,0000,0000,,unable to participate in the conversation\Nthat would determine their fate.
+Dialogue: 0,0:17:38.98,0:17:41.69,Two,,0000,0000,0000,,&agrave; la discussion\Nqui d&eacute;terminerait leur destin.
+Dialogue: 0,0:17:42.36,0:17:44.36,Two,,0000,0000,0000,,Ils d&eacute;cid&egrave;rent donc de se d&eacute;brouiller.
+Dialogue: 0,0:17:42.83,0:17:44.83,One,,0000,0000,0000,,So they decided to hold their own.
+Dialogue: 0,0:17:44.44,0:17:47.44,Two,,0000,0000,0000,,La Grande Vip&egrave;re n'a pas tu&eacute; Monty.
+Dialogue: 0,0:17:44.91,0:17:47.91,One,,0000,0000,0000,,We know the incredibly deadly viper\Ndidn't kill Uncle Monty.
+Dialogue: 0,0:17:47.52,0:17:50.48,Two,,0000,0000,0000,,C'est le comte Olaf.\NM. Poe ne nous croira jamais.
+Dialogue: 0,0:17:48.00,0:17:50.95,One,,0000,0000,0000,,And we know that Count Olaf did.\NMr. Poe would never believe us.
+Dialogue: 0,0:17:50.57,0:17:52.07,Two,,0000,0000,0000,,Pas sans preuves.
+Dialogue: 0,0:17:51.04,0:17:52.54,One,,0000,0000,0000,,Not without evidence and proof.
+Dialogue: 0,0:17:52.15,0:17:53.48,Two,,0000,0000,0000,,L'infirmi&egrave;re est fausse,
+Dialogue: 0,0:17:52.62,0:17:53.87,One,,0000,0000,0000,,Nurse Lucafont may be a fake nurse,
+Dialogue: 0,0:17:53.57,0:17:56.23,Two,,0000,0000,0000,,mais oncle Monty avait\Ndeux morsures de serpent.
+Dialogue: 0,0:17:53.95,0:17:56.70,One,,0000,0000,0000,,but Uncle Monty had two bite marks\Nlike a snake would make.
+Dialogue: 0,0:17:56.32,0:17:57.44,Two,,0000,0000,0000,,Je les ai vues.
+Dialogue: 0,0:17:56.79,0:17:57.91,One,,0000,0000,0000,,I saw them this morning.
+Dialogue: 0,0:17:57.52,0:18:01.02,Two,,0000,0000,0000,,Et j'ai aussi vu la Grande Vip&egrave;re\Ndans sa cage.
+Dialogue: 0,0:17:58.00,0:18:00.41,One,,0000,0000,0000,,I saw the incredibly deadly viper\Nthis morning, too.
+Dialogue: 0,0:18:00.50,0:18:01.50,One,,0000,0000,0000,,It was in its cage.
+Dialogue: 0,0:18:01.11,0:18:03.44,Two,,0000,0000,0000,,Le comte Olaf a d&ucirc; la lib&eacute;rer.
+Dialogue: 0,0:18:01.58,0:18:03.91,One,,0000,0000,0000,,While we were at the parlor,\NCount Olaf must have set it loose.
+Dialogue: 0,0:18:03.52,0:18:04.52,Two,,0000,0000,0000,,Ou pire.
+Dialogue: 0,0:18:04.00,0:18:05.00,One,,0000,0000,0000,,Or worse.
+Dialogue: 0,0:18:04.61,0:18:06.23,Two,,0000,0000,0000,,C'est affreux.
+Dialogue: 0,0:18:06.32,0:18:08.02,Two,,0000,0000,0000,,Je sais que vous &eacute;tiez proches.
+Dialogue: 0,0:18:06.79,0:18:09.62,One,,0000,0000,0000,,I'm sure it's okay, Sunny.\NI know you two were close.
+Dialogue: 0,0:18:08.11,0:18:09.15,Two,,0000,0000,0000,,Mordre, &ccedil;a rapproche.
+Dialogue: 0,0:18:09.23,0:18:12.15,Two,,0000,0000,0000,,- On doit trouver le serpent.\N- Et la cause de la mort de Monty.
+Dialogue: 0,0:18:09.70,0:18:11.04,One,,0000,0000,0000,,If we could find the snake...
+Dialogue: 0,0:18:11.12,0:18:12.58,One,,0000,0000,0000,,If we could find out\Nhow Monty really died...
+Dialogue: 0,0:18:12.23,0:18:14.98,Two,,0000,0000,0000,,- Pour prouver qu'il est innocent.\N- Et Stephano coupable.
+Dialogue: 0,0:18:12.66,0:18:15.45,One,,0000,0000,0000,,- We could prove that it's innocent.\N- And that Stephano is guilty.
+Dialogue: 0,0:18:15.07,0:18:17.90,Two,,0000,0000,0000,,Et M. Poe devra arr&ecirc;ter le comte Olaf.
+Dialogue: 0,0:18:15.54,0:18:18.37,One,,0000,0000,0000,,And Mr. Poe would have to have\NCount Olaf arrested.
+Dialogue: 0,0:18:17.98,0:18:19.48,Two,,0000,0000,0000,,On n'ira pas au P&eacute;rou.
+Dialogue: 0,0:18:18.45,0:18:20.70,One,,0000,0000,0000,,We wouldn't have to go to Peru.
+Dialogue: 0,0:18:20.86,0:18:23.77,Two,,0000,0000,0000,,Si on avait trouv&eacute; des preuves plus t&ocirc;t,\Non aurait pu le sauver.
+Dialogue: 0,0:18:21.54,0:18:24.25,One,,0000,0000,0000,,If we'd found proof earlier,\Nmaybe we could have saved Uncle Monty.
+Dialogue: 0,0:18:23.86,0:18:26.15,Two,,0000,0000,0000,,Si on envoie le comte Olaf en prison,
+Dialogue: 0,0:18:24.33,0:18:26.62,One,,0000,0000,0000,,If we put Count Olaf behind bars,
+Dialogue: 0,0:18:26.23,0:18:28.52,Two,,0000,0000,0000,,on l'emp&ecirc;chera de nuire\N&agrave; quelqu'un d'autre.
+Dialogue: 0,0:18:26.70,0:18:29.00,One,,0000,0000,0000,,we can still stop him\Nfrom harming anyone else.
+Dialogue: 0,0:18:28.61,0:18:29.61,Two,,0000,0000,0000,,Nous y compris.
+Dialogue: 0,0:18:29.08,0:18:30.08,One,,0000,0000,0000,,Including us.
+Dialogue: 0,0:18:29.69,0:18:32.27,Two,,0000,0000,0000,,Tu peux retourner dans le laboratoire ?
+Dialogue: 0,0:18:30.16,0:18:32.75,One,,0000,0000,0000,,Do you think you can get back inside\Nthe Reptile Room?
+Dialogue: 0,0:18:36.27,0:18:37.73,Two,,0000,0000,0000,,Je crois savoir comment.
+Dialogue: 0,0:18:36.75,0:18:38.25,One,,0000,0000,0000,,I think I might have a way.
+Dialogue: 0,0:18:39.86,0:18:42.90,Two,,0000,0000,0000,,Je me vois contraint\Nd'employer ce lieu commun :
+Dialogue: 0,0:18:40.33,0:18:43.37,One,,0000,0000,0000,,It is now necessary for me\Nto use the hackneyed phrase,
+Dialogue: 0,0:18:42.98,0:18:44.82,Two,,0000,0000,0000,,"Revenons &agrave; nos moutons".
+Dialogue: 0,0:18:43.45,0:18:45.29,One,,0000,0000,0000,,"meanwhile back at the ranch."
+Dialogue: 0,0:18:44.90,0:18:46.23,Two,,0000,0000,0000,,Un "lieu commun" signifie
+Dialogue: 0,0:18:45.37,0:18:46.70,One,,0000,0000,0000,,The word "hackneyed" here means
+Dialogue: 0,0:18:46.32,0:18:49.23,Two,,0000,0000,0000,,"tellement employ&eacute;\Nque c'en est devenu un clich&eacute; p&eacute;nible".
+Dialogue: 0,0:18:46.79,0:18:49.87,One,,0000,0000,0000,,"used by so many writers,\Nit is a tiresome cliché,"
+Dialogue: 0,0:18:49.32,0:18:51.90,Two,,0000,0000,0000,,"Revenons &agrave; nos moutons"\Ns'emploie pour relier
+Dialogue: 0,0:18:49.95,0:18:52.29,One,,0000,0000,0000,,while "meanwhile back at the ranch"\Nis a phrase used to link
+Dialogue: 0,0:18:51.98,0:18:54.40,Two,,0000,0000,0000,,une partie de l'histoire &agrave; une autre,
+Dialogue: 0,0:18:52.37,0:18:54.87,One,,0000,0000,0000,,what is going on\Nin one part of a story with another part,
+Dialogue: 0,0:18:54.48,0:18:57.02,Two,,0000,0000,0000,,mais &ccedil;a n'a rien &agrave; voir\Navec la gent ovine.
+Dialogue: 0,0:18:54.95,0:18:57.50,One,,0000,0000,0000,,and has nothing to do with cows\Nor creamy salad dressing.
+Dialogue: 0,0:18:57.11,0:18:59.02,Two,,0000,0000,0000,,"Revenons &agrave; nos moutons"
+Dialogue: 0,0:18:57.58,0:18:59.41,One,,0000,0000,0000,,When I say, "Meanwhile back at the ranch,"
+Dialogue: 0,0:18:59.11,0:19:02.32,Two,,0000,0000,0000,,signifie ici :\N"Revenons au laboratoire aux serpents",
+Dialogue: 0,0:18:59.50,0:19:02.79,One,,0000,0000,0000,,what I mean is,\Nmeanwhile, back in the Reptile Room,
+Dialogue: 0,0:19:02.40,0:19:05.57,Two,,0000,0000,0000,,o&ugrave; les adultes\Navaient une discussion d'adultes.
+Dialogue: 0,0:19:02.87,0:19:06.04,One,,0000,0000,0000,,the adults were having\Nan adult conversation.
+Dialogue: 0,0:19:05.65,0:19:08.61,Two,,0000,0000,0000,,Si on aligne des p&ecirc;ches jusqu'&agrave; la cage,
+Dialogue: 0,0:19:06.12,0:19:09.29,One,,0000,0000,0000,,If we place the peaches in a line\Nleading up to the cage,
+Dialogue: 0,0:19:08.69,0:19:11.98,Two,,0000,0000,0000,,le serpent les suivra peut-&ecirc;tre\Net on pourra l'attraper.
+Dialogue: 0,0:19:09.37,0:19:12.45,One,,0000,0000,0000,,perhaps the snake will follow the trail\Nand then we can trap it inside.
+Dialogue: 0,0:19:12.07,0:19:13.86,Two,,0000,0000,0000,,- Les serpents aiment &ccedil;a ?\N- Oui.
+Dialogue: 0,0:19:12.54,0:19:14.33,One,,0000,0000,0000,,- Do snakes eat peaches?\N- Yes.
+Dialogue: 0,0:19:13.94,0:19:16.15,Two,,0000,0000,0000,,On peut peut-&ecirc;tre se servir du b&eacute;b&eacute;.
+Dialogue: 0,0:19:14.41,0:19:16.08,One,,0000,0000,0000,,Maybe we can use the baby.
+Dialogue: 0,0:19:16.23,0:19:18.57,Two,,0000,0000,0000,,Occupez le banquier.
+Dialogue: 0,0:19:16.70,0:19:19.04,One,,0000,0000,0000,,Keep the banker distracted.
+Dialogue: 0,0:19:18.65,0:19:20.69,Two,,0000,0000,0000,,C'est bon pour la peau.
+Dialogue: 0,0:19:19.12,0:19:21.16,One,,0000,0000,0000,,Oh, you know,\Nthese are so good for your skin.
+Dialogue: 0,0:19:20.77,0:19:22.19,Two,,0000,0000,0000,,- Ah oui ?\N- Vous en voulez ?
+Dialogue: 0,0:19:21.25,0:19:22.66,One,,0000,0000,0000,,- Are they?\N- You wanna try?
+Dialogue: 0,0:19:22.27,0:19:24.82,Two,,0000,0000,0000,,Merci. Sans fa&ccedil;on.
+Dialogue: 0,0:19:22.75,0:19:24.25,One,,0000,0000,0000,,- No, thank you. No, really.\N- Ah...
+Dialogue: 0,0:19:24.33,0:19:27.87,One,,0000,0000,0000,,- I don't... No. Oh, that's...\N- Mmm. Mmm!
+Dialogue: 0,0:19:43.44,0:19:46.61,Two,,0000,0000,0000,,Les orphelins, le bateau nous attend.
+Dialogue: 0,0:19:43.91,0:19:47.08,One,,0000,0000,0000,,Oh, orphans, our ship awaits.
+Dialogue: 0,0:19:49.23,0:19:50.65,Two,,0000,0000,0000,,Les orphelins ?
+Dialogue: 0,0:19:49.70,0:19:51.12,One,,0000,0000,0000,,Orphans?
+Dialogue: 0,0:20:02.40,0:20:05.23,Two,,0000,0000,0000,,Un "labyrinthe" signifie\N"un d&eacute;dale plein de secrets
+Dialogue: 0,0:20:02.87,0:20:06.62,One,,0000,0000,0000,,"Labyrinth" is a word which\Nmeans "maze full of secrets and danger,"
+Dialogue: 0,0:20:05.32,0:20:07.57,Two,,0000,0000,0000,,et de dangers qui, dans la Gr&egrave;ce antique,
+Dialogue: 0,0:20:06.70,0:20:08.04,One,,0000,0000,0000,,and if you're in ancient Greece,
+Dialogue: 0,0:20:07.65,0:20:10.86,Two,,0000,0000,0000,,contenait un monstre\Nmi-homme mi-taureau tr&egrave;s d&eacute;sagr&eacute;able."
+Dialogue: 0,0:20:08.12,0:20:11.33,One,,0000,0000,0000,,"a monster that is half bull\Nand extremely unpleasant."
+Dialogue: 0,0:20:10.94,0:20:13.32,Two,,0000,0000,0000,,Le labyrinthe\Nderri&egrave;re la maison du Pr Montgomery
+Dialogue: 0,0:20:11.41,0:20:13.79,One,,0000,0000,0000,,The hedge labyrinth\Nbehind Dr. Montgomery's house
+Dialogue: 0,0:20:13.40,0:20:15.11,Two,,0000,0000,0000,,n'abritait pas de monstres,
+Dialogue: 0,0:20:13.87,0:20:15.58,One,,0000,0000,0000,,didn't contain a monster.
+Dialogue: 0,0:20:15.19,0:20:16.61,Two,,0000,0000,0000,,mais alors que Klaus regardait
+Dialogue: 0,0:20:15.66,0:20:17.08,One,,0000,0000,0000,,But as Klaus looked down at it,
+Dialogue: 0,0:20:16.69,0:20:20.32,Two,,0000,0000,0000,,ces haies serpenter\Npour former un oeil sinistre et familier,
+Dialogue: 0,0:20:17.16,0:20:20.79,One,,0000,0000,0000,,seeing the way the hedges snaked\Nto form a familiar sinister eye,
+Dialogue: 0,0:20:20.40,0:20:23.94,Two,,0000,0000,0000,,il semblait abriter &agrave; la fois des secrets\Net bien des dangers.
+Dialogue: 0,0:20:20.87,0:20:24.00,One,,0000,0000,0000,,it seemed to contain\Nboth secrets and danger.
+Dialogue: 0,0:20:24.02,0:20:27.19,Two,,0000,0000,0000,,Des secrets qu'oncle Monty\Navait promis de partager...
+Dialogue: 0,0:20:24.50,0:20:27.66,One,,0000,0000,0000,,Secrets their Uncle Monty\Nhad promised to share...
+Dialogue: 0,0:20:27.27,0:20:30.11,Two,,0000,0000,0000,,et le danger d'&ecirc;tre suspendu d'aussi haut.
+Dialogue: 0,0:20:27.75,0:20:30.58,One,,0000,0000,0000,,and the danger of being\Nso high off the ground.
+Dialogue: 0,0:20:32.27,0:20:33.90,Two,,0000,0000,0000,,Les reptiles sont...
+Dialogue: 0,0:20:32.75,0:20:34.37,One,,0000,0000,0000,,The reptiles certainly seem--
+Dialogue: 0,0:20:33.98,0:20:35.44,Two,,0000,0000,0000,,- Agit&eacute;s.\N- Agac&eacute;s.
+Dialogue: 0,0:20:34.45,0:20:35.62,One,,0000,0000,0000,,- Agitated.\N- Annoyed.
+Dialogue: 0,0:20:35.52,0:20:38.32,Two,,0000,0000,0000,,- Ils sont affam&eacute;s.\N- Ou tristes &agrave; cause du meurtre.
+Dialogue: 0,0:20:35.70,0:20:38.79,One,,0000,0000,0000,,- Mmm. Maybe they're hungry.\N- Maybe they're upset about the murder.
+Dialogue: 0,0:20:38.40,0:20:40.65,Two,,0000,0000,0000,,Ce sont des animaux. Ils ne r&eacute;alisent pas.
+Dialogue: 0,0:20:38.87,0:20:41.12,One,,0000,0000,0000,,Well, they're animals.\NI hardly think they're aware of anything.
+Dialogue: 0,0:20:40.73,0:20:42.57,Two,,0000,0000,0000,,Vous avez dit "meurtre" ?
+Dialogue: 0,0:20:41.20,0:20:43.04,One,,0000,0000,0000,,Did you say "murder"?
+Dialogue: 0,0:20:42.65,0:20:45.44,Two,,0000,0000,0000,,- Je voulais dire "accident".\N- Oui.
+Dialogue: 0,0:20:43.12,0:20:45.91,One,,0000,0000,0000,,- I meant accident.\N- Ah, yes, well...
+Dialogue: 0,0:20:45.52,0:20:48.36,Two,,0000,0000,0000,,Je suis contrari&eacute;\Nd'&ecirc;tre en retard &agrave; la banque.
+Dialogue: 0,0:20:46.00,0:20:48.83,One,,0000,0000,0000,,I'm certainly upset\Nabout being late for the bank,
+Dialogue: 0,0:20:48.44,0:20:51.61,Two,,0000,0000,0000,,D&eacute;p&ecirc;chons-nous. Vous avez vu Stephano ?
+Dialogue: 0,0:20:48.91,0:20:51.54,One,,0000,0000,0000,,so let's hurry this thing along.\NHas anyone seen Stephano?
+Dialogue: 0,0:20:51.62,0:20:54.20,One,,0000,0000,0000,,Uh, he just went to make some coffee.
+Dialogue: 0,0:20:51.69,0:20:53.73,Two,,0000,0000,0000,,Il est all&eacute; faire du caf&eacute;.
+Dialogue: 0,0:20:53.82,0:20:55.44,Two,,0000,0000,0000,,Du caf&eacute;. Que c'est aimable !
+Dialogue: 0,0:20:54.29,0:20:55.91,One,,0000,0000,0000,,Coffee. Oh, how considerate.
+Dialogue: 0,0:20:55.52,0:20:58.77,Two,,0000,0000,0000,,Le Pr Montgomery m'a dit de venir ici\Nau petit matin.
+Dialogue: 0,0:20:56.00,0:20:58.95,One,,0000,0000,0000,,Dr. Montgomery insisted I drive out here\Nfirst thing in the morning.
+Dialogue: 0,0:20:58.86,0:21:02.73,Two,,0000,0000,0000,,Il &eacute;tait en vie, et je n'ai pas pu\Nprendre ma tasse du matin.
+Dialogue: 0,0:20:59.04,0:21:03.20,One,,0000,0000,0000,,That was when he was alive, of course,\Nand I didn't have time for my morning cup.
+Dialogue: 0,0:21:03.57,0:21:05.23,Two,,0000,0000,0000,,Je vous comprends.
+Dialogue: 0,0:21:04.04,0:21:05.70,One,,0000,0000,0000,,I know how you feel.
+Dialogue: 0,0:21:05.32,0:21:09.40,Two,,0000,0000,0000,,Mon patron m'a demand&eacute; de venir\Ntout de suite. J'ai loup&eacute; une audition.
+Dialogue: 0,0:21:05.79,0:21:09.87,One,,0000,0000,0000,,My boss made me come here right away.\NI had to miss an important audition.
+Dialogue: 0,0:21:09.48,0:21:10.48,Two,,0000,0000,0000,,Une audition ?
+Dialogue: 0,0:21:09.95,0:21:11.29,One,,0000,0000,0000,,Audition?
+Dialogue: 0,0:21:10.90,0:21:14.02,Two,,0000,0000,0000,,Une autopsie. Du jargon m&eacute;dical.
+Dialogue: 0,0:21:11.37,0:21:14.50,One,,0000,0000,0000,,I mean autopsy.\NIt's medical slang.
+Dialogue: 0,0:21:14.11,0:21:17.32,Two,,0000,0000,0000,,- C'est &eacute;trange.\N- C'est tout &agrave; fait normal.
+Dialogue: 0,0:21:14.58,0:21:17.79,One,,0000,0000,0000,,- That seems strange.\N- Oh, it's totally normal.
+Dialogue: 0,0:21:17.40,0:21:19.86,Two,,0000,0000,0000,,On a un vaste jargon chez les toubibs.
+Dialogue: 0,0:21:17.87,0:21:20.33,One,,0000,0000,0000,,We have lots of slang in the ol' med biz.
+Dialogue: 0,0:21:19.94,0:21:22.15,Two,,0000,0000,0000,,C'est le jargon de m&eacute;decin.
+Dialogue: 0,0:21:20.41,0:21:22.62,One,,0000,0000,0000,,That's slang for medical business.
+Dialogue: 0,0:21:22.23,0:21:26.19,Two,,0000,0000,0000,,On appelle les docteurs "doc",\Nles cadavres "corps".
+Dialogue: 0,0:21:22.70,0:21:27.16,One,,0000,0000,0000,,We call doctors "doc,"\Nand dead bodies "corpses."
+Dialogue: 0,0:21:26.77,0:21:28.23,Two,,0000,0000,0000,,Je suppose...
+Dialogue: 0,0:21:27.25,0:21:28.70,One,,0000,0000,0000,,Ah, I suppose...
+Dialogue: 0,0:21:28.32,0:21:30.23,Two,,0000,0000,0000,,M&ecirc;me si le corps de Monty n'y &eacute;tait plus,
+Dialogue: 0,0:21:28.79,0:21:30.33,One,,0000,0000,0000,,Even though Uncle Monty's body\Nhad been removed,
+Dialogue: 0,0:21:30.32,0:21:33.61,Two,,0000,0000,0000,,le laboratoire aux serpents n'&eacute;tait plus\Naussi engageant qu'avant.
+Dialogue: 0,0:21:30.41,0:21:34.08,One,,0000,0000,0000,,the Reptile Room was not as inviting\Nto Klaus as it had been the day before.
+Dialogue: 0,0:21:34.52,0:21:37.61,Two,,0000,0000,0000,,Ce qui se passe en un lieu\Nentache &agrave; jamais notre ressenti,
+Dialogue: 0,0:21:35.00,0:21:38.08,One,,0000,0000,0000,,What happens in a certain place\Ncan stain your feelings for it,
+Dialogue: 0,0:21:37.69,0:21:40.44,Two,,0000,0000,0000,,comme l'encre peut entacher\Nune feuille blanche.
+Dialogue: 0,0:21:38.16,0:21:40.91,One,,0000,0000,0000,,just as ink can stain\Na white sheet of paper.
+Dialogue: 0,0:21:43.32,0:21:46.27,Two,,0000,0000,0000,,On n'oublie jamais\Nce qui s'y est produit...
+Dialogue: 0,0:21:43.79,0:21:46.75,One,,0000,0000,0000,,You can never forget\Nwhat transpired in that place...
+Dialogue: 0,0:21:46.36,0:21:47.86,Two,,0000,0000,0000,,EMMENEZ LES ENFANTS AU PÉROU
+Dialogue: 0,0:21:47.70,0:21:50.12,One,,0000,0000,0000,,just as words in ink\Ncan never be unwritten.
+Dialogue: 0,0:21:47.94,0:21:49.65,Two,,0000,0000,0000,,...comme on ne peut effacer un mot.
+Dialogue: 0,0:21:49.73,0:21:51.90,Two,,0000,0000,0000,,Je devrais aller voir les enfants.
+Dialogue: 0,0:21:50.20,0:21:52.37,One,,0000,0000,0000,,Oh, perhaps I should check\Non the children.
+Dialogue: 0,0:21:51.98,0:21:53.27,Two,,0000,0000,0000,,Regardez !
+Dialogue: 0,0:21:52.45,0:21:54.33,One,,0000,0000,0000,,Look over there!
+Dialogue: 0,0:21:53.94,0:21:55.73,Two,,0000,0000,0000,,O&ugrave; &ccedil;a ? Qu'est-ce que je regarde ?
+Dialogue: 0,0:21:54.41,0:21:56.20,One,,0000,0000,0000,,Where?\NWhat am I looking at?
+Dialogue: 0,0:21:58.90,0:22:01.32,Two,,0000,0000,0000,,La Grande Vip&egrave;re de la mort subite.
+Dialogue: 0,0:21:59.37,0:22:01.79,One,,0000,0000,0000,,It's the incredibly deadly viper.
+Dialogue: 0,0:22:01.40,0:22:02.61,Two,,0000,0000,0000,,Mais la cage est ferm&eacute;e !
+Dialogue: 0,0:22:01.87,0:22:03.16,One,,0000,0000,0000,,In that cage? But it's locked.
+Dialogue: 0,0:22:02.69,0:22:05.36,Two,,0000,0000,0000,,- Elle a d&ucirc; y ramper.\N- Et s'y est enferm&eacute;e.
+Dialogue: 0,0:22:03.25,0:22:04.54,One,,0000,0000,0000,,Must've crawled inside.
+Dialogue: 0,0:22:04.62,0:22:05.83,One,,0000,0000,0000,,Locked the cage behind it.
+Dialogue: 0,0:22:05.44,0:22:07.90,Two,,0000,0000,0000,,Mais un serpent ne peut pas\Ns'enfermer tout seul.
+Dialogue: 0,0:22:05.91,0:22:08.37,One,,0000,0000,0000,,But a snake can't operate\Na lock by itself.
+Dialogue: 0,0:22:07.98,0:22:11.61,Two,,0000,0000,0000,,- Peut-&ecirc;tre qu'un l&eacute;zard l'a aid&eacute;e.\N- C'est peu probable.
+Dialogue: 0,0:22:08.45,0:22:12.08,One,,0000,0000,0000,,- Maybe a lizard helped it.\N- That seems unlikely.
+Dialogue: 0,0:22:11.69,0:22:14.69,Two,,0000,0000,0000,,C'est la cage\Nde la "vip&egrave;re Wolf de Virginie".
+Dialogue: 0,0:22:12.16,0:22:15.16,One,,0000,0000,0000,,Besides, that cage is clearly marked\N"Virginian Wolfsnake."
+Dialogue: 0,0:22:14.77,0:22:17.77,Two,,0000,0000,0000,,Je commence &agrave; douter de vos comp&eacute;tences.
+Dialogue: 0,0:22:15.25,0:22:18.25,One,,0000,0000,0000,,I must say, I'm beginning to doubt\Nyour qualifications.
+Dialogue: 0,0:22:17.86,0:22:19.52,Two,,0000,0000,0000,,Je suis une vraie infirmi&egrave;re.
+Dialogue: 0,0:22:18.33,0:22:20.00,One,,0000,0000,0000,,I'm totally a nurse.
+Dialogue: 0,0:22:19.61,0:22:21.65,Two,,0000,0000,0000,,C'est bien marqu&eacute; sur votre badge.
+Dialogue: 0,0:22:20.08,0:22:22.12,One,,0000,0000,0000,,Well, it does say so on your pin.
+Dialogue: 0,0:22:26.86,0:22:29.86,Two,,0000,0000,0000,,- C'&eacute;tait quoi ?\N- &Ccedil;a ne ressemblait pas &agrave; un serpent.
+Dialogue: 0,0:22:27.33,0:22:30.33,One,,0000,0000,0000,,- What was that?\N- That didn't sound like a snake.
+Dialogue: 0,0:22:29.94,0:22:31.48,Two,,0000,0000,0000,,Pas du tout.
+Dialogue: 0,0:22:30.41,0:22:31.95,One,,0000,0000,0000,,Exactly.
+Dialogue: 0,0:22:33.19,0:22:35.69,Two,,0000,0000,0000,,C'est juste l'horloge de l'iguane hurleur.
+Dialogue: 0,0:22:33.66,0:22:36.16,One,,0000,0000,0000,,That's just\Nthe screeching iguana clock.
+Dialogue: 0,0:22:35.77,0:22:37.77,Two,,0000,0000,0000,,Ce n'&eacute;tait pas l'horloge de l'iguane.
+Dialogue: 0,0:22:36.25,0:22:38.25,One,,0000,0000,0000,,It was not the screeching iguana clock.
+Dialogue: 0,0:22:48.36,0:22:51.73,Two,,0000,0000,0000,,Pour comprendre pleinement\Nl'horrible sc&egrave;ne,
+Dialogue: 0,0:22:48.83,0:22:50.50,One,,0000,0000,0000,,To fully understand the ghastly scene
+Dialogue: 0,0:22:50.58,0:22:52.20,One,,0000,0000,0000,,the adults discovered in the parlor,
+Dialogue: 0,0:22:51.82,0:22:54.32,Two,,0000,0000,0000,,reprenons l'expression\N"revenons &agrave; nos moutons",
+Dialogue: 0,0:22:52.29,0:22:54.79,One,,0000,0000,0000,,it is useful to once again use the phrase\N"meanwhile back at the ranch,"
+Dialogue: 0,0:22:54.40,0:22:56.90,Two,,0000,0000,0000,,qui signifie ici "&agrave; l'&eacute;tage"...
+Dialogue: 0,0:22:54.87,0:22:57.37,One,,0000,0000,0000,,which in this case means "upstairs."
+Dialogue: 0,0:23:00.94,0:23:02.52,Two,,0000,0000,0000,,six minutes plus t&ocirc;t.
+Dialogue: 0,0:23:01.41,0:23:03.00,One,,0000,0000,0000,,And about six minutes earlier.
+Dialogue: 0,0:23:11.69,0:23:14.52,Two,,0000,0000,0000,,Les orphelins, le bateau nous attend.
+Dialogue: 0,0:23:12.16,0:23:15.00,One,,0000,0000,0000,,Oh, orphans, our ship awaits.
+Dialogue: 0,0:23:16.65,0:23:17.86,Two,,0000,0000,0000,,Les orphelins ?
+Dialogue: 0,0:23:17.12,0:23:18.33,One,,0000,0000,0000,,Orphans?
+Dialogue: 0,0:23:27.15,0:23:29.86,Two,,0000,0000,0000,,Bien des ann&eacute;es plus tard,\NKlaus s'allongera souvent
+Dialogue: 0,0:23:27.62,0:23:30.33,One,,0000,0000,0000,,Years later,\NKlaus Baudelaire would often lie in bed,
+Dialogue: 0,0:23:29.94,0:23:31.82,Two,,0000,0000,0000,,en regrettant de ne pas avoir cri&eacute;
+Dialogue: 0,0:23:30.41,0:23:32.29,One,,0000,0000,0000,,filled with regret that he never yelled
+Dialogue: 0,0:23:31.90,0:23:34.61,Two,,0000,0000,0000,,"Cet homme est le comte Olaf"\N&agrave; son oncle, au cin&eacute;ma,
+Dialogue: 0,0:23:32.37,0:23:35.08,One,,0000,0000,0000,,"That man is Count Olaf"\Nto his uncle at the movies,
+Dialogue: 0,0:23:34.69,0:23:36.98,Two,,0000,0000,0000,,en mangeant chinois ou sous le cano&euml;.
+Dialogue: 0,0:23:35.16,0:23:37.45,One,,0000,0000,0000,,or over Chinese food,\Nor from under his canoe.
+Dialogue: 0,0:23:37.07,0:23:40.19,Two,,0000,0000,0000,,Et je ne peux affirmer\Nque Violette dormait mieux,
+Dialogue: 0,0:23:37.54,0:23:40.66,One,,0000,0000,0000,,And while I cannot say\Nthat Violet slept any easier,
+Dialogue: 0,0:23:40.27,0:23:42.98,Two,,0000,0000,0000,,mais elle avait eu plus de chance\Nque son fr&egrave;re.
+Dialogue: 0,0:23:40.75,0:23:43.45,One,,0000,0000,0000,,she was luckier than her brother\Nin one respect.
+Dialogue: 0,0:23:43.07,0:23:47.73,Two,,0000,0000,0000,,Elle savait qu'il fallait agir.\NEt elle ne le regretterait pas.
+Dialogue: 0,0:23:43.54,0:23:48.20,One,,0000,0000,0000,,She knew that the time to act was now.\NAnd she would not regret it.
+Dialogue: 0,0:23:51.44,0:23:53.98,Two,,0000,0000,0000,,Tu seras bien ici.\NTu surveilles la porte ?
+Dialogue: 0,0:23:51.91,0:23:54.45,One,,0000,0000,0000,,You'll be comfortable here.\NDo you think you can watch the door?
+Dialogue: 0,0:23:54.07,0:23:55.32,Two,,0000,0000,0000,,Compris.
+Dialogue: 0,0:24:17.11,0:24:18.61,Two,,0000,0000,0000,,Tu pourrais m'aider ?
+Dialogue: 0,0:24:17.16,0:24:19.33,One,,0000,0000,0000,,Do you think you can help me out?
+Dialogue: 0,0:24:28.94,0:24:29.94,Two,,0000,0000,0000,,Travail d'&eacute;quipe.
+Dialogue: 0,0:24:31.15,0:24:32.36,Two,,0000,0000,0000,,Merci, Prunille.
+Dialogue: 0,0:24:31.62,0:24:32.83,One,,0000,0000,0000,,Thanks, Sunny.
+Dialogue: 0,0:25:05.69,0:25:06.73,Two,,0000,0000,0000,,Prunille ?
+Dialogue: 0,0:25:06.16,0:25:07.41,One,,0000,0000,0000,,Sunny?
+Dialogue: 0,0:25:07.52,0:25:09.44,Two,,0000,0000,0000,,&Ccedil;a va mal finir.
+Dialogue: 0,0:25:08.00,0:25:09.91,One,,0000,0000,0000,,I'd say partly cloudy.
+Dialogue: 0,0:25:10.32,0:25:12.77,Two,,0000,0000,0000,,Je croyais que tu &eacute;tais gentille.
+Dialogue: 0,0:25:10.79,0:25:13.25,One,,0000,0000,0000,,I thought you were\Nsupposed to be a nice girl.
+Dialogue: 0,0:25:12.86,0:25:16.19,Two,,0000,0000,0000,,Les gentilles filles ne fouillent pas\Ndans les affaires des gens,
+Dialogue: 0,0:25:13.33,0:25:16.66,One,,0000,0000,0000,,Nice girls aren't supposed to dig through\Npeople's personal, private property.
+Dialogue: 0,0:25:16.27,0:25:18.19,Two,,0000,0000,0000,,surtout quand... Elle n'&eacute;tait pas ferm&eacute;e ?
+Dialogue: 0,0:25:16.75,0:25:18.66,One,,0000,0000,0000,,Especially when it's... Wasn't it locked?
+Dialogue: 0,0:25:18.27,0:25:19.86,Two,,0000,0000,0000,,- Si.\N- Tu es maligne,
+Dialogue: 0,0:25:18.75,0:25:20.45,One,,0000,0000,0000,,- It was.\N- Oh, how clever.
+Dialogue: 0,0:25:19.94,0:25:21.77,Two,,0000,0000,0000,,mais pas assez pour &eacute;viter &ccedil;a.
+Dialogue: 0,0:25:20.54,0:25:22.25,One,,0000,0000,0000,,But I bet you're not clever enough\Nfor this.
+Dialogue: 0,0:25:21.86,0:25:25.94,Two,,0000,0000,0000,,J'ai quatre billets pour le P&eacute;rou.\NJ'allais vous emmener tous les trois
+Dialogue: 0,0:25:22.33,0:25:24.70,One,,0000,0000,0000,,I have four tickets with me\Nto Peru right now.
+Dialogue: 0,0:25:24.79,0:25:26.41,One,,0000,0000,0000,,I was going to take you and your siblings,
+Dialogue: 0,0:25:26.02,0:25:28.23,Two,,0000,0000,0000,,parce que je suis un bon tuteur.
+Dialogue: 0,0:25:26.50,0:25:28.70,One,,0000,0000,0000,,because that's just\Nthe kind of guardian I am.
+Dialogue: 0,0:25:29.61,0:25:32.40,Two,,0000,0000,0000,,Mais je n'en prendrai qu'une.
+Dialogue: 0,0:25:30.08,0:25:32.87,One,,0000,0000,0000,,But I'll settle for one of you.
+Dialogue: 0,0:25:32.95,0:25:36.08,One,,0000,0000,0000,,That's the screeching iguana clock.
+Dialogue: 0,0:25:33.40,0:25:35.61,Two,,0000,0000,0000,,C'est l'horloge de l'iguane hurleur.
+Dialogue: 0,0:25:36.52,0:25:37.44,Two,,0000,0000,0000,,Mais que...
+Dialogue: 0,0:25:36.70,0:25:38.20,One,,0000,0000,0000,,What is...
+Dialogue: 0,0:25:45.90,0:25:47.82,Two,,0000,0000,0000,,Ce qui nous ram&egrave;ne &agrave;...
+Dialogue: 0,0:25:46.37,0:25:48.29,One,,0000,0000,0000,,Which brings us back to...
+Dialogue: 0,0:25:49.27,0:25:50.57,Two,,0000,0000,0000,,Seigneur, doux J&eacute;sus,
+Dialogue: 0,0:25:49.75,0:25:51.04,One,,0000,0000,0000,,Goodness, golly, good God,
+Dialogue: 0,0:25:50.65,0:25:53.86,Two,,0000,0000,0000,,Marie, Joseph, Zeus et H&eacute;ra,\NNathaniel Hawthorne !
+Dialogue: 0,0:25:51.12,0:25:54.33,One,,0000,0000,0000,,Mary and Joseph, Zeus and Hera,\NNathaniel Hawthorne!
+Dialogue: 0,0:25:55.48,0:25:57.94,Two,,0000,0000,0000,,- C'est lequel ?\N- La Grande Vip&egrave;re de la mort subite.
+Dialogue: 0,0:25:56.20,0:25:58.41,One,,0000,0000,0000,,- Which snake is it?\N- It's the incredibly deadly viper.
+Dialogue: 0,0:25:58.02,0:26:00.44,Two,,0000,0000,0000,,Laissez-la ! Attrapez-la !\NApprochez-vous ! Fuyez !
+Dialogue: 0,0:25:58.50,0:26:00.91,One,,0000,0000,0000,,Don't touch her! Grab her!\NMove closer! Run away!
+Dialogue: 0,0:26:00.52,0:26:02.19,Two,,0000,0000,0000,,Tuez la vip&egrave;re ! Laissez-la !
+Dialogue: 0,0:26:01.00,0:26:02.66,One,,0000,0000,0000,,Kill the snake! Leave it alone!
+Dialogue: 0,0:26:02.27,0:26:04.48,Two,,0000,0000,0000,,Donnez-lui &agrave; manger !\NQu'elle ne la morde pas !
+Dialogue: 0,0:26:02.75,0:26:04.83,One,,0000,0000,0000,,Give it some food! Don't let it bite her!
+Dialogue: 0,0:26:04.91,0:26:09.04,One,,0000,0000,0000,,It bit her!\NIt's bitten her! It bited her!
+Dialogue: 0,0:26:05.36,0:26:08.57,Two,,0000,0000,0000,,Elle l'a mordue !
+Dialogue: 0,0:26:08.65,0:26:11.15,Two,,0000,0000,0000,,Calme-toi ! On s'active !\NAppelez une ambulance !
+Dialogue: 0,0:26:09.12,0:26:11.62,One,,0000,0000,0000,,Calm down! Get moving!\NCall an ambulance!
+Dialogue: 0,0:26:11.23,0:26:13.90,Two,,0000,0000,0000,,Appelez un scientifique !\NAppelez ma femme !
+Dialogue: 0,0:26:11.70,0:26:14.37,One,,0000,0000,0000,,Call a scientist! Call my wife!
+Dialogue: 0,0:26:13.98,0:26:15.44,Two,,0000,0000,0000,,C'est horrible !
+Dialogue: 0,0:26:14.45,0:26:15.91,One,,0000,0000,0000,,This is ghastly!
+Dialogue: 0,0:26:15.52,0:26:17.48,Two,,0000,0000,0000,,C'est fantasmagorique !
+Dialogue: 0,0:26:16.00,0:26:19.29,One,,0000,0000,0000,,This is phantasmagorical!
+Dialogue: 0,0:26:18.90,0:26:21.94,Two,,0000,0000,0000,,Vous &ecirc;tes policiers !\NFaites quelque chose !
+Dialogue: 0,0:26:19.37,0:26:22.41,One,,0000,0000,0000,,You are police officers! Do something!
+Dialogue: 0,0:26:22.02,0:26:24.52,Two,,0000,0000,0000,,On dirait que le b&eacute;b&eacute; joue.
+Dialogue: 0,0:26:22.50,0:26:25.00,One,,0000,0000,0000,,- It... it looks like the baby's playing.\N- Mmm-hmm.
+Dialogue: 0,0:26:27.27,0:26:28.90,Two,,0000,0000,0000,,Avec la Vip&egrave;re de la mort subite ?
+Dialogue: 0,0:26:27.75,0:26:29.37,One,,0000,0000,0000,,With the incredibly deadly viper?
+Dialogue: 0,0:26:28.98,0:26:32.65,Two,,0000,0000,0000,,D'apr&egrave;s le journal d'exp&eacute;dition\Ndu Pr Montgomery, le 24 avril.
+Dialogue: 0,0:26:29.45,0:26:33.12,One,,0000,0000,0000,,From the expedition journal\Nof Dr. Montgomery Montgomery, April 24th.
+Dialogue: 0,0:26:32.73,0:26:35.11,Two,,0000,0000,0000,,"Cette vip&egrave;re\Nne ferait pas de mal &agrave; une mouche.
+Dialogue: 0,0:26:33.20,0:26:35.58,One,,0000,0000,0000,,"The incredibly deadly viper\Nwouldn't hurt a fly.
+Dialogue: 0,0:26:35.19,0:26:37.61,Two,,0000,0000,0000,,Je le sais, j'ai essay&eacute;\Nde lui en donner &agrave; manger.
+Dialogue: 0,0:26:35.66,0:26:38.16,One,,0000,0000,0000,,I know this because\NI tried to feed it flies this morning.
+Dialogue: 0,0:26:37.69,0:26:39.65,Two,,0000,0000,0000,,Elle est gentille, joueuse et maligne.
+Dialogue: 0,0:26:38.25,0:26:40.33,One,,0000,0000,0000,,It is friendly and kind,\Nplayful and smart,
+Dialogue: 0,0:26:39.73,0:26:41.73,Two,,0000,0000,0000,,Une fois la premi&egrave;re impression pass&eacute;e,
+Dialogue: 0,0:26:40.41,0:26:42.29,One,,0000,0000,0000,,and if you can get past\Nyour first impression,
+Dialogue: 0,0:26:41.82,0:26:43.73,Two,,0000,0000,0000,,elle apporte un plus &agrave; la famille."
+Dialogue: 0,0:26:42.37,0:26:44.20,One,,0000,0000,0000,,it can make a wonderful\Naddition to the family."
+Dialogue: 0,0:26:44.29,0:26:46.75,One,,0000,0000,0000,,And therefore,\Nit cannot have killed Uncle Monty.
+Dialogue: 0,0:26:44.40,0:26:46.90,Two,,0000,0000,0000,,Donc, elle ne peut pas\Navoir tu&eacute; oncle Monty.
+Dialogue: 0,0:26:46.83,0:26:49.91,One,,0000,0000,0000,,Well, I guess it does look\Nrather harmless.
+Dialogue: 0,0:26:46.98,0:26:49.86,Two,,0000,0000,0000,,C'est vrai qu'elle a l'air inoffensive.
+Dialogue: 0,0:26:49.94,0:26:51.57,Two,,0000,0000,0000,,&Ccedil;a ne change rien.
+Dialogue: 0,0:26:50.00,0:26:51.75,One,,0000,0000,0000,,That doesn't change anything.
+Dialogue: 0,0:26:51.65,0:26:55.23,Two,,0000,0000,0000,,Plusieurs serpents mortels\Ndans cette pi&egrave;ce auraient pu le tuer.
+Dialogue: 0,0:26:51.83,0:26:54.75,One,,0000,0000,0000,,There are still plenty of deadly types\Nof snakes in that room
+Dialogue: 0,0:26:54.83,0:26:55.70,One,,0000,0000,0000,,that could have done it.
+Dialogue: 0,0:26:55.32,0:26:57.52,Two,,0000,0000,0000,,Le Mamba du Mal mord tout en &eacute;tranglant.
+Dialogue: 0,0:26:55.79,0:26:58.00,One,,0000,0000,0000,,The mamba du mal bites as it strangles.
+Dialogue: 0,0:26:57.61,0:27:00.65,Two,,0000,0000,0000,,Le Python irascible\Nest mortellement grincheux.
+Dialogue: 0,0:26:58.08,0:27:01.12,One,,0000,0000,0000,,The irascible python\Nis homicidally grumpy.
+Dialogue: 0,0:27:00.73,0:27:04.48,Two,,0000,0000,0000,,La vip&egrave;re Wolf de Virginie peut vous tuer\Navec une machine &agrave; &eacute;crire.
+Dialogue: 0,0:27:01.20,0:27:04.95,One,,0000,0000,0000,,The Virginian wolfsnake can bludgeon you\Nto death with a typewriter.
+Dialogue: 0,0:27:04.57,0:27:06.15,Two,,0000,0000,0000,,Comment le savez-vous ?
+Dialogue: 0,0:27:05.04,0:27:06.62,One,,0000,0000,0000,,How do you know?
+Dialogue: 0,0:27:06.23,0:27:08.44,Two,,0000,0000,0000,,J'ai fait des recherches sur les serpents
+Dialogue: 0,0:27:06.70,0:27:08.91,One,,0000,0000,0000,,Because I read up on all types of snakes
+Dialogue: 0,0:27:08.52,0:27:12.36,Two,,0000,0000,0000,,dans la biblioth&egrave;que du laboratoire.
+Dialogue: 0,0:27:09.00,0:27:12.83,One,,0000,0000,0000,,in the library section\Nof the Reptile Room.
+Dialogue: 0,0:27:12.44,0:27:15.48,Two,,0000,0000,0000,,- Patron !\N- Ne m'interromps pas quand je parle.
+Dialogue: 0,0:27:12.91,0:27:15.95,One,,0000,0000,0000,,- Psst, boss.\N- Don't interrupt me while I'm talking.
+Dialogue: 0,0:27:15.57,0:27:21.11,Two,,0000,0000,0000,,Si je peux me permettre,\Nje suis un expert en serpents.
+Dialogue: 0,0:27:16.04,0:27:21.58,One,,0000,0000,0000,,If I may say so myself,\NI am quite the expert on the snakes.
+Dialogue: 0,0:27:21.19,0:27:22.19,Two,,0000,0000,0000,,Ha ha !
+Dialogue: 0,0:27:22.75,0:27:25.54,One,,0000,0000,0000,,What does it say?
+Dialogue: 0,0:27:23.94,0:27:25.07,Two,,0000,0000,0000,,Elle a dit quoi ?
+Dialogue: 0,0:27:25.15,0:27:27.57,Two,,0000,0000,0000,,Elle a dit : "Ha ha !"\NElle a trouv&eacute; quelque chose.
+Dialogue: 0,0:27:25.62,0:27:28.08,One,,0000,0000,0000,,She said, "Ah-ha!"\Nbecause she's figured something out.
+Dialogue: 0,0:27:27.65,0:27:29.40,Two,,0000,0000,0000,,Je n'y connais rien en serpents.
+Dialogue: 0,0:27:28.16,0:27:29.87,One,,0000,0000,0000,,I myself know nothing about snakes.
+Dialogue: 0,0:27:29.48,0:27:31.61,Two,,0000,0000,0000,,Vous avez dit ne rien conna&icirc;tre\Naux serpents.
+Dialogue: 0,0:27:29.95,0:27:32.04,One,,0000,0000,0000,,You said you didn't know\Nanything about snakes.
+Dialogue: 0,0:27:31.69,0:27:33.90,Two,,0000,0000,0000,,Je... C'est...
+Dialogue: 0,0:27:32.12,0:27:34.37,One,,0000,0000,0000,,I... That is--
+Dialogue: 0,0:27:33.98,0:27:37.15,Two,,0000,0000,0000,,C'est exact. Stephano, expliquez...
+Dialogue: 0,0:27:34.45,0:27:37.62,One,,0000,0000,0000,,That's right.\NStephano, explain...
+Dialogue: 0,0:27:43.82,0:27:45.48,Two,,0000,0000,0000,,- On fait quoi ?\N- On le tue ?
+Dialogue: 0,0:27:44.29,0:27:45.95,One,,0000,0000,0000,,- We need a plan.\N- Should we kill him?
+Dialogue: 0,0:27:45.57,0:27:48.52,Two,,0000,0000,0000,,Il tousse beaucoup.\NIl va peut-&ecirc;tre mourir de cause naturelle.
+Dialogue: 0,0:27:46.04,0:27:48.16,One,,0000,0000,0000,,He is coughing a lot.\NLet's see if he dies of natural causes.
+Dialogue: 0,0:27:48.25,0:27:51.08,One,,0000,0000,0000,,Mmm.
+Dialogue: 0,0:27:52.32,0:27:53.23,Two,,0000,0000,0000,,Expliquez-vous.
+Dialogue: 0,0:27:52.79,0:27:54.20,One,,0000,0000,0000,,Explain yourself.
+Dialogue: 0,0:27:53.32,0:27:57.86,Two,,0000,0000,0000,,Si j'ai dit\Nque je n'y connaissais rien en serpents,
+Dialogue: 0,0:27:54.29,0:27:58.33,One,,0000,0000,0000,,The reason that I said\NI did not know anything about the snakes,
+Dialogue: 0,0:27:57.94,0:28:00.32,Two,,0000,0000,0000,,c'&eacute;tait pour me montrer modeste.
+Dialogue: 0,0:27:58.41,0:28:00.79,One,,0000,0000,0000,,is because I was being modest.
+Dialogue: 0,0:28:00.40,0:28:03.61,Two,,0000,0000,0000,,Vous n'avez jamais &eacute;t&eacute; modeste.\NVous avez menti.
+Dialogue: 0,0:28:00.87,0:28:01.95,One,,0000,0000,0000,,You weren't being modest.
+Dialogue: 0,0:28:02.04,0:28:04.08,One,,0000,0000,0000,,You haven't been modest\Na day in your life. You were lying.
+Dialogue: 0,0:28:03.69,0:28:06.61,Two,,0000,0000,0000,,- On ne parle pas comme &ccedil;a aux adultes.\N- Il ment.
+Dialogue: 0,0:28:04.16,0:28:05.66,One,,0000,0000,0000,,Klaus, you can't speak\Nto an adult that way.
+Dialogue: 0,0:28:05.75,0:28:07.08,One,,0000,0000,0000,,And he's lying now.
+Dialogue: 0,0:28:06.69,0:28:09.48,Two,,0000,0000,0000,,C'est un menteur, un assassin,\Net il a tu&eacute; oncle Monty.
+Dialogue: 0,0:28:07.16,0:28:09.54,One,,0000,0000,0000,,He's a liar and a murderer\Nand he killed Uncle Monty.
+Dialogue: 0,0:28:09.62,0:28:12.37,One,,0000,0000,0000,,You have no proof.
+Dialogue: 0,0:28:10.23,0:28:11.90,Two,,0000,0000,0000,,Tu n'as aucune preuve.
+Dialogue: 0,0:28:13.19,0:28:14.19,Two,,0000,0000,0000,,Justement, si.
+Dialogue: 0,0:28:13.66,0:28:14.66,One,,0000,0000,0000,,Yes, we do.
+Dialogue: 0,0:28:16.65,0:28:17.73,Two,,0000,0000,0000,,Qu'est-ce que c'est ?
+Dialogue: 0,0:28:17.12,0:28:18.20,One,,0000,0000,0000,,What is all this?
+Dialogue: 0,0:28:17.82,0:28:20.23,Two,,0000,0000,0000,,Des preuves,\Ntrouv&eacute;es dans la valise de Stephano.
+Dialogue: 0,0:28:18.29,0:28:20.70,One,,0000,0000,0000,,Evidence, which I found\Nin Stephano's suitcase.
+Dialogue: 0,0:28:20.32,0:28:21.57,Two,,0000,0000,0000,,Elle a forc&eacute; le cadenas.
+Dialogue: 0,0:28:20.79,0:28:22.04,One,,0000,0000,0000,,She picked the lock.
+Dialogue: 0,0:28:21.65,0:28:23.65,Two,,0000,0000,0000,,- C'est vrai ?\N- Il y avait urgence.
+Dialogue: 0,0:28:22.12,0:28:24.12,One,,0000,0000,0000,,- Violet, is that true?\N- It was an emergency.
+Dialogue: 0,0:28:23.73,0:28:26.73,Two,,0000,0000,0000,,- Une gentille fille ne doit pas faire &ccedil;a.\N- Je lui ai d&eacute;j&agrave; dit.
+Dialogue: 0,0:28:24.20,0:28:26.12,One,,0000,0000,0000,,Nice girls shouldn't know\Nhow to do that sort of thing.
+Dialogue: 0,0:28:26.20,0:28:27.20,One,,0000,0000,0000,,That's what I said.
+Dialogue: 0,0:28:26.82,0:28:30.11,Two,,0000,0000,0000,,Ma soeur est gentille.\NElle sait faire plein de choses.
+Dialogue: 0,0:28:27.29,0:28:30.58,One,,0000,0000,0000,,My sister is a nice girl... and she knows\Nhow to do all sorts of things.
+Dialogue: 0,0:28:30.19,0:28:32.02,Two,,0000,0000,0000,,On parlera de &ccedil;a plus tard. Continue.
+Dialogue: 0,0:28:30.66,0:28:32.50,One,,0000,0000,0000,,We'll discuss this later.\NPlease continue.
+Dialogue: 0,0:28:32.11,0:28:35.23,Two,,0000,0000,0000,,Quand oncle Monty est mort,\Non avait des soup&ccedil;ons.
+Dialogue: 0,0:28:32.58,0:28:35.70,One,,0000,0000,0000,,When Uncle Monty died,\Nwe were immediately suspicious.
+Dialogue: 0,0:28:35.32,0:28:38.65,Two,,0000,0000,0000,,On savait que Stephano\Navait tu&eacute; oncle Monty.
+Dialogue: 0,0:28:35.79,0:28:39.12,One,,0000,0000,0000,,We were positive\Nthat Stephano killed Uncle Monty.
+Dialogue: 0,0:28:38.73,0:28:41.07,Two,,0000,0000,0000,,Il avait des morsures de serpent\Nsur la joue.
+Dialogue: 0,0:28:39.20,0:28:41.54,One,,0000,0000,0000,,But there were bite marks on his cheek\Nclearly from a snake.
+Dialogue: 0,0:28:41.15,0:28:44.52,Two,,0000,0000,0000,,Ce qui m'a aussi pr&eacute;occup&eacute;e.\NJ'ai donc d&eacute;cid&eacute; de fouiller sa valise.
+Dialogue: 0,0:28:41.62,0:28:42.91,One,,0000,0000,0000,,That stumped me, too.
+Dialogue: 0,0:28:43.00,0:28:45.00,One,,0000,0000,0000,,That's why I decided\Nto search Stephano's suitcase.
+Dialogue: 0,0:28:44.61,0:28:47.15,Two,,0000,0000,0000,,Je savais\Nqu'il n'aurait rien laiss&eacute; derri&egrave;re lui.
+Dialogue: 0,0:28:45.08,0:28:47.54,One,,0000,0000,0000,,I knew he wouldn't want to leave\Nany evidence behind.
+Dialogue: 0,0:28:47.23,0:28:48.98,Two,,0000,0000,0000,,Mais j'ai trouv&eacute; &ccedil;a.
+Dialogue: 0,0:28:47.62,0:28:49.45,One,,0000,0000,0000,,And that's when I found these.
+Dialogue: 0,0:28:49.07,0:28:52.65,Two,,0000,0000,0000,,Ce n'est rien. C'est mon bric-&agrave;-brac,
+Dialogue: 0,0:28:49.54,0:28:53.12,One,,0000,0000,0000,,But that's nothing.\NIt's my random junk collection,
+Dialogue: 0,0:28:52.73,0:28:55.52,Two,,0000,0000,0000,,une propri&eacute;t&eacute; priv&eacute;e ill&eacute;galement obtenue,
+Dialogue: 0,0:28:53.20,0:28:56.00,One,,0000,0000,0000,,which is private property,\Nillegally obtained,
+Dialogue: 0,0:28:55.61,0:28:57.27,Two,,0000,0000,0000,,et donc irrecevable au tribunal.
+Dialogue: 0,0:28:56.08,0:28:57.75,One,,0000,0000,0000,,and therefore not admissible in court.
+Dialogue: 0,0:28:57.36,0:29:00.57,Two,,0000,0000,0000,,&Ccedil;a ressemble &agrave; du bric-&agrave;-brac,\Nmais j'ai trouv&eacute; &ccedil;a.
+Dialogue: 0,0:28:57.83,0:29:01.04,One,,0000,0000,0000,,It does look like junk.\NBut that's when I noticed this.
+Dialogue: 0,0:29:00.65,0:29:04.40,Two,,0000,0000,0000,,Oncle Monty nous avait dit\Nqu'il gardait des &eacute;chantillons de venin
+Dialogue: 0,0:29:01.12,0:29:04.87,One,,0000,0000,0000,,Uncle Monty told us that he keeps\Nvenom samples in his cabinet
+Dialogue: 0,0:29:04.48,0:29:07.02,Two,,0000,0000,0000,,de chaque serpent venimeux\Nconnu de l'homme.
+Dialogue: 0,0:29:04.95,0:29:07.50,One,,0000,0000,0000,,from every venomous snake known to man.
+Dialogue: 0,0:29:07.11,0:29:09.19,Two,,0000,0000,0000,,- Et de la femme.\N- Et de la femme.
+Dialogue: 0,0:29:07.58,0:29:09.87,One,,0000,0000,0000,,- And woman.\N- And woman.
+Dialogue: 0,0:29:09.48,0:29:12.32,Two,,0000,0000,0000,,M. Poe,\Nje parie que si vous ouvrez cette vitrine,
+Dialogue: 0,0:29:09.95,0:29:12.79,One,,0000,0000,0000,,Mr. Poe, I believe if you open\Nthat cabinet right there,
+Dialogue: 0,0:29:12.40,0:29:14.86,Two,,0000,0000,0000,,il en manquera un.
+Dialogue: 0,0:29:12.87,0:29:15.33,One,,0000,0000,0000,,you'll find a sample is missing.
+Dialogue: 0,0:29:15.77,0:29:17.44,Two,,0000,0000,0000,,Il y a un emplacement vide.
+Dialogue: 0,0:29:16.25,0:29:17.91,One,,0000,0000,0000,,There's an empty spot on the shelf.
+Dialogue: 0,0:29:17.52,0:29:20.23,Two,,0000,0000,0000,,L'&eacute;tiquette dit "Mamba du Mal".
+Dialogue: 0,0:29:18.00,0:29:20.70,One,,0000,0000,0000,,The label says "Mamba du Mal."
+Dialogue: 0,0:29:20.32,0:29:23.65,Two,,0000,0000,0000,,"Le Mamba du Mal est\Nl'un des serpents les plus mortels,
+Dialogue: 0,0:29:20.79,0:29:24.12,One,,0000,0000,0000,,"The mamba du mal is one of\Nthe deadliest snakes in the hemisphere,
+Dialogue: 0,0:29:23.73,0:29:25.32,Two,,0000,0000,0000,,connu pour son puissant venin."
+Dialogue: 0,0:29:24.20,0:29:25.79,One,,0000,0000,0000,,known for its powerful venom."
+Dialogue: 0,0:29:25.40,0:29:26.90,Two,,0000,0000,0000,,Ha ha !
+Dialogue: 0,0:29:26.98,0:29:28.11,Two,,0000,0000,0000,,C'est donc &eacute;vident.
+Dialogue: 0,0:29:27.45,0:29:28.58,One,,0000,0000,0000,,Then it's obvious.
+Dialogue: 0,0:29:28.19,0:29:32.44,Two,,0000,0000,0000,,Le Mamba du Mal est sorti de sa cage,\Na pris une fiole de son propre venin
+Dialogue: 0,0:29:28.66,0:29:32.91,One,,0000,0000,0000,,The mamba du mal got out of its cage,\Nstole a vial of its own venom,
+Dialogue: 0,0:29:32.52,0:29:34.82,Two,,0000,0000,0000,,et a tu&eacute; le Pr Montgomery de sang-froid.
+Dialogue: 0,0:29:33.00,0:29:35.29,One,,0000,0000,0000,,and murdered Dr. Montgomery\Nin cold blood.
+Dialogue: 0,0:29:35.37,0:29:36.29,One,,0000,0000,0000,,Ah-ha!
+Dialogue: 0,0:29:36.61,0:29:37.94,Two,,0000,0000,0000,,C'est ridicule.
+Dialogue: 0,0:29:37.08,0:29:38.41,One,,0000,0000,0000,,Wait, that's ridiculous.
+Dialogue: 0,0:29:38.02,0:29:41.11,Two,,0000,0000,0000,,- Mais les morsures...\N- N'en sont pas.
+Dialogue: 0,0:29:38.50,0:29:41.58,One,,0000,0000,0000,,- But the bite marks--\N- Aren't bite marks at all.
+Dialogue: 0,0:29:41.19,0:29:43.86,Two,,0000,0000,0000,,Je n'&eacute;tais pas s&ucirc;re\Nque ces objets s'assemblent.
+Dialogue: 0,0:29:41.66,0:29:44.33,One,,0000,0000,0000,,When I first saw these items,\NI wasn't sure how they fit together.
+Dialogue: 0,0:29:43.94,0:29:47.02,Two,,0000,0000,0000,,Je me suis concentr&eacute;e sur chacun d'eux.
+Dialogue: 0,0:29:44.41,0:29:47.50,One,,0000,0000,0000,,So, I concentrated on each item\Nas if they were parts of a machine.
+Dialogue: 0,0:29:47.11,0:29:50.19,Two,,0000,0000,0000,,Et c'est l&agrave; que j'ai compris\Nqu'ils s'assemblaient.
+Dialogue: 0,0:29:47.58,0:29:50.12,One,,0000,0000,0000,,And that's when I realized\Nthey fit together.
+Dialogue: 0,0:29:50.20,0:29:54.00,One,,0000,0000,0000,,Ladies and gentlemen, the murder weapon.
+Dialogue: 0,0:29:50.27,0:29:53.52,Two,,0000,0000,0000,,Mesdames et messieurs, l'arme du crime !
+Dialogue: 0,0:29:54.69,0:29:55.73,Two,,0000,0000,0000,,- Fou !\N- Épatant !
+Dialogue: 0,0:29:55.16,0:29:56.20,One,,0000,0000,0000,,- Incredible!\N- Astounding!
+Dialogue: 0,0:29:55.82,0:29:59.82,Two,,0000,0000,0000,,Stephano a utilis&eacute; cette double seringue\Npour injecter le venin &agrave; Monty
+Dialogue: 0,0:29:56.29,0:30:00.20,One,,0000,0000,0000,,Stephano used this double-barrel syringe\Nto inject the venom into Uncle Monty,
+Dialogue: 0,0:29:59.90,0:30:03.65,Two,,0000,0000,0000,,et faire croire\Nqu'un serpent l'avait mordu.
+Dialogue: 0,0:30:00.29,0:30:04.12,One,,0000,0000,0000,,to simulate the double puncture marks\Nof a snake.
+Dialogue: 0,0:30:03.73,0:30:06.44,Two,,0000,0000,0000,,Il l'a ensuite d&eacute;mont&eacute;e\Npour cacher les preuves.
+Dialogue: 0,0:30:04.20,0:30:06.91,One,,0000,0000,0000,,Then he disassembled it\Nto hide the evidence.
+Dialogue: 0,0:30:06.52,0:30:10.02,Two,,0000,0000,0000,,Mais j'adorais le Pr Montgomery.\NPourquoi l'aurais-je tu&eacute; ?
+Dialogue: 0,0:30:07.00,0:30:08.50,One,,0000,0000,0000,,But I loved Dr. Montgomery.
+Dialogue: 0,0:30:08.58,0:30:10.50,One,,0000,0000,0000,,What motive would I possibly have\Nto murder him?
+Dialogue: 0,0:30:10.11,0:30:12.11,Two,,0000,0000,0000,,Il veut la fortune des Baudelaire.
+Dialogue: 0,0:30:10.58,0:30:12.58,One,,0000,0000,0000,,He's after the Baudelaire fortune.
+Dialogue: 0,0:30:12.19,0:30:14.27,Two,,0000,0000,0000,,Stephano est au courant pour la fortune ?
+Dialogue: 0,0:30:12.66,0:30:14.75,One,,0000,0000,0000,,How would Stephano even know\Nabout the Baudelaire fortune?
+Dialogue: 0,0:30:14.36,0:30:16.61,Two,,0000,0000,0000,,Je pensais qu'ils &eacute;taient sans le sou.
+Dialogue: 0,0:30:14.83,0:30:17.08,One,,0000,0000,0000,,I thought they were penniless orphans.
+Dialogue: 0,0:30:16.69,0:30:18.82,Two,,0000,0000,0000,,Ils s'habillent comme des pauvres.
+Dialogue: 0,0:30:17.16,0:30:19.29,One,,0000,0000,0000,,They certainly dress\Nlike penniless orphans.
+Dialogue: 0,0:30:18.90,0:30:22.32,Two,,0000,0000,0000,,Parce que tout ce qu'on avait\Na br&ucirc;l&eacute; dans l'incendie.
+Dialogue: 0,0:30:19.37,0:30:22.29,One,,0000,0000,0000,,That's because everything we owned\Nburned up in a fire.
+Dialogue: 0,0:30:22.40,0:30:24.48,Two,,0000,0000,0000,,Mais vous le savez d&eacute;j&agrave;...
+Dialogue: 0,0:30:22.87,0:30:24.95,One,,0000,0000,0000,,But you already know about that...
+Dialogue: 0,0:30:24.57,0:30:27.65,Two,,0000,0000,0000,,puisque vous n'&ecirc;tes pas Stephano,\Nmais le comte Olaf.
+Dialogue: 0,0:30:25.04,0:30:28.12,One,,0000,0000,0000,,because you're not Stephano,\Nyou're Count Olaf.
+Dialogue: 0,0:30:29.07,0:30:32.86,Two,,0000,0000,0000,,C'est mignon de jouer aux d&eacute;tectives,\Nmais on a d&eacute;j&agrave; exclu cette th&eacute;orie.
+Dialogue: 0,0:30:29.54,0:30:33.29,One,,0000,0000,0000,,The kid detective thing is cute,\Nbut we have already dismissed that theory.
+Dialogue: 0,0:30:32.94,0:30:34.40,Two,,0000,0000,0000,,On va voir.
+Dialogue: 0,0:30:33.37,0:30:34.87,One,,0000,0000,0000,,We'll see about that.
+Dialogue: 0,0:30:35.73,0:30:38.02,Two,,0000,0000,0000,,Votre cheville gauche.
+Dialogue: 0,0:30:36.20,0:30:38.50,One,,0000,0000,0000,,Your left ankle, sir.
+Dialogue: 0,0:30:38.11,0:30:39.77,Two,,0000,0000,0000,,Éloignez ça de moi.
+Dialogue: 0,0:30:38.58,0:30:40.25,One,,0000,0000,0000,,Don't come near me with that thing.
+Dialogue: 0,0:30:39.86,0:30:42.02,Two,,0000,0000,0000,,Vous avez crach&eacute; vos microbes dedans.
+Dialogue: 0,0:30:40.33,0:30:42.50,One,,0000,0000,0000,,You've been coughing germs\Ninto it all day.
+Dialogue: 0,0:30:42.11,0:30:45.69,Two,,0000,0000,0000,,Si les enfants ont raison, les microbes\Nseront le cadet de vos soucis.
+Dialogue: 0,0:30:42.58,0:30:44.37,One,,0000,0000,0000,,Oh, if you're really\Nwho the children say you are,
+Dialogue: 0,0:30:44.45,0:30:46.16,One,,0000,0000,0000,,then germs are the least of your problem.
+Dialogue: 0,0:30:45.77,0:30:47.36,Two,,0000,0000,0000,,Votre cheville gauche,
+Dialogue: 0,0:30:46.25,0:30:49.79,One,,0000,0000,0000,,Your left ankle... please.
+Dialogue: 0,0:30:48.19,0:30:49.32,Two,,0000,0000,0000,,je vous prie.
+Dialogue: 0,0:30:52.40,0:30:54.07,Two,,0000,0000,0000,,Si vous insistez.
+Dialogue: 0,0:30:52.87,0:30:54.54,One,,0000,0000,0000,,If you insist.
+Dialogue: 0,0:31:24.98,0:31:28.15,Two,,0000,0000,0000,,Pour une fois,\Nje suis content de voir ce tatouage.
+Dialogue: 0,0:31:25.20,0:31:28.62,One,,0000,0000,0000,,For the first time in my life,\NI'm happy to see that awful tattoo.
+Dialogue: 0,0:31:32.94,0:31:34.19,Two,,0000,0000,0000,,Bravo, les enfants.
+Dialogue: 0,0:31:33.41,0:31:34.66,One,,0000,0000,0000,,Bravo, children.
+Dialogue: 0,0:31:35.27,0:31:38.57,Two,,0000,0000,0000,,Oui, je l'avoue. J'ai tu&eacute; Monty.
+Dialogue: 0,0:31:35.75,0:31:39.04,One,,0000,0000,0000,,Yes, I admit it. I killed Monty.
+Dialogue: 0,0:31:38.65,0:31:43.15,Two,,0000,0000,0000,,J'ai aussi tu&eacute; son assistant, Gustav.\NJe l'ai noy&eacute; dans le bassin.
+Dialogue: 0,0:31:39.12,0:31:43.62,One,,0000,0000,0000,,I also killed his assistant, Gustav.\NI drowned him in the reflecting pond.
+Dialogue: 0,0:31:43.23,0:31:47.32,Two,,0000,0000,0000,,La question est : qu'allez-vous faire ?
+Dialogue: 0,0:31:43.70,0:31:47.79,One,,0000,0000,0000,,The question is...\Nwhat are you going to do about it?
+Dialogue: 0,0:31:47.40,0:31:51.61,Two,,0000,0000,0000,,Vous envoyer en prison\Npendant tr&egrave;s longtemps.
+Dialogue: 0,0:31:47.87,0:31:52.08,One,,0000,0000,0000,,I'm going to send you to jail\Nfor a very long time.
+Dialogue: 0,0:31:51.69,0:31:53.65,Two,,0000,0000,0000,,Agents, arr&ecirc;tez cet homme !
+Dialogue: 0,0:31:52.16,0:31:54.12,One,,0000,0000,0000,,Officers, arrest this man!
+Dialogue: 0,0:31:56.40,0:32:00.15,Two,,0000,0000,0000,,Non, messieurs.\NVous &ecirc;tes ses complices, c'est &ccedil;a ?
+Dialogue: 0,0:31:56.87,0:31:59.12,One,,0000,0000,0000,,No, office... Officers.
+Dialogue: 0,0:31:59.20,0:32:00.62,One,,0000,0000,0000,,Oh, you're all in on it, aren't you?
+Dialogue: 0,0:32:00.90,0:32:02.69,Two,,0000,0000,0000,,Oh mon Dieu !
+Dialogue: 0,0:32:01.37,0:32:03.16,One,,0000,0000,0000,,Oh. Oh, dear.
+Dialogue: 0,0:32:02.77,0:32:07.57,Two,,0000,0000,0000,,Si c'&eacute;tait une histoire pour enfants,\Nvous conna&icirc;triez la suite.
+Dialogue: 0,0:32:03.25,0:32:05.66,One,,0000,0000,0000,,If this were a piece of filmed\Nentertainment for small children
+Dialogue: 0,0:32:05.75,0:32:08.04,One,,0000,0000,0000,,you would know what happens next.
+Dialogue: 0,0:32:07.65,0:32:09.98,Two,,0000,0000,0000,,Le m&eacute;chant et son plan diabolique\Nsont divulgu&eacute;s,
+Dialogue: 0,0:32:08.12,0:32:10.45,One,,0000,0000,0000,,With the villain's identity\Nand evil plan exposed,
+Dialogue: 0,0:32:10.07,0:32:13.07,Two,,0000,0000,0000,,la police le met en prison\Npour le restant de ses jours.
+Dialogue: 0,0:32:10.54,0:32:11.83,One,,0000,0000,0000,,the police would arrive on the scene
+Dialogue: 0,0:32:11.91,0:32:13.45,One,,0000,0000,0000,,and place him in jail\Nfor the rest of his life.
+Dialogue: 0,0:32:13.15,0:32:15.07,Two,,0000,0000,0000,,Les enfants s'offrent une pizza.
+Dialogue: 0,0:32:13.54,0:32:15.54,One,,0000,0000,0000,,The plucky youngsters\Nwould go out for pizza.
+Dialogue: 0,0:32:15.15,0:32:19.15,Two,,0000,0000,0000,,Mais c'est aussi probable\Nque la r&eacute;surrection du Pr Montgomery.
+Dialogue: 0,0:32:15.62,0:32:19.62,One,,0000,0000,0000,,But I can tell you that's as likely\Nas Dr. Montgomery returning to life.
+Dialogue: 0,0:32:19.23,0:32:21.94,Two,,0000,0000,0000,,Le Pr Montgomery &eacute;tait peut-&ecirc;tre mort...
+Dialogue: 0,0:32:19.70,0:32:22.41,One,,0000,0000,0000,,Still, while Dr. Montgomery\Nmay be dead...
+Dialogue: 0,0:32:22.02,0:32:25.73,Two,,0000,0000,0000,,Si vous le voulez bien,\Nje vais prendre les enfants avec moi.
+Dialogue: 0,0:32:22.50,0:32:26.20,One,,0000,0000,0000,,If you don't mind,\NI'll be taking the children with me.
+Dialogue: 0,0:32:26.29,0:32:28.45,One,,0000,0000,0000,,...the reptiles in his collection...
+Dialogue: 0,0:32:26.36,0:32:28.07,Two,,0000,0000,0000,,...mais sa collection de reptiles...
+Dialogue: 0,0:32:29.36,0:32:30.73,Two,,0000,0000,0000,,&eacute;tait bel et bien vivante.
+Dialogue: 0,0:32:29.83,0:32:31.20,One,,0000,0000,0000,,were very much alive.
+Dialogue: 0,0:32:32.50,0:32:33.66,One,,0000,0000,0000,,Oh.
+Dialogue: 0,0:32:33.27,0:32:34.61,Two,,0000,0000,0000,,Patron...
+Dialogue: 0,0:32:33.75,0:32:36.08,One,,0000,0000,0000,,Boss.
+Dialogue: 0,0:32:36.69,0:32:39.36,Two,,0000,0000,0000,,C'est l'horloge de l'iguane hurleur.
+Dialogue: 0,0:32:37.16,0:32:39.83,One,,0000,0000,0000,,That's just the screeching iguana clock.
+Dialogue: 0,0:32:39.44,0:32:41.90,Two,,0000,0000,0000,,Ce n'est pas l'horloge\Nde l'iguane hurleur.
+Dialogue: 0,0:32:39.91,0:32:42.37,One,,0000,0000,0000,,It's not the screeching iguana clock.
+Dialogue: 0,0:32:41.98,0:32:43.57,Two,,0000,0000,0000,,C'est l'iguane qui crie !
+Dialogue: 0,0:32:42.45,0:32:44.04,One,,0000,0000,0000,,It's the screeching iguana!
+Dialogue: 0,0:32:57.15,0:32:58.94,Two,,0000,0000,0000,,Pars. Assure-toi qu'ils te suivent.
+Dialogue: 0,0:32:57.62,0:32:59.41,One,,0000,0000,0000,,Take the van.\NMake sure they follow you.
+Dialogue: 0,0:32:59.02,0:33:01.82,Two,,0000,0000,0000,,- O&ugrave; allez-vous, patron ?\N- Faire un tour en bateau.
+Dialogue: 0,0:32:59.50,0:33:02.29,One,,0000,0000,0000,,- But where are you going, boss?\N- International waters.
+Dialogue: 0,0:33:10.15,0:33:12.07,Two,,0000,0000,0000,,Le comte Olaf est dans le v&eacute;hicule.
+Dialogue: 0,0:33:10.62,0:33:12.54,One,,0000,0000,0000,,Count Olaf is driving away.
+Dialogue: 0,0:33:12.15,0:33:14.57,Two,,0000,0000,0000,,Non. Il va vers le labyrinthe.
+Dialogue: 0,0:33:12.62,0:33:15.04,One,,0000,0000,0000,,No, he's not.\NHe's heading into the labyrinth.
+Dialogue: 0,0:33:17.19,0:33:19.11,Two,,0000,0000,0000,,Le van devait &ecirc;tre plein.
+Dialogue: 0,0:33:17.66,0:33:19.58,One,,0000,0000,0000,,I suppose there wasn't room in the van.
+Dialogue: 0,0:33:19.19,0:33:21.15,Two,,0000,0000,0000,,Qu'attendez-vous ? Suivez-le !
+Dialogue: 0,0:33:19.66,0:33:21.04,One,,0000,0000,0000,,What are you waiting for?\NGo after him!
+Dialogue: 0,0:33:21.12,0:33:23.79,One,,0000,0000,0000,,This is a job for the police.
+Dialogue: 0,0:33:21.23,0:33:23.32,Two,,0000,0000,0000,,C'est le travail de la police.
+Dialogue: 0,0:33:23.40,0:33:25.19,Two,,0000,0000,0000,,Je les appelle. Je suis s&ucirc;r qu'ils...
+Dialogue: 0,0:33:23.87,0:33:25.66,One,,0000,0000,0000,,I'll go call them. I'm sure they'll...
+Dialogue: 0,0:33:25.86,0:33:27.57,Two,,0000,0000,0000,,vont dresser un barrage.
+Dialogue: 0,0:33:26.29,0:33:28.04,One,,0000,0000,0000,,set up a roadblock, or something.
+Dialogue: 0,0:33:28.44,0:33:29.98,Two,,0000,0000,0000,,Il ne s'&eacute;chappera pas.
+Dialogue: 0,0:33:28.91,0:33:30.45,One,,0000,0000,0000,,He's not getting away.
+Dialogue: 0,0:33:34.23,0:33:35.32,Two,,0000,0000,0000,,Prends &agrave; droite.
+Dialogue: 0,0:33:34.70,0:33:35.79,One,,0000,0000,0000,,Go right.
+Dialogue: 0,0:34:02.19,0:34:03.94,Two,,0000,0000,0000,,Va par l&agrave;. On va le bloquer.
+Dialogue: 0,0:34:02.66,0:34:04.41,One,,0000,0000,0000,,You go that way. We can cut him off.
+Dialogue: 0,0:34:22.94,0:34:23.94,Two,,0000,0000,0000,,C'est une impasse.
+Dialogue: 0,0:34:23.41,0:34:24.41,One,,0000,0000,0000,,It's a dead end.
+Dialogue: 0,0:34:24.02,0:34:27.19,Two,,0000,0000,0000,,Impossible. On peut revenir sur nos pas.
+Dialogue: 0,0:34:24.50,0:34:27.66,One,,0000,0000,0000,,That's impossible.\NWe can retrace our steps.
+Dialogue: 0,0:34:27.27,0:34:30.40,Two,,0000,0000,0000,,&Agrave; quoi bon ? Tout va mal.
+Dialogue: 0,0:34:27.75,0:34:30.87,One,,0000,0000,0000,,What's the point? It's all wrong.
+Dialogue: 0,0:34:30.48,0:34:32.36,Two,,0000,0000,0000,,Olaf s'est &eacute;chapp&eacute;. Monty est mort.
+Dialogue: 0,0:34:30.95,0:34:32.83,One,,0000,0000,0000,,Count Olaf escaped.\NUncle Monty is dead.
+Dialogue: 0,0:34:32.44,0:34:35.02,Two,,0000,0000,0000,,On n'a pas pu aller au P&eacute;rou\Nni lui dire adieu.
+Dialogue: 0,0:34:32.91,0:34:35.50,One,,0000,0000,0000,,We never got to go to Peru or say goodbye.
+Dialogue: 0,0:34:35.11,0:34:37.11,Two,,0000,0000,0000,,Et on ne lui a pas demand&eacute; pour &ccedil;a.
+Dialogue: 0,0:34:35.58,0:34:37.58,One,,0000,0000,0000,,Or ask him about this.
+Dialogue: 0,0:34:37.19,0:34:38.82,Two,,0000,0000,0000,,Klaus, qu'est-ce que c'est ?
+Dialogue: 0,0:34:37.66,0:34:39.29,One,,0000,0000,0000,,Klaus, what is that?
+Dialogue: 0,0:34:38.90,0:34:40.48,Two,,0000,0000,0000,,C'est l'&eacute;criture d'oncle Monty.
+Dialogue: 0,0:34:39.37,0:34:41.04,One,,0000,0000,0000,,It's Uncle Monty's handwriting.
+Dialogue: 0,0:34:40.57,0:34:42.57,Two,,0000,0000,0000,,Il l'a &eacute;crit pendant le film.
+Dialogue: 0,0:34:41.12,0:34:43.04,One,,0000,0000,0000,,He must have copied it down\Nduring the movie.
+Dialogue: 0,0:34:42.65,0:34:45.57,Two,,0000,0000,0000,,On &eacute;tait &agrave; c&ocirc;t&eacute; de lui.\NOn l'aurait vu s'il avait re&ccedil;u un mot.
+Dialogue: 0,0:34:43.12,0:34:44.33,One,,0000,0000,0000,,We were right next to him.
+Dialogue: 0,0:34:44.41,0:34:46.04,One,,0000,0000,0000,,If he got a message,\Nwe would've seen it.
+Dialogue: 0,0:34:45.65,0:34:47.36,Two,,0000,0000,0000,,Pas s'il avait un code secret.
+Dialogue: 0,0:34:46.12,0:34:47.83,One,,0000,0000,0000,,Not if he had some secret way\Nto receive it.
+Dialogue: 0,0:34:47.44,0:34:51.27,Two,,0000,0000,0000,,Tu te souviens de l'&eacute;trange objet\Nque j'ai trouv&eacute; dans l'incendie ? Je...
+Dialogue: 0,0:34:47.91,0:34:51.75,One,,0000,0000,0000,,Do you remember that strange object\NI found in the fire? I think it's...
+Dialogue: 0,0:34:51.83,0:34:53.08,One,,0000,0000,0000,,It's gone.
+Dialogue: 0,0:34:51.90,0:34:52.61,Two,,0000,0000,0000,,Je l'ai plus.
+Dialogue: 0,0:34:52.69,0:34:55.11,Two,,0000,0000,0000,,Je vais prendre les enfants avec moi.
+Dialogue: 0,0:34:53.16,0:34:55.58,One,,0000,0000,0000,,I'll be taking the children with me.
+Dialogue: 0,0:34:56.94,0:34:58.07,Two,,0000,0000,0000,,Le comte Olaf.
+Dialogue: 0,0:34:57.41,0:34:58.54,One,,0000,0000,0000,,Count Olaf.
+Dialogue: 0,0:35:12.69,0:35:14.77,Two,,0000,0000,0000,,Un bon labyrinthe est plein de secrets.
+Dialogue: 0,0:35:13.16,0:35:15.25,One,,0000,0000,0000,,A good labyrinth is full of secrets.
+Dialogue: 0,0:35:14.86,0:35:17.40,Two,,0000,0000,0000,,- Qui &ecirc;tes-vous ?\N- Pourquoi vous d&eacute;guiser en statue ?
+Dialogue: 0,0:35:15.33,0:35:17.87,One,,0000,0000,0000,,- Who are you?\N- Why are you dressed as a statue?
+Dialogue: 0,0:35:17.48,0:35:19.65,Two,,0000,0000,0000,,Deux excellentes questions,\Nles Baudelaire.
+Dialogue: 0,0:35:17.95,0:35:20.12,One,,0000,0000,0000,,Both excellent questions, Baudelaires.
+Dialogue: 0,0:35:19.73,0:35:22.82,Two,,0000,0000,0000,,- L'actrice du film.\N- Vous travaillez pour M. Poe.
+Dialogue: 0,0:35:20.20,0:35:21.91,One,,0000,0000,0000,,You're that actress\Nfrom the weird zombie movie.
+Dialogue: 0,0:35:22.00,0:35:23.29,One,,0000,0000,0000,,You work for Mr. Poe.
+Dialogue: 0,0:35:22.90,0:35:24.36,Two,,0000,0000,0000,,C'est plut&ocirc;t du b&eacute;n&eacute;volat.
+Dialogue: 0,0:35:23.37,0:35:24.83,One,,0000,0000,0000,,It's more of a volunteer position.
+Dialogue: 0,0:35:24.44,0:35:26.77,Two,,0000,0000,0000,,Pardon de ne pas avoir sauv&eacute; votre oncle.
+Dialogue: 0,0:35:24.91,0:35:27.25,One,,0000,0000,0000,,I'm sorry I arrived too late\Nto help your uncle.
+Dialogue: 0,0:35:26.86,0:35:28.86,Two,,0000,0000,0000,,Je peux traduire le comte Olaf en justice.
+Dialogue: 0,0:35:27.33,0:35:29.33,One,,0000,0000,0000,,But I can still bring Count Olaf\Nto justice.
+Dialogue: 0,0:35:28.94,0:35:30.77,Two,,0000,0000,0000,,Oncle Monty avait la m&ecirc;me longue-vue.
+Dialogue: 0,0:35:29.41,0:35:31.25,One,,0000,0000,0000,,Uncle Monty\Nhad a spyglass like that.
+Dialogue: 0,0:35:30.86,0:35:33.27,Two,,0000,0000,0000,,Que voulait-il nous dire ?\NQu'y a-t-il au P&eacute;rou ?
+Dialogue: 0,0:35:31.33,0:35:33.75,One,,0000,0000,0000,,What was he trying to tell us?\NWhat's in Peru?
+Dialogue: 0,0:35:33.36,0:35:34.82,Two,,0000,0000,0000,,Oubliez. C'est compromis.
+Dialogue: 0,0:35:33.83,0:35:35.29,One,,0000,0000,0000,,Forget Peru. It's been compromised.
+Dialogue: 0,0:35:34.90,0:35:38.40,Two,,0000,0000,0000,,Qui lui a envoy&eacute; le message ?\NQui devions-nous rencontrer ?
+Dialogue: 0,0:35:35.37,0:35:38.87,One,,0000,0000,0000,,Who sent him the message?\NWho were we supposed to meet there?
+Dialogue: 0,0:35:38.48,0:35:42.48,Two,,0000,0000,0000,,Vous avez beaucoup de questions,\Net il existe beaucoup de r&eacute;ponses.
+Dialogue: 0,0:35:38.95,0:35:40.62,One,,0000,0000,0000,,I know you children have\Na great many questions,
+Dialogue: 0,0:35:40.70,0:35:42.95,One,,0000,0000,0000,,and I promise there are\Na great many answers.
+Dialogue: 0,0:35:42.57,0:35:45.90,Two,,0000,0000,0000,,Trouvez votre tante Jos&eacute;phine.\Nune femme f&eacute;roce et formidable.
+Dialogue: 0,0:35:43.04,0:35:46.37,One,,0000,0000,0000,,Find your Aunt Josephine.\NShe's a fierce and formidable woman.
+Dialogue: 0,0:35:45.98,0:35:48.69,Two,,0000,0000,0000,,Elle vous prot&eacute;gera\Net vous expliquera tout.
+Dialogue: 0,0:35:46.45,0:35:49.16,One,,0000,0000,0000,,She can keep you safe\Nand tell you everything you need to know.
+Dialogue: 0,0:35:48.77,0:35:50.23,Two,,0000,0000,0000,,Je m'occupe du comte Olaf.
+Dialogue: 0,0:35:49.25,0:35:50.70,One,,0000,0000,0000,,Let me handle Count Olaf.
+Dialogue: 0,0:35:50.90,0:35:54.94,Two,,0000,0000,0000,,Le comte m'a vol&eacute; un objet.\NJe crois que c'est une pi&egrave;ce de lorgnette.
+Dialogue: 0,0:35:51.37,0:35:55.41,One,,0000,0000,0000,,Count Olaf stole something from me.\NI think it's part of a spyglass.
+Dialogue: 0,0:35:55.02,0:35:56.40,Two,,0000,0000,0000,,Certainement.
+Dialogue: 0,0:35:55.50,0:35:56.87,One,,0000,0000,0000,,It certainly is.
+Dialogue: 0,0:35:56.48,0:35:59.98,Two,,0000,0000,0000,,Je te le ram&egrave;nerai, Klaus Baudelaire.\NC'est promis.
+Dialogue: 0,0:35:56.95,0:36:00.45,One,,0000,0000,0000,,I will get it back to you,\NKlaus Baudelaire. I promise.
+Dialogue: 0,0:36:20.61,0:36:21.61,Two,,0000,0000,0000,,Qui &ecirc;tes-vous ?
+Dialogue: 0,0:36:21.08,0:36:22.12,One,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:36:21.69,0:36:23.90,Two,,0000,0000,0000,,Que font-ils avec les reptiles ?
+Dialogue: 0,0:36:22.20,0:36:24.33,One,,0000,0000,0000,,What are they doing\Nwith Uncle Monty's reptiles?
+Dialogue: 0,0:36:23.98,0:36:26.98,Two,,0000,0000,0000,,Apr&egrave;s avoir appel&eacute; la police,\Nj'ai eu la Soci&eacute;t&eacute; d'Herp&eacute;tologie.
+Dialogue: 0,0:36:24.41,0:36:27.08,One,,0000,0000,0000,,After I called the police,\NI rang up the Herpetological Society.
+Dialogue: 0,0:36:27.07,0:36:30.94,Two,,0000,0000,0000,,Ils ont propos&eacute; d'extraire les reptiles.\N&Ccedil;a signifie "emmener".
+Dialogue: 0,0:36:27.16,0:36:30.04,One,,0000,0000,0000,,They kindly offered to retrieve\NDr. Montgomery's reptiles.
+Dialogue: 0,0:36:30.12,0:36:31.41,One,,0000,0000,0000,,"Retrieve" means "take away."
+Dialogue: 0,0:36:31.02,0:36:33.19,Two,,0000,0000,0000,,On sait. O&ugrave; les emm&egrave;nent-ils ?
+Dialogue: 0,0:36:31.50,0:36:33.66,One,,0000,0000,0000,,We know what retrieve means.\NWhere are they taking them?
+Dialogue: 0,0:36:33.27,0:36:35.73,Two,,0000,0000,0000,,Ce sont des orphelins.\NIls vont dans un autre foyer,
+Dialogue: 0,0:36:33.75,0:36:36.29,One,,0000,0000,0000,,Well, they're orphans now.\NSo they'll be moving on to other homes
+Dialogue: 0,0:36:35.82,0:36:38.57,Two,,0000,0000,0000,,en esp&eacute;rant\Nque leur tuteur ne mourra pas.
+Dialogue: 0,0:36:36.37,0:36:39.04,One,,0000,0000,0000,,where their guardians hopefully\Nwon't die on them like Dr. Montgomery.
+Dialogue: 0,0:36:38.65,0:36:41.52,Two,,0000,0000,0000,,- On peut leur dire adieu ?\N- Apr&egrave;s ce que vous avez v&eacute;cu,
+Dialogue: 0,0:36:39.12,0:36:40.54,One,,0000,0000,0000,,Can we at least say goodbye?
+Dialogue: 0,0:36:40.62,0:36:41.79,One,,0000,0000,0000,,After what you've been through,
+Dialogue: 0,0:36:41.61,0:36:44.19,Two,,0000,0000,0000,,j'imagine que vous ne voulez plus\Nvoir de reptiles.
+Dialogue: 0,0:36:41.87,0:36:44.66,One,,0000,0000,0000,,I'd think you'd never want to see\Na reptile again.
+Dialogue: 0,0:36:44.27,0:36:46.36,Two,,0000,0000,0000,,Je vous conduis\Nchez votre prochain tuteur.
+Dialogue: 0,0:36:44.75,0:36:46.83,One,,0000,0000,0000,,Besides, I have to take you\Nto your next guardian.
+Dialogue: 0,0:36:46.44,0:36:48.69,Two,,0000,0000,0000,,- Non !\N- Non ! On sait o&ugrave; aller.
+Dialogue: 0,0:36:46.91,0:36:49.16,One,,0000,0000,0000,,- No!\N- No! We know where we're going.
+Dialogue: 0,0:36:48.77,0:36:52.98,Two,,0000,0000,0000,,Je le sais aussi. Et je suis adulte,\Nc'est donc moi qui d&eacute;cide.
+Dialogue: 0,0:36:49.25,0:36:53.45,One,,0000,0000,0000,,I know where you're going, too.\NAnd I'm the adult so I get to decide.
+Dialogue: 0,0:36:53.07,0:36:54.69,Two,,0000,0000,0000,,Chez tante Jos&eacute;phine.
+Dialogue: 0,0:36:53.54,0:36:55.75,One,,0000,0000,0000,,- We're going to our Aunt Josephine.\N- To your Aunt Josephine.
+Dialogue: 0,0:36:56.19,0:36:57.52,Two,,0000,0000,0000,,C'est la suivante.
+Dialogue: 0,0:36:56.66,0:36:58.00,One,,0000,0000,0000,,She's next on the list.
+Dialogue: 0,0:37:14.94,0:37:18.15,Two,,0000,0000,0000,,M. Poe, que savez-vous\Nsur votre secr&eacute;taire ?
+Dialogue: 0,0:37:15.41,0:37:18.62,One,,0000,0000,0000,,Mr. Poe, what can you tell us\Nabout your secretary?
+Dialogue: 0,0:37:18.23,0:37:19.23,Two,,0000,0000,0000,,Quelle d&eacute;ception !
+Dialogue: 0,0:37:18.70,0:37:19.83,One,,0000,0000,0000,,Oh, terrible disappointment.
+Dialogue: 0,0:37:19.32,0:37:21.69,Two,,0000,0000,0000,,Il travaillait pour Olaf.\NVous vous en rappelez.
+Dialogue: 0,0:37:19.91,0:37:22.12,One,,0000,0000,0000,,He turned out to be working\Nfor Count Olaf. Surely you remember.
+Dialogue: 0,0:37:21.77,0:37:25.52,Two,,0000,0000,0000,,- Non, votre autre secr&eacute;taire.\N- Qui ? Jacquelyn !
+Dialogue: 0,0:37:22.20,0:37:26.00,One,,0000,0000,0000,,- No, your other secretary.\N- Who? Oh, Jacquelyn.
+Dialogue: 0,0:37:25.61,0:37:29.44,Two,,0000,0000,0000,,Excellente dactylo\Nqui a une f&acirc;cheuse tendance &agrave; dispara&icirc;tre.
+Dialogue: 0,0:37:26.08,0:37:29.91,One,,0000,0000,0000,,Excellent typist. Unfortunate habit\Nof disappearing for days at a time.
+Dialogue: 0,0:37:29.52,0:37:33.27,Two,,0000,0000,0000,,Je ne fr&eacute;quente pas les employ&eacute;s,\Nc'est tout ce que je sais.
+Dialogue: 0,0:37:30.00,0:37:32.12,One,,0000,0000,0000,,I don't make it a habit of socializing\Nwith employees,
+Dialogue: 0,0:37:32.20,0:37:33.83,One,,0000,0000,0000,,so that's really all I know.
+Dialogue: 0,0:37:34.07,0:37:37.36,Two,,0000,0000,0000,,Et qu'elle m'a &eacute;t&eacute; chaudement recommand&eacute;e\Npar vos parents.
+Dialogue: 0,0:37:34.54,0:37:37.54,One,,0000,0000,0000,,Other than the fact that she came\Nhighly recommended by your parents.
+Dialogue: 0,0:38:21.73,0:38:23.69,Two,,0000,0000,0000,,Un t&eacute;l&eacute;gramme pour un M. le comte Olaf.
+Dialogue: 0,0:38:22.33,0:38:24.16,One,,0000,0000,0000,,Telegram for a Mr. Count Olaf?
+Dialogue: 0,0:38:23.77,0:38:26.27,Two,,0000,0000,0000,,C'est juste "comte Olaf".
+Dialogue: 0,0:38:24.25,0:38:26.75,One,,0000,0000,0000,,It's just Count Olaf.
+Dialogue: 0,0:38:26.36,0:38:28.65,Two,,0000,0000,0000,,"Comte", c'est mon titre.
+Dialogue: 0,0:38:26.83,0:38:29.12,One,,0000,0000,0000,,Count is my honorific.
+Dialogue: 0,0:38:28.73,0:38:32.86,Two,,0000,0000,0000,,M'appeler "monsieur" est redondant\Net repr&eacute;sente une insulte &agrave; mon statut.
+Dialogue: 0,0:38:29.20,0:38:33.33,One,,0000,0000,0000,,Calling me "Mr." is not only redundant,\Nit's an insult to my station.
+Dialogue: 0,0:38:32.94,0:38:34.07,Two,,0000,0000,0000,,Qui...
+Dialogue: 0,0:38:33.41,0:38:34.54,One,,0000,0000,0000,,Who...
+Dialogue: 0,0:38:34.86,0:38:38.69,Two,,0000,0000,0000,,Comme on se retrouve.\NVous avez un peu abus&eacute; du fond de teint.
+Dialogue: 0,0:38:35.33,0:38:39.16,One,,0000,0000,0000,,Well, we meet again.\NYou might want to ease up on the bronzer.
+Dialogue: 0,0:38:38.77,0:38:41.23,Two,,0000,0000,0000,,Vous croyez vraiment partir au P&eacute;rou ?
+Dialogue: 0,0:38:39.25,0:38:41.70,One,,0000,0000,0000,,I hope you don't think\Nyou're going to Peru.
+Dialogue: 0,0:38:42.52,0:38:44.02,Two,,0000,0000,0000,,Winifred Coiffeur.
+Dialogue: 0,0:38:43.04,0:38:44.50,One,,0000,0000,0000,,Yessica Haircut.
+Dialogue: 0,0:38:44.11,0:38:46.52,Two,,0000,0000,0000,,Quitter le pays, c'est parfois utile.
+Dialogue: 0,0:38:44.58,0:38:46.91,One,,0000,0000,0000,,I find it helpful to leave the country\Nnow and then.
+Dialogue: 0,0:38:46.61,0:38:50.32,Two,,0000,0000,0000,,Voir des ruines, attendre que la chasse\N&agrave; l'homme se calme, manger du cuy.
+Dialogue: 0,0:38:47.00,0:38:50.79,One,,0000,0000,0000,,See some ruins, wait for the manhunt\Nto die down, eat some cuy.
+Dialogue: 0,0:38:50.40,0:38:54.19,Two,,0000,0000,0000,,Vous ne mangerez pas de cuy,\Nsauf s'ils en servent en prison.
+Dialogue: 0,0:38:50.87,0:38:54.66,One,,0000,0000,0000,,You won't be eating any cuy,\Nunless it's served in a prison cafeteria.
+Dialogue: 0,0:38:54.27,0:38:57.61,Two,,0000,0000,0000,,- Pourquoi je mangerais en prison ?\N- Car je vous y emm&egrave;ne.
+Dialogue: 0,0:38:54.75,0:38:56.62,One,,0000,0000,0000,,Why would I be eating\Nin a prison cafeteria?
+Dialogue: 0,0:38:56.70,0:38:58.04,One,,0000,0000,0000,,Because I'm taking you to prison.
+Dialogue: 0,0:38:57.69,0:38:59.52,Two,,0000,0000,0000,,Eh bien, bonne chance ! Je suis arm&eacute;.
+Dialogue: 0,0:38:58.12,0:39:00.00,One,,0000,0000,0000,,Well, good luck with that. I'm armed.
+Dialogue: 0,0:38:59.61,0:39:01.32,Two,,0000,0000,0000,,Moi aussi.
+Dialogue: 0,0:39:00.08,0:39:01.79,One,,0000,0000,0000,,Hmm. So am I.
+Dialogue: 0,0:39:01.87,0:39:05.54,One,,0000,0000,0000,,- Hmm. Child's play.\N- Adorable.
+Dialogue: 0,0:39:02.19,0:39:05.07,Two,,0000,0000,0000,,- Un jeu d'enfant.\N- Adorable.
+Dialogue: 0,0:39:06.40,0:39:08.57,Two,,0000,0000,0000,,C'est un harpon ?
+Dialogue: 0,0:39:06.87,0:39:09.04,One,,0000,0000,0000,,Is that a harpoon gun?
+Dialogue: 0,0:39:08.65,0:39:10.07,Two,,0000,0000,0000,,Vous ne vous en servirez pas.
+Dialogue: 0,0:39:09.12,0:39:10.54,One,,0000,0000,0000,,You'd never use it.
+Dialogue: 0,0:39:10.15,0:39:12.77,Two,,0000,0000,0000,,La compassion fait partie de vos qualit&eacute;s.
+Dialogue: 0,0:39:10.62,0:39:13.25,One,,0000,0000,0000,,One of your great gifts\Nis your eminent compassion.
+Dialogue: 0,0:39:12.86,0:39:14.65,Two,,0000,0000,0000,,Vous n'&eacute;craseriez pas une araign&eacute;e.
+Dialogue: 0,0:39:13.33,0:39:15.12,One,,0000,0000,0000,,You wouldn't squash a spider.
+Dialogue: 0,0:39:14.73,0:39:16.94,Two,,0000,0000,0000,,J'aime les araign&eacute;es.
+Dialogue: 0,0:39:15.20,0:39:17.41,One,,0000,0000,0000,,I like spiders.
+Dialogue: 0,0:39:17.02,0:39:19.23,Two,,0000,0000,0000,,Tant mieux. Vous en avez une sur l'&eacute;paule.
+Dialogue: 0,0:39:17.50,0:39:19.75,One,,0000,0000,0000,,Well, that's good, because there's one\Non your shoulder right now.
+Dialogue: 0,0:39:19.32,0:39:20.48,Two,,0000,0000,0000,,Je ne marcherai pas.
+Dialogue: 0,0:39:19.83,0:39:20.95,One,,0000,0000,0000,,I'm not falling for that.
+Dialogue: 0,0:39:20.57,0:39:22.32,Two,,0000,0000,0000,,Je suis s&eacute;rieux. L'&eacute;paule gauche.
+Dialogue: 0,0:39:21.04,0:39:22.62,One,,0000,0000,0000,,No, no, I'm serious.\NIt's on your left shoulder.
+Dialogue: 0,0:39:22.40,0:39:24.82,Two,,0000,0000,0000,,C'en est une grosse. Une tarentule ?
+Dialogue: 0,0:39:22.70,0:39:25.29,One,,0000,0000,0000,,It's one of the bigger ones.\NI wanna say tarantula? Ugh.
+Dialogue: 0,0:39:31.91,0:39:35.29,One,,0000,0000,0000,,You're not going anywhere, you snake.
+Dialogue: 0,0:39:32.27,0:39:34.82,Two,,0000,0000,0000,,Vous n'irez nulle part, sale serpent !
+Dialogue: 0,0:39:34.90,0:39:39.27,Two,,0000,0000,0000,,Vous oubliez une chose, Jacquelyn.\NLes serpents muent.
+Dialogue: 0,0:39:35.37,0:39:39.75,One,,0000,0000,0000,,You're forgetting, my dear Jacquelyn,\Nsnakes shed their skin.
+Dialogue: 0,0:39:53.44,0:39:56.69,Two,,0000,0000,0000,,Parfois, tout para&icirc;t absurde.
+Dialogue: 0,0:39:53.91,0:39:56.75,One,,0000,0000,0000,,There are times\Nwhen the entire world seems wrong.
+Dialogue: 0,0:39:56.77,0:40:00.32,Two,,0000,0000,0000,,Par exemple, un laboratoire aux serpents\Nsans serpents...
+Dialogue: 0,0:39:57.25,0:40:00.79,One,,0000,0000,0000,,The way a reptile room\Nwithout any reptiles...
+Dialogue: 0,0:40:01.86,0:40:03.36,Two,,0000,0000,0000,,c'est absurde.
+Dialogue: 0,0:40:02.37,0:40:03.83,One,,0000,0000,0000,,seems wrong.
+Dialogue: 0,0:40:08.15,0:40:12.27,Two,,0000,0000,0000,,Tout comme une biblioth&egrave;que sans livres.
+Dialogue: 0,0:40:08.62,0:40:12.75,One,,0000,0000,0000,,The way a bookshelf without any books\Nseems wrong.
+Dialogue: 0,0:40:14.57,0:40:16.27,Two,,0000,0000,0000,,Ou la maison d'un &ecirc;tre cher...
+Dialogue: 0,0:40:15.04,0:40:16.75,One,,0000,0000,0000,,Or a loved one's house...
+Dialogue: 0,0:40:17.27,0:40:19.40,Two,,0000,0000,0000,,sans l'&ecirc;tre cher.
+Dialogue: 0,0:40:17.75,0:40:19.16,One,,0000,0000,0000,,without the loved one.
+Dialogue: 0,0:40:19.48,0:40:22.19,Two,,0000,0000,0000,,Les Baudelaire n'avaient pas\Nbeaucoup profit&eacute; de Monty,
+Dialogue: 0,0:40:19.95,0:40:22.66,One,,0000,0000,0000,,The Baudelaires weren't given much time\Nwith their Uncle Monty,
+Dialogue: 0,0:40:22.27,0:40:23.86,Two,,0000,0000,0000,,ce qui &eacute;tait injuste.
+Dialogue: 0,0:40:22.75,0:40:24.33,One,,0000,0000,0000,,which seemed wrong.
+Dialogue: 0,0:40:23.94,0:40:25.86,Two,,0000,0000,0000,,Mais pour la premi&egrave;re fois,
+Dialogue: 0,0:40:24.41,0:40:26.08,One,,0000,0000,0000,,Still, for the first time in a long time,
+Dialogue: 0,0:40:25.94,0:40:28.65,Two,,0000,0000,0000,,ils avaient trouv&eacute; un foyer\No&ugrave; tout semblait coh&eacute;rent,
+Dialogue: 0,0:40:26.16,0:40:29.12,One,,0000,0000,0000,,they'd found a place\Nwhere the world seemed right,
+Dialogue: 0,0:40:28.73,0:40:30.69,Two,,0000,0000,0000,,m&ecirc;me si &ccedil;a n'avait pas dur&eacute;.
+Dialogue: 0,0:40:29.20,0:40:31.16,One,,0000,0000,0000,,if only for a short time.
+Dialogue: 0,0:40:32.52,0:40:36.52,Two,,0000,0000,0000,,Mais s'ils avaient go&ucirc;t&eacute; au bonheur,\Npeut-&ecirc;tre allaient-ils le retrouver ?
+Dialogue: 0,0:40:33.00,0:40:37.00,One,,0000,0000,0000,,If they'd found that once,\Nwho's to say they couldn't find it again?
+Dialogue: 0,0:40:58.32,0:41:00.65,Two,,0000,0000,0000,,- Il ne r&eacute;pond pas.\N- Tu as le bon num&eacute;ro ?
+Dialogue: 0,0:40:58.79,0:41:01.08,One,,0000,0000,0000,,- He's not answering.\N- Sure you've got the right number?
+Dialogue: 0,0:41:00.73,0:41:02.73,Two,,0000,0000,0000,,Op&eacute;rateur, vous pouvez r&eacute;essayer ?
+Dialogue: 0,0:41:01.16,0:41:03.20,One,,0000,0000,0000,,Operator, can you check\Nthat number again, please?
+Dialogue: 0,0:41:02.82,0:41:04.27,Two,,0000,0000,0000,,C'est assez urgent.
+Dialogue: 0,0:41:03.29,0:41:04.75,One,,0000,0000,0000,,It's quite urgent.
+Dialogue: 0,0:41:04.36,0:41:07.77,Two,,0000,0000,0000,,Oui, merci. Pr&eacute;nom : Montgomery.\NNom de famille : Montgomery.
+Dialogue: 0,0:41:04.83,0:41:08.25,One,,0000,0000,0000,,Yes. Thank you. First name, Montgomery.\NLast name, Montgomery.
+Dialogue: 0,0:41:07.86,0:41:10.15,Two,,0000,0000,0000,,Non, ce n'est pas une blague.
+Dialogue: 0,0:41:08.33,0:41:10.62,One,,0000,0000,0000,,No, this isn't a crank call.
+Dialogue: 0,0:41:19.15,0:41:21.15,Two,,0000,0000,0000,,Vous pouvez patienter ?
+Dialogue: 0,0:41:19.62,0:41:21.62,One,,0000,0000,0000,,Can I put you on hold for a moment?
+Dialogue: 0,0:41:28.11,0:41:31.23,Two,,0000,0000,0000,,Lequel d'entre vous sait\No&ugrave; on peut affr&eacute;ter un avion ?
+Dialogue: 0,0:41:28.58,0:41:31.70,One,,0000,0000,0000,,Which of you gentlemen knows\Nwhere we might charter a plane?
